@@ -6,7 +6,7 @@ import streamlit as st
 # 한글 폰트 및 마이너스 기호 깨짐 방지 설정
 plt.rcParams["font.family"] = "Malgun Gothic"  # 윈도우 기준 (맥은 'AppleGothic')
 plt.rcParams["axes.unicode_minus"] = False
-
+ 
 
 @st.cache_data
 def load_faf() -> pd.DataFrame:

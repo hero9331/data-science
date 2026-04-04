@@ -7,7 +7,7 @@ import streamlit as st
 plt.rcParams["font.family"] = "Malgun Gothic"  # 윈도우 기준 (맥은 'AppleGothic')
 plt.rcParams["axes.unicode_minus"] = False
 
-
+ 
 @st.cache_data
 def load_faf() -> pd.DataFrame:
     url = "https://github.com/bnn05195/data-science/releases/download/v1.0/FAF5.parquet"

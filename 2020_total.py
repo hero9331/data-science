@@ -34,10 +34,10 @@ def load_sctg2_description() -> dict:
         return {}
 
 
-# 1. 데이터 불러오기
+
 faf_raw = load_faf()
 cpi_raw = load_cpi()
-SCTG2_DESC_MAP = load_sctg2_description()
+SCTG2_DESC_MAP = load_sctg2_description() 
 
 # 2. 결측치 제거 + 트럭 필터링 (실제 CSV 컬럼명 사용)
 #    - FAF: dms_mode (운송수단 코드), sctg2 (품목 코드), tons_2020 (2020년 물동량)
