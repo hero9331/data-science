@@ -10,11 +10,14 @@ plt.rcParams["axes.unicode_minus"] = False
 
 @st.cache_data
 def load_faf() -> pd.DataFrame:
-    return pd.read_csv("data/FAF5.7.1_2018-2024.csv")
+    url = "https://github.com/bnn05195/data-science/releases/download/v1.0/FAF5.parquet"
+    return pd.read_parquet(url)
 
 
 @st.cache_data
 def load_cpi() -> pd.DataFrame:
+    # CPI 데이터는 크기가 작으므로 깃허브에 함께 올렸다고 가정하고 진행합니다.
+    # 만약 이 파일도 못 찾는다고 에러가 나면 이 파일도 깃허브에 꼭 올려주세요.
     return pd.read_csv("data/CPIAUCSL_PC1.csv")
 
 
@@ -31,7 +34,6 @@ def load_sctg2_description() -> dict:
         meta = meta.dropna(subset=["sctg2", "description"])
         return dict(zip(meta["sctg2"].astype(int), meta["description"].astype(str)))
     except Exception:
-        
         return {}
 
 
