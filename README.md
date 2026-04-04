@@ -9,5 +9,5 @@
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   ex) $ streamlit run streamlit_app.py
    ```
