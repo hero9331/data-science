@@ -2,9 +2,18 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+import platform
 
-# 한글 폰트 및 마이너스 기호 깨짐 방지 설정
-plt.rcParams["font.family"] = "Malgun Gothic"  # 윈도우 기준 (맥은 'AppleGothic')
+# 운영체제에 따라 폰트 다르게 설정하기
+os_name = platform.system()
+if os_name == 'Windows':
+    plt.rc('font', family='Malgun Gothic') # 윈도우
+elif os_name == 'Darwin':
+    plt.rc('font', family='AppleGothic')   # 맥(Mac)
+else:
+    plt.rc('font', family='NanumGothic')   # 리눅스 (스트림릿 클라우드)
+
+# 마이너스(-) 기호 깨짐 방지
 plt.rcParams["axes.unicode_minus"] = False
 
 
