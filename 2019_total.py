@@ -4,23 +4,24 @@ import seaborn as sns
 import streamlit as st
 import platform
 
+from faf_parquet import filter_truck, read_faf5_parquet
+
 # 운영체제에 따라 폰트 다르게 설정하기
 os_name = platform.system()
-if os_name == 'Windows':
-    plt.rc('font', family='Malgun Gothic') # 윈도우
-elif os_name == 'Darwin':
-    plt.rc('font', family='AppleGothic')   # 맥(Mac)
+if os_name == "Windows":
+    plt.rc("font", family="Malgun Gothic")  # 윈도우
+elif os_name == "Darwin":
+    plt.rc("font", family="AppleGothic")  # 맥(Mac)
 else:
-    plt.rc('font', family='NanumGothic')   # 리눅스 (스트림릿 클라우드)
+    plt.rc("font", family="NanumGothic")  # 리눅스 (스트림릿 클라우드)
 
 # 마이너스(-) 기호 깨짐 방지
 plt.rcParams["axes.unicode_minus"] = False
- 
+
 
 @st.cache_data
 def load_faf() -> pd.DataFrame:
-    url = "https://github.com/bnn05195/data-science/releases/download/v1.0/FAF5.parquet"
-    return pd.read_parquet(url)
+    return read_faf5_parquet()
 
 
 @st.cache_data
@@ -48,8 +49,7 @@ faf_raw = load_faf()
 cpi_raw = load_cpi()
 SCTG2_DESC_MAP = load_sctg2_description()
 
-# 2. 결측치 제거 + 트럭 필터링 (실제 CSV 컬럼명 사용)
-#    - FAF: dms_mode (운송수단 코드), sctg2 (품목 코드), tons_2019 (2019년 물동량)
+# 2. 결측치 제거 + 트럭 필터링
 required_cols = ["dms_mode", "sctg2", "tons_2019"]
 missing_cols = [c for c in required_cols if c not in faf_raw.columns]
 
@@ -57,15 +57,13 @@ if missing_cols:
     st.error(f"FAF 데이터에 필요한 컬럼이 없습니다: {missing_cols}")
     st.stop()
 
-# (1) 필요한 컬럼 기준 결측치 제거
 clean_df = faf_raw.dropna(subset=required_cols)
-
-# (2) 트럭만 필터링: 메타 기준 dms_mode == 1 을 트럭으로 가정
-truck_df = clean_df[clean_df["dms_mode"].astype(str) == "1"].copy()
+truck_df = filter_truck(clean_df)
 
 # 정제 전/후 데이터 개수 비교
 col1, col2, col3 = st.columns(3)
 col1.metric(label="정제 전 (원본) 행 수", value=f"{len(faf_raw):,}")
+col2.metric(label="결측치 제거 후 행 수", value=f"{len(clean_df):,}")
 col3.metric(label="트럭 필터링 후 행 수", value=f"{len(truck_df):,}")
 
 # 3. 2019년 트럭 운송 품목 전체 가로 막대 그래프
@@ -139,5 +137,5 @@ st.write("부연 설명")
 st.write("")
 st.write("- `label`: 품목 코드(`sctg2`)에 해당하는 품목 설명(없으면 코드 그대로 표시). 막대의 y축입니다.")
 st.write("- `tons_2019`: 2019년 트럭 운송 물동량 합계. 단위는 `thousand tons`(천 톤)이며 막대의 x축입니다.")
-st.write("- 트럭 추출 기준: `dms_mode == 1` 인 행만 사용합니다.")
-st.write("- 결측치 제거 기준: `dms_mode`, `sctg2`, `tons_2019` 중 하나라도 NaN이면 해당 행을 제외합니다.")
+st.write("- 트럭 추출: `faf_parquet.filter_truck` → `dms_mode == 1`.")
+st.write("- 결측치 제거: `dms_mode`, `sctg2`, 해당 연도 `tons_연도` 중 하나라도 NaN이면 해당 행을 제외한 뒤 트럭만 필터링합니다.")
