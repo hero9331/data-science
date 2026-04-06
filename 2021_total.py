@@ -64,7 +64,6 @@ truck_df = filter_truck(clean_df)
 # 정제 전/후 데이터 개수 비교
 col1, col2, col3 = st.columns(3)
 col1.metric(label="정제 전 (원본) 행 수", value=f"{len(faf_raw):,}")
-col2.metric(label="결측치 제거 후 행 수", value=f"{len(clean_df):,}")
 col3.metric(label="트럭 필터링 후 행 수", value=f"{len(truck_df):,}")
 
 # 3. 2021년 트럭 운송 품목 전체 가로 막대 그래프
