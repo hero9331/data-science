@@ -9,5 +9,6 @@
 2. Run the app
 
    ```
-   ex) $ streamlit run streamlit_app.py
+   ex) $ py -m streamlit run 2023_total.py
+
    ```
