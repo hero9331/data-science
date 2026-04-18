@@ -1,0 +1,2494 @@
+﻿origin_state,origin_state_name,dest_state,dest_state_name,feature_year,prediction_year,selected_model,predicted_tons
+48,Texas,48,Texas,2024,2025,linear_regression,1539488.8646026647
+6,California,6,California,2024,2025,linear_regression,778367.2516326116
+12,Florida,12,Florida,2024,2025,linear_regression,592018.3086049953
+17,Illinois,17,Illinois,2024,2025,linear_regression,488571.1797333957
+39,Ohio,39,Ohio,2024,2025,linear_regression,357607.9730872774
+36,New York,36,New York,2024,2025,linear_regression,337488.0735393829
+19,Iowa,19,Iowa,2024,2025,linear_regression,306957.9470890785
+27,Minnesota,27,Minnesota,2024,2025,linear_regression,306616.7991246073
+42,Pennsylvania,42,Pennsylvania,2024,2025,linear_regression,305413.033410644
+55,Wisconsin,55,Wisconsin,2024,2025,linear_regression,301072.59248235833
+13,Georgia,13,Georgia,2024,2025,linear_regression,292424.5961060468
+18,Indiana,18,Indiana,2024,2025,linear_regression,263647.5069999967
+26,Michigan,26,Michigan,2024,2025,linear_regression,263453.87504797126
+53,Washington,53,Washington,2024,2025,linear_regression,254897.37100685915
+37,North Carolina,37,North Carolina,2024,2025,linear_regression,243522.48094537528
+22,Louisiana,22,Louisiana,2024,2025,linear_regression,226775.5270594958
+51,Virginia,51,Virginia,2024,2025,linear_regression,224383.17529506187
+47,Tennessee,47,Tennessee,2024,2025,linear_regression,214374.95770338463
+31,Nebraska,31,Nebraska,2024,2025,linear_regression,207151.1246841626
+29,Missouri,29,Missouri,2024,2025,linear_regression,190200.86283877032
+20,Kansas,20,Kansas,2024,2025,linear_regression,182463.38377719963
+34,New Jersey,34,New Jersey,2024,2025,linear_regression,172539.06512833093
+1,Alabama,1,Alabama,2024,2025,linear_regression,171200.70792864737
+45,South Carolina,45,South Carolina,2024,2025,linear_regression,154868.63720730026
+41,Oregon,41,Oregon,2024,2025,linear_regression,149981.0606963377
+5,Arkansas,5,Arkansas,2024,2025,linear_regression,144276.09941313294
+8,Colorado,8,Colorado,2024,2025,linear_regression,138864.56414260142
+21,Kentucky,21,Kentucky,2024,2025,linear_regression,134344.38266052585
+40,Oklahoma,40,Oklahoma,2024,2025,linear_regression,123242.67856522727
+24,Maryland,24,Maryland,2024,2025,linear_regression,120484.91864159619
+4,Arizona,4,Arizona,2024,2025,linear_regression,120348.03907872971
+25,Massachusetts,25,Massachusetts,2024,2025,linear_regression,111599.05157841972
+38,North Dakota,38,North Dakota,2024,2025,linear_regression,85714.65883282607
+46,South Dakota,46,South Dakota,2024,2025,linear_regression,85656.07706756267
+28,Mississippi,28,Mississippi,2024,2025,linear_regression,84947.4665638015
+16,Idaho,16,Idaho,2024,2025,linear_regression,82484.60898126174
+49,Utah,49,Utah,2024,2025,linear_regression,81704.1281890264
+9,Connecticut,9,Connecticut,2024,2025,linear_regression,77911.22630865745
+54,West Virginia,54,West Virginia,2024,2025,linear_regression,63799.54483703404
+32,Nevada,32,Nevada,2024,2025,linear_regression,57486.78172564722
+23,Maine,23,Maine,2024,2025,linear_regression,49768.62360335035
+35,New Mexico,35,New Mexico,2024,2025,linear_regression,39604.65939509208
+33,New Hampshire,33,New Hampshire,2024,2025,linear_regression,35676.165339348736
+30,Montana,30,Montana,2024,2025,linear_regression,35330.52567183843
+42,Pennsylvania,34,New Jersey,2024,2025,linear_regression,30430.912681414855
+19,Iowa,27,Minnesota,2024,2025,linear_regression,29331.737765840015
+34,New Jersey,36,New York,2024,2025,linear_regression,27970.223167459524
+17,Illinois,18,Indiana,2024,2025,linear_regression,27945.09641375496
+34,New Jersey,42,Pennsylvania,2024,2025,linear_regression,26076.157621737126
+15,Hawaii,15,Hawaii,2024,2025,linear_regression,26062.372252894264
+36,New York,42,Pennsylvania,2024,2025,linear_regression,24851.963689399978
+18,Indiana,17,Illinois,2024,2025,linear_regression,24170.69655121966
+42,Pennsylvania,36,New York,2024,2025,linear_regression,22915.26990348402
+13,Georgia,12,Florida,2024,2025,linear_regression,20630.67616321544
+55,Wisconsin,27,Minnesota,2024,2025,linear_regression,20494.247195986438
+42,Pennsylvania,24,Maryland,2024,2025,linear_regression,20286.023985985572
+39,Ohio,18,Indiana,2024,2025,linear_regression,20246.164827642435
+41,Oregon,53,Washington,2024,2025,linear_regression,20238.538533285053
+18,Indiana,39,Ohio,2024,2025,linear_regression,19701.99124059242
+10,Delaware,10,Delaware,2024,2025,linear_regression,19585.178772954197
+27,Minnesota,55,Wisconsin,2024,2025,linear_regression,19364.98505157752
+48,Texas,37,North Carolina,2024,2025,linear_regression,19005.52952960604
+40,Oklahoma,48,Texas,2024,2025,linear_regression,18836.074044731344
+48,Texas,40,Oklahoma,2024,2025,linear_regression,18693.583204612398
+44,Rhode Island,44,Rhode Island,2024,2025,linear_regression,18611.194126625334
+26,Michigan,18,Indiana,2024,2025,linear_regression,18472.52840367874
+42,Pennsylvania,39,Ohio,2024,2025,linear_regression,17987.623279505086
+56,Wyoming,56,Wyoming,2024,2025,linear_regression,17872.10141167347
+36,New York,34,New Jersey,2024,2025,linear_regression,17609.66077937931
+55,Wisconsin,17,Illinois,2024,2025,linear_regression,17095.111148547032
+17,Illinois,55,Wisconsin,2024,2025,linear_regression,16946.642987420368
+37,North Carolina,45,South Carolina,2024,2025,linear_regression,16470.398399117763
+26,Michigan,39,Ohio,2024,2025,linear_regression,16080.768626694546
+37,North Carolina,51,Virginia,2024,2025,linear_regression,15922.605505896296
+2,Alaska,2,Alaska,2024,2025,linear_regression,15892.78096579741
+22,Louisiana,48,Texas,2024,2025,linear_regression,15869.247277589046
+17,Illinois,29,Missouri,2024,2025,linear_regression,15486.283279391555
+18,Indiana,26,Michigan,2024,2025,linear_regression,15379.862775710193
+24,Maryland,51,Virginia,2024,2025,linear_regression,15313.560032909732
+48,Texas,22,Louisiana,2024,2025,linear_regression,14938.845624083038
+45,South Carolina,37,North Carolina,2024,2025,linear_regression,14689.973060835211
+39,Ohio,26,Michigan,2024,2025,linear_regression,14556.061095388231
+53,Washington,41,Oregon,2024,2025,linear_regression,14404.880457589665
+39,Ohio,42,Pennsylvania,2024,2025,linear_regression,13811.004678008107
+50,Vermont,50,Vermont,2024,2025,linear_regression,13748.263516975938
+1,Alabama,13,Georgia,2024,2025,linear_regression,13073.394494377259
+51,Virginia,37,North Carolina,2024,2025,linear_regression,12861.666526427965
+6,California,32,Nevada,2024,2025,linear_regression,12822.122215828513
+27,Minnesota,19,Iowa,2024,2025,linear_regression,12514.824066856221
+12,Florida,13,Georgia,2024,2025,linear_regression,12163.037925600544
+29,Missouri,17,Illinois,2024,2025,linear_regression,12154.298102452762
+19,Iowa,31,Nebraska,2024,2025,linear_regression,12027.995420918043
+47,Tennessee,13,Georgia,2024,2025,linear_regression,12020.02325788885
+39,Ohio,21,Kentucky,2024,2025,linear_regression,11892.190779207089
+13,Georgia,47,Tennessee,2024,2025,linear_regression,11703.926715834848
+25,Massachusetts,33,New Hampshire,2024,2025,linear_regression,11637.166785408004
+27,Minnesota,38,North Dakota,2024,2025,linear_regression,11630.377850524696
+13,Georgia,1,Alabama,2024,2025,linear_regression,11522.06576480081
+48,Texas,6,California,2024,2025,linear_regression,11507.792746241874
+24,Maryland,42,Pennsylvania,2024,2025,linear_regression,11505.365262179286
+45,South Carolina,13,Georgia,2024,2025,linear_regression,11307.23992665057
+6,California,4,Arizona,2024,2025,linear_regression,11231.10897810628
+18,Indiana,21,Kentucky,2024,2025,linear_regression,11205.480384697064
+31,Nebraska,19,Iowa,2024,2025,linear_regression,11176.974451359933
+17,Illinois,26,Michigan,2024,2025,linear_regression,11087.248530521618
+20,Kansas,29,Missouri,2024,2025,linear_regression,11064.098920959088
+47,Tennessee,21,Kentucky,2024,2025,linear_regression,10768.489998925834
+13,Georgia,45,South Carolina,2024,2025,linear_regression,10722.32868028143
+48,Texas,36,New York,2024,2025,linear_regression,10298.725479001609
+4,Arizona,6,California,2024,2025,linear_regression,10100.089175005873
+48,Texas,13,Georgia,2024,2025,linear_regression,10088.502964075185
+40,Oklahoma,20,Kansas,2024,2025,linear_regression,10029.531691685897
+51,Virginia,24,Maryland,2024,2025,linear_regression,9964.20929547317
+13,Georgia,37,North Carolina,2024,2025,linear_regression,9802.923938154054
+6,California,48,Texas,2024,2025,linear_regression,9775.35715585604
+19,Iowa,17,Illinois,2024,2025,linear_regression,9642.85906045332
+21,Kentucky,47,Tennessee,2024,2025,linear_regression,9472.221649542473
+47,Tennessee,28,Mississippi,2024,2025,linear_regression,9388.015460413728
+9,Connecticut,36,New York,2024,2025,linear_regression,9009.851951625235
+38,North Dakota,27,Minnesota,2024,2025,linear_regression,8814.2654291537
+21,Kentucky,39,Ohio,2024,2025,linear_regression,8694.463603253698
+29,Missouri,20,Kansas,2024,2025,linear_regression,8657.838120727476
+21,Kentucky,18,Indiana,2024,2025,linear_regression,8644.316606589218
+17,Illinois,19,Iowa,2024,2025,linear_regression,8497.236080442257
+26,Michigan,17,Illinois,2024,2025,linear_regression,8166.227172358594
+26,Michigan,55,Wisconsin,2024,2025,linear_regression,8159.3721983594405
+5,Arkansas,48,Texas,2024,2025,linear_regression,8025.5747534441025
+48,Texas,35,New Mexico,2024,2025,linear_regression,7943.468030294786
+48,Texas,26,Michigan,2024,2025,linear_regression,7834.935920181061
+28,Mississippi,1,Alabama,2024,2025,linear_regression,7732.359739978832
+1,Alabama,28,Mississippi,2024,2025,linear_regression,7698.604798283942
+20,Kansas,31,Nebraska,2024,2025,linear_regression,7693.247353358832
+41,Oregon,6,California,2024,2025,linear_regression,7622.356593177161
+17,Illinois,48,Texas,2024,2025,linear_regression,7557.136293619339
+37,North Carolina,13,Georgia,2024,2025,linear_regression,7548.078048432948
+1,Alabama,12,Florida,2024,2025,linear_regression,7506.173657257941
+1,Alabama,47,Tennessee,2024,2025,linear_regression,7290.007911296918
+9,Connecticut,25,Massachusetts,2024,2025,linear_regression,7285.002421183678
+25,Massachusetts,36,New York,2024,2025,linear_regression,7245.624759549591
+17,Illinois,39,Ohio,2024,2025,linear_regression,7092.016184958753
+47,Tennessee,37,North Carolina,2024,2025,linear_regression,6900.693548792757
+47,Tennessee,1,Alabama,2024,2025,linear_regression,6798.875411876478
+46,South Dakota,31,Nebraska,2024,2025,linear_regression,6579.855398817156
+51,Virginia,42,Pennsylvania,2024,2025,linear_regression,6551.915953596386
+48,Texas,12,Florida,2024,2025,linear_regression,6518.28252143307
+44,Rhode Island,25,Massachusetts,2024,2025,linear_regression,6460.521295420012
+28,Mississippi,22,Louisiana,2024,2025,linear_regression,6435.593907777212
+39,Ohio,17,Illinois,2024,2025,linear_regression,6356.5378077577625
+6,California,39,Ohio,2024,2025,linear_regression,6351.0749669256365
+6,California,53,Washington,2024,2025,linear_regression,6350.626459812775
+22,Louisiana,28,Mississippi,2024,2025,linear_regression,6343.042165522942
+20,Kansas,40,Oklahoma,2024,2025,linear_regression,6287.9703056751205
+30,Montana,16,Idaho,2024,2025,linear_regression,6236.55241143217
+48,Texas,17,Illinois,2024,2025,linear_regression,6205.134928039672
+32,Nevada,6,California,2024,2025,linear_regression,6063.988143890209
+46,South Dakota,38,North Dakota,2024,2025,linear_regression,6023.945516540813
+53,Washington,6,California,2024,2025,linear_regression,6014.040736194972
+48,Texas,29,Missouri,2024,2025,linear_regression,5975.190314734518
+26,Michigan,48,Texas,2024,2025,linear_regression,5965.202373601543
+35,New Mexico,48,Texas,2024,2025,linear_regression,5963.506518429416
+55,Wisconsin,26,Michigan,2024,2025,linear_regression,5762.139677049427
+31,Nebraska,8,Colorado,2024,2025,linear_regression,5713.675450135036
+48,Texas,49,Utah,2024,2025,linear_regression,5574.196735701969
+46,South Dakota,19,Iowa,2024,2025,linear_regression,5552.432357206947
+39,Ohio,36,New York,2024,2025,linear_regression,5548.908550866109
+13,Georgia,48,Texas,2024,2025,linear_regression,5421.8197659229745
+47,Tennessee,5,Arkansas,2024,2025,linear_regression,5353.995004206402
+25,Massachusetts,9,Connecticut,2024,2025,linear_regression,5334.673163607573
+36,New York,39,Ohio,2024,2025,linear_regression,5239.374127881825
+29,Missouri,5,Arkansas,2024,2025,linear_regression,5144.512158083515
+39,Ohio,48,Texas,2024,2025,linear_regression,5130.582698322615
+31,Nebraska,20,Kansas,2024,2025,linear_regression,5106.108413394627
+42,Pennsylvania,10,Delaware,2024,2025,linear_regression,5087.689774557974
+42,Pennsylvania,51,Virginia,2024,2025,linear_regression,5078.211005049106
+54,West Virginia,39,Ohio,2024,2025,linear_regression,4952.345825878364
+24,Maryland,10,Delaware,2024,2025,linear_regression,4865.104636887042
+37,North Carolina,47,Tennessee,2024,2025,linear_regression,4857.756841084511
+6,California,49,Utah,2024,2025,linear_regression,4850.204835074048
+48,Texas,5,Arkansas,2024,2025,linear_regression,4800.971732402566
+38,North Dakota,46,South Dakota,2024,2025,linear_regression,4764.913923026337
+33,New Hampshire,25,Massachusetts,2024,2025,linear_regression,4756.361603582905
+54,West Virginia,51,Virginia,2024,2025,linear_regression,4754.451040548688
+19,Iowa,55,Wisconsin,2024,2025,linear_regression,4745.065420152475
+6,California,41,Oregon,2024,2025,linear_regression,4729.300366199992
+17,Illinois,6,California,2024,2025,linear_regression,4658.842359966923
+12,Florida,1,Alabama,2024,2025,linear_regression,4652.141172400497
+51,Virginia,54,West Virginia,2024,2025,linear_regression,4643.469289066264
+16,Idaho,53,Washington,2024,2025,linear_regression,4632.248467217371
+27,Minnesota,46,South Dakota,2024,2025,linear_regression,4496.919596644145
+48,Texas,39,Ohio,2024,2025,linear_regression,4478.723624565612
+18,Indiana,55,Wisconsin,2024,2025,linear_regression,4476.56012867934
+17,Illinois,27,Minnesota,2024,2025,linear_regression,4467.312768510843
+54,West Virginia,42,Pennsylvania,2024,2025,linear_regression,4408.252784797192
+36,New York,25,Massachusetts,2024,2025,linear_regression,4378.779361445197
+20,Kansas,48,Texas,2024,2025,linear_regression,4363.939791806962
+42,Pennsylvania,54,West Virginia,2024,2025,linear_regression,4342.30345049805
+11,Washington DC,11,Washington DC,2024,2025,linear_regression,4181.055299909599
+47,Tennessee,45,South Carolina,2024,2025,linear_regression,4146.631964934296
+16,Idaho,30,Montana,2024,2025,linear_regression,4116.272174132075
+34,New Jersey,24,Maryland,2024,2025,linear_regression,4068.258860464065
+49,Utah,6,California,2024,2025,linear_regression,4040.0232360979376
+48,Texas,8,Colorado,2024,2025,linear_regression,4002.5764164983498
+17,Illinois,21,Kentucky,2024,2025,linear_regression,3977.9015752964424
+6,California,26,Michigan,2024,2025,linear_regression,3963.9266269830273
+19,Iowa,29,Missouri,2024,2025,linear_regression,3956.1200166066033
+8,Colorado,56,Wyoming,2024,2025,linear_regression,3944.2768935037498
+10,Delaware,24,Maryland,2024,2025,linear_regression,3920.626661894721
+47,Tennessee,48,Texas,2024,2025,linear_regression,3917.6473788813464
+5,Arkansas,22,Louisiana,2024,2025,linear_regression,3905.5702235696453
+36,New York,9,Connecticut,2024,2025,linear_regression,3881.2939982163234
+48,Texas,47,Tennessee,2024,2025,linear_regression,3858.228187614513
+6,California,17,Illinois,2024,2025,linear_regression,3797.4398841265875
+5,Arkansas,40,Oklahoma,2024,2025,linear_regression,3710.5655436568577
+29,Missouri,48,Texas,2024,2025,linear_regression,3666.5725286935995
+55,Wisconsin,19,Iowa,2024,2025,linear_regression,3653.677911272233
+18,Indiana,48,Texas,2024,2025,linear_regression,3637.0146714446746
+27,Minnesota,17,Illinois,2024,2025,linear_regression,3633.2453751253533
+27,Minnesota,31,Nebraska,2024,2025,linear_regression,3592.705003674237
+25,Massachusetts,44,Rhode Island,2024,2025,linear_regression,3579.3515563919314
+21,Kentucky,17,Illinois,2024,2025,linear_regression,3571.3408353969635
+17,Illinois,42,Pennsylvania,2024,2025,linear_regression,3506.278730341561
+1,Alabama,48,Texas,2024,2025,linear_regression,3464.42603558225
+40,Oklahoma,29,Missouri,2024,2025,linear_regression,3442.657291562495
+37,North Carolina,12,Florida,2024,2025,linear_regression,3416.8143090746
+42,Pennsylvania,18,Indiana,2024,2025,linear_regression,3395.0788543444464
+19,Iowa,46,South Dakota,2024,2025,linear_regression,3384.5924595739366
+48,Texas,4,Arizona,2024,2025,linear_regression,3363.9146234153854
+5,Arkansas,47,Tennessee,2024,2025,linear_regression,3294.03710428078
+28,Mississippi,48,Texas,2024,2025,linear_regression,3255.791158321154
+10,Delaware,42,Pennsylvania,2024,2025,linear_regression,3245.1542519880772
+39,Ohio,54,West Virginia,2024,2025,linear_regression,3238.4253639239187
+40,Oklahoma,5,Arkansas,2024,2025,linear_regression,3234.5665916620283
+39,Ohio,6,California,2024,2025,linear_regression,3234.211692901208
+39,Ohio,13,Georgia,2024,2025,linear_regression,3211.385055485407
+55,Wisconsin,18,Indiana,2024,2025,linear_regression,3193.796218201279
+28,Mississippi,47,Tennessee,2024,2025,linear_regression,3115.673491436067
+48,Texas,42,Pennsylvania,2024,2025,linear_regression,3106.7242363963715
+21,Kentucky,51,Virginia,2024,2025,linear_regression,3104.0463141283035
+50,Vermont,33,New Hampshire,2024,2025,linear_regression,3103.145758567645
+29,Missouri,40,Oklahoma,2024,2025,linear_regression,3083.9699115329386
+34,New Jersey,9,Connecticut,2024,2025,linear_regression,3074.114731669055
+39,Ohio,51,Virginia,2024,2025,linear_regression,3011.8193282641796
+39,Ohio,55,Wisconsin,2024,2025,linear_regression,3007.373928940636
+53,Washington,16,Idaho,2024,2025,linear_regression,2992.7985430892527
+17,Illinois,13,Georgia,2024,2025,linear_regression,2961.4959425970524
+12,Florida,48,Texas,2024,2025,linear_regression,2947.9254992040533
+56,Wyoming,30,Montana,2024,2025,linear_regression,2943.434625202084
+42,Pennsylvania,17,Illinois,2024,2025,linear_regression,2930.365683854395
+6,California,13,Georgia,2024,2025,linear_regression,2926.770227008022
+46,South Dakota,27,Minnesota,2024,2025,linear_regression,2920.214592236644
+45,South Carolina,47,Tennessee,2024,2025,linear_regression,2907.6484875630795
+51,Virginia,39,Ohio,2024,2025,linear_regression,2901.4186487333723
+39,Ohio,47,Tennessee,2024,2025,linear_regression,2879.0767864054883
+26,Michigan,21,Kentucky,2024,2025,linear_regression,2870.2802332532724
+42,Pennsylvania,48,Texas,2024,2025,linear_regression,2854.235163232331
+29,Missouri,19,Iowa,2024,2025,linear_regression,2853.3764845415126
+24,Maryland,34,New Jersey,2024,2025,linear_regression,2846.4650342874843
+34,New Jersey,39,Ohio,2024,2025,linear_regression,2844.0429504069975
+8,Colorado,6,California,2024,2025,linear_regression,2838.2538757967372
+5,Arkansas,29,Missouri,2024,2025,linear_regression,2806.3127816238725
+26,Michigan,42,Pennsylvania,2024,2025,linear_regression,2800.122944661667
+42,Pennsylvania,13,Georgia,2024,2025,linear_regression,2784.891671783477
+18,Indiana,47,Tennessee,2024,2025,linear_regression,2767.6668452799972
+56,Wyoming,8,Colorado,2024,2025,linear_regression,2697.2529365909986
+20,Kansas,17,Illinois,2024,2025,linear_regression,2685.4289494592517
+23,Maine,33,New Hampshire,2024,2025,linear_regression,2683.4025837788745
+37,North Carolina,42,Pennsylvania,2024,2025,linear_regression,2671.972332559559
+23,Maine,25,Massachusetts,2024,2025,linear_regression,2666.5511227533407
+49,Utah,16,Idaho,2024,2025,linear_regression,2659.634984040851
+42,Pennsylvania,26,Michigan,2024,2025,linear_regression,2645.200962911284
+28,Mississippi,5,Arkansas,2024,2025,linear_regression,2613.2370255410397
+37,North Carolina,48,Texas,2024,2025,linear_regression,2576.8577592390116
+26,Michigan,6,California,2024,2025,linear_regression,2575.51059536615
+47,Tennessee,18,Indiana,2024,2025,linear_regression,2568.038291662212
+42,Pennsylvania,25,Massachusetts,2024,2025,linear_regression,2567.6406226943886
+34,New Jersey,25,Massachusetts,2024,2025,linear_regression,2544.479069924007
+34,New Jersey,17,Illinois,2024,2025,linear_regression,2542.8437226594574
+8,Colorado,48,Texas,2024,2025,linear_regression,2539.813704967469
+25,Massachusetts,39,Ohio,2024,2025,linear_regression,2539.5732693034834
+17,Illinois,12,Florida,2024,2025,linear_regression,2532.229594195569
+21,Kentucky,48,Texas,2024,2025,linear_regression,2517.2141341705587
+21,Kentucky,13,Georgia,2024,2025,linear_regression,2502.0457771235283
+42,Pennsylvania,9,Connecticut,2024,2025,linear_regression,2454.8345169367167
+18,Indiana,42,Pennsylvania,2024,2025,linear_regression,2453.8257793672155
+55,Wisconsin,39,Ohio,2024,2025,linear_regression,2434.3600955900265
+25,Massachusetts,23,Maine,2024,2025,linear_regression,2433.5662075951936
+55,Wisconsin,48,Texas,2024,2025,linear_regression,2430.86666669303
+34,New Jersey,48,Texas,2024,2025,linear_regression,2421.7665652250457
+17,Illinois,22,Louisiana,2024,2025,linear_regression,2414.616627932225
+6,California,47,Tennessee,2024,2025,linear_regression,2403.084528432941
+4,Arizona,48,Texas,2024,2025,linear_regression,2395.2637286570707
+51,Virginia,36,New York,2024,2025,linear_regression,2394.705922225394
+10,Delaware,34,New Jersey,2024,2025,linear_regression,2382.632889660349
+37,North Carolina,36,New York,2024,2025,linear_regression,2349.6791604098676
+48,Texas,21,Kentucky,2024,2025,linear_regression,2339.820528604945
+6,California,18,Indiana,2024,2025,linear_regression,2330.6934478040107
+20,Kansas,8,Colorado,2024,2025,linear_regression,2323.838564375545
+22,Louisiana,1,Alabama,2024,2025,linear_regression,2320.674914222059
+48,Texas,1,Alabama,2024,2025,linear_regression,2308.6253931916503
+17,Illinois,51,Virginia,2024,2025,linear_regression,2304.6169739206257
+9,Connecticut,34,New Jersey,2024,2025,linear_regression,2303.524227197361
+48,Texas,28,Mississippi,2024,2025,linear_regression,2302.8462197411027
+54,West Virginia,24,Maryland,2024,2025,linear_regression,2291.362304822601
+33,New Hampshire,23,Maine,2024,2025,linear_regression,2290.1813156976
+47,Tennessee,6,California,2024,2025,linear_regression,2288.1077497807746
+6,California,8,Colorado,2024,2025,linear_regression,2287.8233227774176
+19,Iowa,20,Kansas,2024,2025,linear_regression,2284.2710903181933
+55,Wisconsin,6,California,2024,2025,linear_regression,2282.093765702975
+21,Kentucky,37,North Carolina,2024,2025,linear_regression,2280.3861335788165
+17,Illinois,47,Tennessee,2024,2025,linear_regression,2275.6416141480668
+21,Kentucky,26,Michigan,2024,2025,linear_regression,2266.1056019558955
+48,Texas,20,Kansas,2024,2025,linear_regression,2259.1436295762574
+36,New York,17,Illinois,2024,2025,linear_regression,2254.4261239482034
+39,Ohio,37,North Carolina,2024,2025,linear_regression,2246.3482854224158
+29,Missouri,6,California,2024,2025,linear_regression,2240.717974183305
+12,Florida,45,South Carolina,2024,2025,linear_regression,2237.151394276634
+23,Maine,36,New York,2024,2025,linear_regression,2236.52034768397
+42,Pennsylvania,37,North Carolina,2024,2025,linear_regression,2236.2870708952173
+16,Idaho,49,Utah,2024,2025,linear_regression,2218.7209002176883
+5,Arkansas,13,Georgia,2024,2025,linear_regression,2187.59322970567
+36,New York,48,Texas,2024,2025,linear_regression,2186.3536663136074
+47,Tennessee,39,Ohio,2024,2025,linear_regression,2185.725543557105
+45,South Carolina,12,Florida,2024,2025,linear_regression,2174.511857911032
+42,Pennsylvania,12,Florida,2024,2025,linear_regression,2151.2240335667066
+23,Maine,34,New Jersey,2024,2025,linear_regression,2148.7410537396777
+13,Georgia,17,Illinois,2024,2025,linear_regression,2122.5985040393766
+47,Tennessee,17,Illinois,2024,2025,linear_regression,2118.7063811160083
+41,Oregon,16,Idaho,2024,2025,linear_regression,2116.1319606655074
+13,Georgia,39,Ohio,2024,2025,linear_regression,2111.647786966208
+37,North Carolina,39,Ohio,2024,2025,linear_regression,2106.871539417709
+18,Indiana,27,Minnesota,2024,2025,linear_regression,2097.704580239794
+1,Alabama,22,Louisiana,2024,2025,linear_regression,2093.4438612034933
+39,Ohio,34,New Jersey,2024,2025,linear_regression,2091.2443802247585
+4,Arizona,32,Nevada,2024,2025,linear_regression,2081.9327338674457
+8,Colorado,31,Nebraska,2024,2025,linear_regression,2066.339000359618
+21,Kentucky,54,West Virginia,2024,2025,linear_regression,2064.0201692449045
+13,Georgia,28,Mississippi,2024,2025,linear_regression,2032.0073080104726
+51,Virginia,34,New Jersey,2024,2025,linear_regression,2024.9126862635785
+24,Maryland,36,New York,2024,2025,linear_regression,2019.9735844316501
+34,New Jersey,10,Delaware,2024,2025,linear_regression,2015.7765042071028
+39,Ohio,19,Iowa,2024,2025,linear_regression,2008.6164774974857
+29,Missouri,18,Indiana,2024,2025,linear_regression,2007.6820510588077
+22,Louisiana,13,Georgia,2024,2025,linear_regression,2001.4436443140346
+31,Nebraska,46,South Dakota,2024,2025,linear_regression,1996.9827276615858
+18,Indiana,13,Georgia,2024,2025,linear_regression,1962.343505811801
+29,Missouri,31,Nebraska,2024,2025,linear_regression,1940.550238865076
+39,Ohio,29,Missouri,2024,2025,linear_regression,1923.169586140987
+47,Tennessee,12,Florida,2024,2025,linear_regression,1912.767502267942
+48,Texas,34,New Jersey,2024,2025,linear_regression,1905.6250098786566
+30,Montana,56,Wyoming,2024,2025,linear_regression,1904.210186902571
+26,Michigan,47,Tennessee,2024,2025,linear_regression,1897.5440912846934
+8,Colorado,49,Utah,2024,2025,linear_regression,1895.6425571006455
+18,Indiana,29,Missouri,2024,2025,linear_regression,1878.0326931525344
+24,Maryland,11,Washington DC,2024,2025,linear_regression,1877.9071762114088
+9,Connecticut,42,Pennsylvania,2024,2025,linear_regression,1874.4589028513683
+6,California,29,Missouri,2024,2025,linear_regression,1872.527460152477
+47,Tennessee,51,Virginia,2024,2025,linear_regression,1868.2867594209472
+51,Virginia,13,Georgia,2024,2025,linear_regression,1858.346805437635
+47,Tennessee,29,Missouri,2024,2025,linear_regression,1857.0996578383995
+12,Florida,37,North Carolina,2024,2025,linear_regression,1851.0531324197825
+21,Kentucky,42,Pennsylvania,2024,2025,linear_regression,1849.7625401347152
+48,Texas,55,Wisconsin,2024,2025,linear_regression,1845.8472527817967
+45,South Carolina,48,Texas,2024,2025,linear_regression,1833.489100786495
+17,Illinois,36,New York,2024,2025,linear_regression,1800.5685112597703
+36,New York,51,Virginia,2024,2025,linear_regression,1798.940583951436
+1,Alabama,39,Ohio,2024,2025,linear_regression,1763.8252361579218
+18,Indiana,36,New York,2024,2025,linear_regression,1755.4839407183813
+18,Indiana,19,Iowa,2024,2025,linear_regression,1754.9621568634814
+28,Mississippi,13,Georgia,2024,2025,linear_regression,1749.068459840564
+56,Wyoming,49,Utah,2024,2025,linear_regression,1747.2630622336083
+6,California,21,Kentucky,2024,2025,linear_regression,1744.1669793844794
+36,New York,12,Florida,2024,2025,linear_regression,1741.1762105678652
+48,Texas,18,Indiana,2024,2025,linear_regression,1738.4920150109715
+49,Utah,32,Nevada,2024,2025,linear_regression,1705.9064997490698
+29,Missouri,47,Tennessee,2024,2025,linear_regression,1705.5934433649647
+51,Virginia,12,Florida,2024,2025,linear_regression,1701.5181165582792
+5,Arkansas,28,Mississippi,2024,2025,linear_regression,1690.3942100287245
+22,Louisiana,17,Illinois,2024,2025,linear_regression,1678.1054477607188
+5,Arkansas,6,California,2024,2025,linear_regression,1676.011227249977
+47,Tennessee,26,Michigan,2024,2025,linear_regression,1657.1998970237578
+13,Georgia,6,California,2024,2025,linear_regression,1656.7884811750741
+6,California,27,Minnesota,2024,2025,linear_regression,1652.9195214823083
+4,Arizona,35,New Mexico,2024,2025,linear_regression,1647.8794888117043
+6,California,36,New York,2024,2025,linear_regression,1647.5037394973692
+36,New York,37,North Carolina,2024,2025,linear_regression,1642.8958015684411
+49,Utah,8,Colorado,2024,2025,linear_regression,1635.1254147346792
+27,Minnesota,48,Texas,2024,2025,linear_regression,1632.2030012305638
+45,South Carolina,1,Alabama,2024,2025,linear_regression,1625.4209991615671
+17,Illinois,20,Kansas,2024,2025,linear_regression,1622.9845729577544
+6,California,12,Florida,2024,2025,linear_regression,1619.9371803931865
+21,Kentucky,1,Alabama,2024,2025,linear_regression,1614.8833701552628
+36,New York,6,California,2024,2025,linear_regression,1613.563719556532
+25,Massachusetts,50,Vermont,2024,2025,linear_regression,1608.027698053053
+20,Kansas,19,Iowa,2024,2025,linear_regression,1601.1581256388065
+51,Virginia,21,Kentucky,2024,2025,linear_regression,1596.1911649528586
+6,California,55,Wisconsin,2024,2025,linear_regression,1592.1634017277167
+48,Texas,53,Washington,2024,2025,linear_regression,1580.1779177044473
+36,New York,50,Vermont,2024,2025,linear_regression,1579.4787198199783
+12,Florida,42,Pennsylvania,2024,2025,linear_regression,1576.2397627102803
+13,Georgia,21,Kentucky,2024,2025,linear_regression,1572.582053321464
+13,Georgia,42,Pennsylvania,2024,2025,linear_regression,1566.9096959702904
+39,Ohio,12,Florida,2024,2025,linear_regression,1565.6860740251686
+6,California,42,Pennsylvania,2024,2025,linear_regression,1558.0617224537418
+45,South Carolina,51,Virginia,2024,2025,linear_regression,1548.0907828625839
+55,Wisconsin,42,Pennsylvania,2024,2025,linear_regression,1544.9402620796504
+30,Montana,38,North Dakota,2024,2025,linear_regression,1528.1600064079569
+34,New Jersey,12,Florida,2024,2025,linear_regression,1520.3562994201257
+23,Maine,42,Pennsylvania,2024,2025,linear_regression,1516.5647639330941
+19,Iowa,48,Texas,2024,2025,linear_regression,1511.8620816404332
+20,Kansas,6,California,2024,2025,linear_regression,1510.3223351794138
+26,Michigan,29,Missouri,2024,2025,linear_regression,1507.64180244298
+1,Alabama,37,North Carolina,2024,2025,linear_regression,1506.1872469147268
+13,Georgia,51,Virginia,2024,2025,linear_regression,1504.3737201881308
+5,Arkansas,18,Indiana,2024,2025,linear_regression,1500.064361242585
+8,Colorado,35,New Mexico,2024,2025,linear_regression,1493.3064813202543
+25,Massachusetts,48,Texas,2024,2025,linear_regression,1474.8641386974077
+19,Iowa,26,Michigan,2024,2025,linear_regression,1473.772427053806
+18,Indiana,12,Florida,2024,2025,linear_regression,1470.9129068750399
+34,New Jersey,51,Virginia,2024,2025,linear_regression,1460.7157633038792
+22,Louisiana,5,Arkansas,2024,2025,linear_regression,1451.18642675364
+6,California,34,New Jersey,2024,2025,linear_regression,1448.596042891783
+51,Virginia,47,Tennessee,2024,2025,linear_regression,1446.2552924719719
+12,Florida,17,Illinois,2024,2025,linear_regression,1439.721872390759
+13,Georgia,26,Michigan,2024,2025,linear_regression,1434.14031656741
+47,Tennessee,42,Pennsylvania,2024,2025,linear_regression,1430.5866405759639
+42,Pennsylvania,6,California,2024,2025,linear_regression,1424.118641871681
+1,Alabama,45,South Carolina,2024,2025,linear_regression,1408.325530631524
+17,Illinois,31,Nebraska,2024,2025,linear_regression,1408.1004155194157
+16,Idaho,41,Oregon,2024,2025,linear_regression,1406.456092227745
+25,Massachusetts,42,Pennsylvania,2024,2025,linear_regression,1403.053198055243
+36,New York,24,Maryland,2024,2025,linear_regression,1400.793447822774
+26,Michigan,34,New Jersey,2024,2025,linear_regression,1398.5816261471232
+29,Missouri,21,Kentucky,2024,2025,linear_regression,1395.6712990481856
+19,Iowa,39,Ohio,2024,2025,linear_regression,1394.791981950897
+26,Michigan,13,Georgia,2024,2025,linear_regression,1390.1814534549724
+18,Indiana,37,North Carolina,2024,2025,linear_regression,1383.7277523099426
+29,Missouri,42,Pennsylvania,2024,2025,linear_regression,1382.7382856382553
+8,Colorado,30,Montana,2024,2025,linear_regression,1366.8654466061744
+37,North Carolina,17,Illinois,2024,2025,linear_regression,1359.1007963748266
+19,Iowa,6,California,2024,2025,linear_regression,1352.0783537187247
+33,New Hampshire,50,Vermont,2024,2025,linear_regression,1343.0575247678194
+19,Iowa,18,Indiana,2024,2025,linear_regression,1335.4619241604491
+1,Alabama,21,Kentucky,2024,2025,linear_regression,1328.422402859371
+12,Florida,36,New York,2024,2025,linear_regression,1327.3436564855172
+22,Louisiana,12,Florida,2024,2025,linear_regression,1322.6827577049273
+48,Texas,31,Nebraska,2024,2025,linear_regression,1316.3330913824666
+18,Indiana,6,California,2024,2025,linear_regression,1314.2899902609327
+34,New Jersey,26,Michigan,2024,2025,linear_regression,1311.394371701455
+37,North Carolina,26,Michigan,2024,2025,linear_regression,1307.997156760151
+16,Idaho,6,California,2024,2025,linear_regression,1302.6396328132469
+6,California,20,Kansas,2024,2025,linear_regression,1301.7238429550778
+21,Kentucky,29,Missouri,2024,2025,linear_regression,1296.7611550310728
+27,Minnesota,6,California,2024,2025,linear_regression,1284.9709285504516
+31,Nebraska,29,Missouri,2024,2025,linear_regression,1284.595032726653
+17,Illinois,1,Alabama,2024,2025,linear_regression,1282.1111339764566
+36,New York,13,Georgia,2024,2025,linear_regression,1265.7621042806843
+49,Utah,4,Arizona,2024,2025,linear_regression,1264.1578812745195
+50,Vermont,25,Massachusetts,2024,2025,linear_regression,1263.3141863043793
+55,Wisconsin,29,Missouri,2024,2025,linear_regression,1261.7605261014544
+11,Washington DC,51,Virginia,2024,2025,linear_regression,1260.5274099768758
+27,Minnesota,26,Michigan,2024,2025,linear_regression,1259.4319205245858
+51,Virginia,45,South Carolina,2024,2025,linear_regression,1258.922426522569
+26,Michigan,51,Virginia,2024,2025,linear_regression,1258.8467559667286
+45,South Carolina,39,Ohio,2024,2025,linear_regression,1258.32058002113
+55,Wisconsin,13,Georgia,2024,2025,linear_regression,1255.2227284883704
+50,Vermont,36,New York,2024,2025,linear_regression,1253.1785868948236
+29,Missouri,26,Michigan,2024,2025,linear_regression,1245.8800257388275
+37,North Carolina,6,California,2024,2025,linear_regression,1224.6618925627336
+44,Rhode Island,36,New York,2024,2025,linear_regression,1223.9691745913904
+13,Georgia,18,Indiana,2024,2025,linear_regression,1222.518294094165
+36,New York,26,Michigan,2024,2025,linear_regression,1220.6682248614436
+48,Texas,51,Virginia,2024,2025,linear_regression,1216.546167256595
+34,New Jersey,6,California,2024,2025,linear_regression,1208.716415209865
+42,Pennsylvania,47,Tennessee,2024,2025,linear_regression,1206.8441052487558
+17,Illinois,5,Arkansas,2024,2025,linear_regression,1199.429288210274
+18,Indiana,1,Alabama,2024,2025,linear_regression,1197.1948453763391
+34,New Jersey,37,North Carolina,2024,2025,linear_regression,1196.836028244308
+29,Missouri,55,Wisconsin,2024,2025,linear_regression,1196.5305046583328
+17,Illinois,37,North Carolina,2024,2025,linear_regression,1194.4160595890148
+37,North Carolina,21,Kentucky,2024,2025,linear_regression,1188.850852363444
+37,North Carolina,24,Maryland,2024,2025,linear_regression,1185.366045435012
+31,Nebraska,48,Texas,2024,2025,linear_regression,1183.5350872375611
+17,Illinois,34,New Jersey,2024,2025,linear_regression,1179.334200676466
+25,Massachusetts,18,Indiana,2024,2025,linear_regression,1177.3094762837438
+48,Texas,45,South Carolina,2024,2025,linear_regression,1166.5920587914568
+40,Oklahoma,47,Tennessee,2024,2025,linear_regression,1164.2498112621524
+51,Virginia,17,Illinois,2024,2025,linear_regression,1163.4613698642988
+12,Florida,47,Tennessee,2024,2025,linear_regression,1163.2024387987676
+38,North Dakota,17,Illinois,2024,2025,linear_regression,1161.3223804773652
+26,Michigan,36,New York,2024,2025,linear_regression,1158.7520686109042
+4,Arizona,26,Michigan,2024,2025,linear_regression,1151.815806276839
+39,Ohio,1,Alabama,2024,2025,linear_regression,1138.703142295671
+33,New Hampshire,36,New York,2024,2025,linear_regression,1138.2737705777927
+39,Ohio,45,South Carolina,2024,2025,linear_regression,1125.0550625414896
+32,Nevada,4,Arizona,2024,2025,linear_regression,1124.114682370027
+21,Kentucky,6,California,2024,2025,linear_regression,1119.3287931777759
+48,Texas,38,North Dakota,2024,2025,linear_regression,1116.428818415288
+1,Alabama,17,Illinois,2024,2025,linear_regression,1107.3963505388977
+25,Massachusetts,34,New Jersey,2024,2025,linear_regression,1102.437950049375
+55,Wisconsin,47,Tennessee,2024,2025,linear_regression,1102.331650115009
+13,Georgia,36,New York,2024,2025,linear_regression,1100.6221322693693
+40,Oklahoma,6,California,2024,2025,linear_regression,1096.311380043212
+8,Colorado,20,Kansas,2024,2025,linear_regression,1094.4030904511787
+49,Utah,30,Montana,2024,2025,linear_regression,1091.196616495321
+42,Pennsylvania,45,South Carolina,2024,2025,linear_regression,1090.747776565157
+31,Nebraska,17,Illinois,2024,2025,linear_regression,1087.1239508550373
+36,New York,33,New Hampshire,2024,2025,linear_regression,1087.101665845513
+45,South Carolina,42,Pennsylvania,2024,2025,linear_regression,1080.704780937425
+36,New York,45,South Carolina,2024,2025,linear_regression,1077.2661899132809
+44,Rhode Island,9,Connecticut,2024,2025,linear_regression,1076.788161691181
+21,Kentucky,45,South Carolina,2024,2025,linear_regression,1076.437919085377
+45,South Carolina,21,Kentucky,2024,2025,linear_regression,1075.3295833843217
+53,Washington,30,Montana,2024,2025,linear_regression,1071.2419260287759
+34,New Jersey,13,Georgia,2024,2025,linear_regression,1070.226425845339
+9,Connecticut,44,Rhode Island,2024,2025,linear_regression,1068.8229581951014
+29,Missouri,39,Ohio,2024,2025,linear_regression,1065.2402450050924
+12,Florida,22,Louisiana,2024,2025,linear_regression,1063.8234475106067
+5,Arkansas,21,Kentucky,2024,2025,linear_regression,1055.0183679172255
+31,Nebraska,6,California,2024,2025,linear_regression,1047.2378028657854
+28,Mississippi,12,Florida,2024,2025,linear_regression,1046.799986513631
+56,Wyoming,41,Oregon,2024,2025,linear_regression,1045.624214773479
+37,North Carolina,18,Indiana,2024,2025,linear_regression,1045.5754924571074
+51,Virginia,18,Indiana,2024,2025,linear_regression,1043.8537662361887
+53,Washington,48,Texas,2024,2025,linear_regression,1038.4228078020255
+6,California,16,Idaho,2024,2025,linear_regression,1032.3339468113752
+1,Alabama,26,Michigan,2024,2025,linear_regression,1024.3859770622075
+39,Ohio,27,Minnesota,2024,2025,linear_regression,1021.9008738190787
+40,Oklahoma,31,Nebraska,2024,2025,linear_regression,1019.1223191203264
+19,Iowa,38,North Dakota,2024,2025,linear_regression,1009.655216386418
+8,Colorado,29,Missouri,2024,2025,linear_regression,1008.1303359839471
+26,Michigan,12,Florida,2024,2025,linear_regression,1007.8993427303092
+51,Virginia,48,Texas,2024,2025,linear_regression,1006.6149299118147
+6,California,30,Montana,2024,2025,linear_regression,1004.3773908195992
+47,Tennessee,36,New York,2024,2025,linear_regression,998.110089229717
+31,Nebraska,27,Minnesota,2024,2025,linear_regression,991.7681425183639
+32,Nevada,48,Texas,2024,2025,linear_regression,991.0761394042436
+18,Indiana,51,Virginia,2024,2025,linear_regression,986.488276776262
+34,New Jersey,18,Indiana,2024,2025,linear_regression,984.5707912102492
+55,Wisconsin,12,Florida,2024,2025,linear_regression,981.7979145817176
+42,Pennsylvania,55,Wisconsin,2024,2025,linear_regression,971.2272332691525
+12,Florida,39,Ohio,2024,2025,linear_regression,970.6389899382851
+24,Maryland,37,North Carolina,2024,2025,linear_regression,969.4836801382809
+29,Missouri,36,New York,2024,2025,linear_regression,966.0837914164747
+22,Louisiana,34,New Jersey,2024,2025,linear_regression,963.4036165368448
+13,Georgia,22,Louisiana,2024,2025,linear_regression,954.7552110959482
+26,Michigan,27,Minnesota,2024,2025,linear_regression,953.3503878988597
+12,Florida,6,California,2024,2025,linear_regression,949.9980140057121
+29,Missouri,13,Georgia,2024,2025,linear_regression,949.5163389671432
+49,Utah,56,Wyoming,2024,2025,linear_regression,946.695823612639
+45,South Carolina,18,Indiana,2024,2025,linear_regression,944.3996603715327
+1,Alabama,18,Indiana,2024,2025,linear_regression,944.3502109505522
+37,North Carolina,1,Alabama,2024,2025,linear_regression,943.933054066153
+6,California,1,Alabama,2024,2025,linear_regression,936.5854745899893
+26,Michigan,19,Iowa,2024,2025,linear_regression,930.4999550071166
+24,Maryland,54,West Virginia,2024,2025,linear_regression,926.9620380380272
+18,Indiana,34,New Jersey,2024,2025,linear_regression,920.7721005193248
+29,Missouri,27,Minnesota,2024,2025,linear_regression,917.5567115974121
+18,Indiana,28,Mississippi,2024,2025,linear_regression,915.8039681995011
+42,Pennsylvania,21,Kentucky,2024,2025,linear_regression,915.6354256348001
+54,West Virginia,21,Kentucky,2024,2025,linear_regression,915.207190176299
+45,South Carolina,17,Illinois,2024,2025,linear_regression,901.9560689086945
+17,Illinois,38,North Dakota,2024,2025,linear_regression,901.1253294782324
+5,Arkansas,1,Alabama,2024,2025,linear_regression,898.1146444988858
+6,California,24,Maryland,2024,2025,linear_regression,897.9819870430416
+23,Maine,9,Connecticut,2024,2025,linear_regression,894.7534885519519
+24,Maryland,39,Ohio,2024,2025,linear_regression,892.4422789835088
+20,Kansas,5,Arkansas,2024,2025,linear_regression,878.1922284096435
+21,Kentucky,36,New York,2024,2025,linear_regression,876.9265570752117
+39,Ohio,24,Maryland,2024,2025,linear_regression,874.6050871958548
+48,Texas,27,Minnesota,2024,2025,linear_regression,873.8167647590149
+5,Arkansas,17,Illinois,2024,2025,linear_regression,870.2417360057184
+47,Tennessee,55,Wisconsin,2024,2025,linear_regression,869.8915417271119
+28,Mississippi,6,California,2024,2025,linear_regression,867.5999073520086
+13,Georgia,34,New Jersey,2024,2025,linear_regression,866.0425927486502
+39,Ohio,20,Kansas,2024,2025,linear_regression,864.1036995778794
+55,Wisconsin,36,New York,2024,2025,linear_regression,862.4421248007257
+1,Alabama,31,Nebraska,2024,2025,linear_regression,856.6860063057585
+1,Alabama,42,Pennsylvania,2024,2025,linear_regression,854.1629457477264
+12,Florida,28,Mississippi,2024,2025,linear_regression,851.4612018705061
+51,Virginia,11,Washington DC,2024,2025,linear_regression,851.4487441670944
+30,Montana,6,California,2024,2025,linear_regression,851.2099024827434
+9,Connecticut,33,New Hampshire,2024,2025,linear_regression,850.0243574456026
+32,Nevada,49,Utah,2024,2025,linear_regression,845.6585295640444
+27,Minnesota,35,New Mexico,2024,2025,linear_regression,840.5599241609528
+27,Minnesota,18,Indiana,2024,2025,linear_regression,839.4391330605046
+51,Virginia,25,Massachusetts,2024,2025,linear_regression,831.9766009498185
+45,South Carolina,6,California,2024,2025,linear_regression,828.6221366201689
+17,Illinois,40,Oklahoma,2024,2025,linear_regression,827.9716921389004
+48,Texas,19,Iowa,2024,2025,linear_regression,822.4533478942438
+49,Utah,48,Texas,2024,2025,linear_regression,811.7335389935281
+8,Colorado,4,Arizona,2024,2025,linear_regression,809.7294678512334
+35,New Mexico,6,California,2024,2025,linear_regression,807.6289654127653
+51,Virginia,26,Michigan,2024,2025,linear_regression,806.7534916503337
+45,South Carolina,26,Michigan,2024,2025,linear_regression,804.1303391867169
+36,New York,18,Indiana,2024,2025,linear_regression,792.4313432713462
+1,Alabama,6,California,2024,2025,linear_regression,789.0861819458034
+27,Minnesota,53,Washington,2024,2025,linear_regression,783.0012544078738
+26,Michigan,37,North Carolina,2024,2025,linear_regression,782.4271700379763
+37,North Carolina,54,West Virginia,2024,2025,linear_regression,782.3869717209926
+36,New York,55,Wisconsin,2024,2025,linear_regression,781.6015605657725
+28,Mississippi,37,North Carolina,2024,2025,linear_regression,777.9770816259371
+21,Kentucky,12,Florida,2024,2025,linear_regression,775.4042299324168
+51,Virginia,6,California,2024,2025,linear_regression,766.6342380964948
+12,Florida,34,New Jersey,2024,2025,linear_regression,764.3253296529682
+41,Oregon,48,Texas,2024,2025,linear_regression,762.2487038831064
+42,Pennsylvania,1,Alabama,2024,2025,linear_regression,760.4084690288618
+17,Illinois,28,Mississippi,2024,2025,linear_regression,757.3873761383884
+8,Colorado,40,Oklahoma,2024,2025,linear_regression,755.0041380351809
+27,Minnesota,39,Ohio,2024,2025,linear_regression,751.5905047188185
+55,Wisconsin,51,Virginia,2024,2025,linear_regression,751.2043460000832
+37,North Carolina,34,New Jersey,2024,2025,linear_regression,748.7706925075153
+17,Illinois,53,Washington,2024,2025,linear_regression,748.0173590175509
+45,South Carolina,36,New York,2024,2025,linear_regression,747.8948963886988
+21,Kentucky,55,Wisconsin,2024,2025,linear_regression,744.2974918644157
+17,Illinois,45,South Carolina,2024,2025,linear_regression,742.8045597703468
+19,Iowa,42,Pennsylvania,2024,2025,linear_regression,742.6953052379396
+6,California,35,New Mexico,2024,2025,linear_regression,737.9285348103599
+53,Washington,17,Illinois,2024,2025,linear_regression,735.2778469592594
+42,Pennsylvania,29,Missouri,2024,2025,linear_regression,733.3199140049261
+22,Louisiana,47,Tennessee,2024,2025,linear_regression,729.3118798194744
+26,Michigan,1,Alabama,2024,2025,linear_regression,727.6472310238613
+48,Texas,24,Maryland,2024,2025,linear_regression,722.9579828051349
+13,Georgia,55,Wisconsin,2024,2025,linear_regression,722.7776164837419
+12,Florida,51,Virginia,2024,2025,linear_regression,718.003645918836
+38,North Dakota,55,Wisconsin,2024,2025,linear_regression,713.757320243019
+49,Utah,53,Washington,2024,2025,linear_regression,712.8857539274003
+53,Washington,26,Michigan,2024,2025,linear_regression,709.6275069490265
+25,Massachusetts,6,California,2024,2025,linear_regression,709.4897844478498
+6,California,28,Mississippi,2024,2025,linear_regression,706.7765773317094
+40,Oklahoma,17,Illinois,2024,2025,linear_regression,706.1226834602967
+20,Kansas,27,Minnesota,2024,2025,linear_regression,704.5161768991342
+22,Louisiana,6,California,2024,2025,linear_regression,699.9143120912777
+38,North Dakota,19,Iowa,2024,2025,linear_regression,699.108976938773
+13,Georgia,29,Missouri,2024,2025,linear_regression,698.0998416507464
+55,Wisconsin,21,Kentucky,2024,2025,linear_regression,697.3422854814105
+16,Idaho,48,Texas,2024,2025,linear_regression,695.1867174882807
+20,Kansas,55,Wisconsin,2024,2025,linear_regression,689.3781840316758
+17,Illinois,8,Colorado,2024,2025,linear_regression,682.8904669559478
+55,Wisconsin,34,New Jersey,2024,2025,linear_regression,681.7624405567087
+13,Georgia,24,Maryland,2024,2025,linear_regression,677.7497939169076
+22,Louisiana,39,Ohio,2024,2025,linear_regression,676.5402517457206
+48,Texas,56,Wyoming,2024,2025,linear_regression,675.3225298282267
+1,Alabama,29,Missouri,2024,2025,linear_regression,672.37069903994
+55,Wisconsin,1,Alabama,2024,2025,linear_regression,666.3383723847943
+26,Michigan,4,Arizona,2024,2025,linear_regression,665.1721428548688
+53,Washington,49,Utah,2024,2025,linear_regression,664.5500714634654
+46,South Dakota,56,Wyoming,2024,2025,linear_regression,661.8619370217843
+38,North Dakota,48,Texas,2024,2025,linear_regression,651.8419572283882
+36,New York,54,West Virginia,2024,2025,linear_regression,651.1359169661388
+20,Kansas,42,Pennsylvania,2024,2025,linear_regression,648.1656422006884
+1,Alabama,5,Arkansas,2024,2025,linear_regression,647.0491972724152
+45,South Carolina,28,Mississippi,2024,2025,linear_regression,643.0498791734535
+47,Tennessee,22,Louisiana,2024,2025,linear_regression,642.2911976959647
+47,Tennessee,34,New Jersey,2024,2025,linear_regression,640.1213898064597
+51,Virginia,1,Alabama,2024,2025,linear_regression,638.5798128258547
+20,Kansas,18,Indiana,2024,2025,linear_regression,636.0839614153695
+55,Wisconsin,31,Nebraska,2024,2025,linear_regression,630.848114946455
+6,California,37,North Carolina,2024,2025,linear_regression,627.8257284847757
+39,Ohio,25,Massachusetts,2024,2025,linear_regression,625.7913020137279
+1,Alabama,55,Wisconsin,2024,2025,linear_regression,624.5783836362193
+38,North Dakota,39,Ohio,2024,2025,linear_regression,624.4754639473218
+48,Texas,25,Massachusetts,2024,2025,linear_regression,622.7710497136727
+29,Missouri,53,Washington,2024,2025,linear_regression,621.7412052693787
+17,Illinois,25,Massachusetts,2024,2025,linear_regression,621.6424647680616
+12,Florida,55,Wisconsin,2024,2025,linear_regression,621.3831199082892
+6,California,5,Arkansas,2024,2025,linear_regression,613.2120285221158
+54,West Virginia,36,New York,2024,2025,linear_regression,611.568079662622
+29,Missouri,12,Florida,2024,2025,linear_regression,609.3260222601451
+41,Oregon,49,Utah,2024,2025,linear_regression,603.589772064567
+13,Georgia,5,Arkansas,2024,2025,linear_regression,601.7318528510103
+48,Texas,9,Connecticut,2024,2025,linear_regression,599.5705160782584
+34,New Jersey,29,Missouri,2024,2025,linear_regression,598.6601214366582
+38,North Dakota,18,Indiana,2024,2025,linear_regression,596.1152509169265
+40,Oklahoma,19,Iowa,2024,2025,linear_regression,595.9019128541934
+24,Maryland,17,Illinois,2024,2025,linear_regression,594.1518274333008
+55,Wisconsin,38,North Dakota,2024,2025,linear_regression,594.0220812668441
+5,Arkansas,26,Michigan,2024,2025,linear_regression,590.7785443082815
+18,Indiana,5,Arkansas,2024,2025,linear_regression,589.3593793939796
+48,Texas,41,Oregon,2024,2025,linear_regression,587.7277551483969
+28,Mississippi,29,Missouri,2024,2025,linear_regression,587.4055324010749
+30,Montana,49,Utah,2024,2025,linear_regression,587.0107179461725
+35,New Mexico,8,Colorado,2024,2025,linear_regression,586.0884516923095
+34,New Jersey,47,Tennessee,2024,2025,linear_regression,583.7965681301546
+6,California,51,Virginia,2024,2025,linear_regression,583.3243062949683
+18,Indiana,31,Nebraska,2024,2025,linear_regression,581.4569176422956
+39,Ohio,5,Arkansas,2024,2025,linear_regression,580.0332879870492
+6,California,40,Oklahoma,2024,2025,linear_regression,578.61897710672
+19,Iowa,13,Georgia,2024,2025,linear_regression,577.4438241512936
+24,Maryland,12,Florida,2024,2025,linear_regression,576.9924042565725
+18,Indiana,20,Kansas,2024,2025,linear_regression,576.6494128245532
+40,Oklahoma,13,Georgia,2024,2025,linear_regression,572.0942822166413
+29,Missouri,34,New Jersey,2024,2025,linear_regression,571.9932645117822
+37,North Carolina,55,Wisconsin,2024,2025,linear_regression,568.4526467086904
+9,Connecticut,39,Ohio,2024,2025,linear_regression,565.8954054618384
+5,Arkansas,20,Kansas,2024,2025,linear_regression,564.9636505230442
+4,Arizona,17,Illinois,2024,2025,linear_regression,563.1134459426378
+22,Louisiana,37,North Carolina,2024,2025,linear_regression,562.656245752264
+29,Missouri,49,Utah,2024,2025,linear_regression,561.5500389455688
+26,Michigan,5,Arkansas,2024,2025,linear_regression,560.8098670435612
+27,Minnesota,42,Pennsylvania,2024,2025,linear_regression,559.925754565355
+18,Indiana,22,Louisiana,2024,2025,linear_regression,559.7991754915166
+18,Indiana,24,Maryland,2024,2025,linear_regression,559.4313734060796
+26,Michigan,45,South Carolina,2024,2025,linear_regression,558.7168310591353
+22,Louisiana,40,Oklahoma,2024,2025,linear_regression,558.4973225755307
+12,Florida,18,Indiana,2024,2025,linear_regression,557.2889426309602
+27,Minnesota,29,Missouri,2024,2025,linear_regression,554.3794938609996
+18,Indiana,54,West Virginia,2024,2025,linear_regression,553.9949914811722
+6,California,25,Massachusetts,2024,2025,linear_regression,553.1381916050705
+28,Mississippi,17,Illinois,2024,2025,linear_regression,552.7695079558719
+5,Arkansas,42,Pennsylvania,2024,2025,linear_regression,552.7591957923022
+31,Nebraska,55,Wisconsin,2024,2025,linear_regression,550.5194326715566
+55,Wisconsin,53,Washington,2024,2025,linear_regression,550.3085707962895
+5,Arkansas,12,Florida,2024,2025,linear_regression,548.4111940886041
+12,Florida,26,Michigan,2024,2025,linear_regression,546.6536122692736
+34,New Jersey,27,Minnesota,2024,2025,linear_regression,546.1438143886148
+16,Idaho,17,Illinois,2024,2025,linear_regression,545.696717732495
+36,New York,49,Utah,2024,2025,linear_regression,545.2106891671393
+20,Kansas,13,Georgia,2024,2025,linear_regression,544.3165756055818
+25,Massachusetts,17,Illinois,2024,2025,linear_regression,543.9164239354205
+36,New York,47,Tennessee,2024,2025,linear_regression,543.5512920645436
+39,Ohio,28,Mississippi,2024,2025,linear_regression,540.4088195523196
+10,Delaware,12,Florida,2024,2025,linear_regression,533.7349224169444
+47,Tennessee,20,Kansas,2024,2025,linear_regression,533.714091395783
+55,Wisconsin,45,South Carolina,2024,2025,linear_regression,533.2651083888527
+9,Connecticut,48,Texas,2024,2025,linear_regression,532.0268392126769
+36,New York,21,Kentucky,2024,2025,linear_regression,530.1930139695505
+8,Colorado,39,Ohio,2024,2025,linear_regression,529.3180260157427
+12,Florida,21,Kentucky,2024,2025,linear_regression,527.8821912603181
+22,Louisiana,29,Missouri,2024,2025,linear_regression,526.8928796630814
+24,Maryland,48,Texas,2024,2025,linear_regression,526.3375151419709
+37,North Carolina,29,Missouri,2024,2025,linear_regression,524.7987076598057
+29,Missouri,8,Colorado,2024,2025,linear_regression,524.7847578038394
+36,New York,10,Delaware,2024,2025,linear_regression,524.7105616878491
+39,Ohio,40,Oklahoma,2024,2025,linear_regression,524.1889181495479
+18,Indiana,45,South Carolina,2024,2025,linear_regression,522.4348469906656
+54,West Virginia,18,Indiana,2024,2025,linear_regression,519.3887301902467
+51,Virginia,10,Delaware,2024,2025,linear_regression,517.271820551758
+21,Kentucky,19,Iowa,2024,2025,linear_regression,517.2483670504454
+29,Missouri,37,North Carolina,2024,2025,linear_regression,514.8386903519992
+34,New Jersey,55,Wisconsin,2024,2025,linear_regression,514.4660463166709
+30,Montana,53,Washington,2024,2025,linear_regression,514.0118905947588
+47,Tennessee,19,Iowa,2024,2025,linear_regression,511.0108152462958
+5,Arkansas,39,Ohio,2024,2025,linear_regression,510.2052641920051
+36,New York,23,Maine,2024,2025,linear_regression,509.2110746763195
+21,Kentucky,34,New Jersey,2024,2025,linear_regression,508.3219824378399
+53,Washington,4,Arizona,2024,2025,linear_regression,508.27538768746933
+42,Pennsylvania,27,Minnesota,2024,2025,linear_regression,506.7096957932762
+29,Missouri,28,Mississippi,2024,2025,linear_regression,505.9197501107427
+16,Idaho,55,Wisconsin,2024,2025,linear_regression,505.66582735829775
+29,Missouri,51,Virginia,2024,2025,linear_regression,505.252545303988
+45,South Carolina,24,Maryland,2024,2025,linear_regression,504.36172555832275
+29,Missouri,22,Louisiana,2024,2025,linear_regression,502.06639416071073
+46,South Dakota,30,Montana,2024,2025,linear_regression,501.28207179384697
+41,Oregon,4,Arizona,2024,2025,linear_regression,500.0492445879422
+1,Alabama,36,New York,2024,2025,linear_regression,496.49779023271674
+56,Wyoming,6,California,2024,2025,linear_regression,494.6221519003075
+8,Colorado,17,Illinois,2024,2025,linear_regression,494.6128522082828
+41,Oregon,27,Minnesota,2024,2025,linear_regression,493.5675287204408
+37,North Carolina,25,Massachusetts,2024,2025,linear_regression,493.31196034724906
+51,Virginia,55,Wisconsin,2024,2025,linear_regression,492.94478335119743
+55,Wisconsin,37,North Carolina,2024,2025,linear_regression,491.95001033015774
+48,Texas,30,Montana,2024,2025,linear_regression,490.0262052565098
+20,Kansas,26,Michigan,2024,2025,linear_regression,489.21809056544964
+22,Louisiana,45,South Carolina,2024,2025,linear_regression,489.0477128325424
+10,Delaware,36,New York,2024,2025,linear_regression,487.6595366697369
+4,Arizona,49,Utah,2024,2025,linear_regression,487.1677546630268
+34,New Jersey,28,Mississippi,2024,2025,linear_regression,482.5158035588873
+35,New Mexico,22,Louisiana,2024,2025,linear_regression,480.11048357043296
+42,Pennsylvania,19,Iowa,2024,2025,linear_regression,479.46576570494767
+40,Oklahoma,8,Colorado,2024,2025,linear_regression,476.4668000366164
+35,New Mexico,4,Arizona,2024,2025,linear_regression,474.3605189909061
+28,Mississippi,45,South Carolina,2024,2025,linear_regression,471.2852398992373
+55,Wisconsin,25,Massachusetts,2024,2025,linear_regression,469.2752987342635
+38,North Dakota,30,Montana,2024,2025,linear_regression,467.45169325401923
+51,Virginia,9,Connecticut,2024,2025,linear_regression,466.0265097924538
+42,Pennsylvania,33,New Hampshire,2024,2025,linear_regression,463.9048525489686
+53,Washington,27,Minnesota,2024,2025,linear_regression,463.1231747553303
+20,Kansas,39,Ohio,2024,2025,linear_regression,462.64578757902956
+39,Ohio,8,Colorado,2024,2025,linear_regression,461.7093635733125
+55,Wisconsin,20,Kansas,2024,2025,linear_regression,459.3946385440013
+49,Utah,41,Oregon,2024,2025,linear_regression,458.84719377103755
+37,North Carolina,27,Minnesota,2024,2025,linear_regression,457.8828742364186
+24,Maryland,6,California,2024,2025,linear_regression,457.411134483231
+9,Connecticut,23,Maine,2024,2025,linear_regression,457.2974863333971
+45,South Carolina,55,Wisconsin,2024,2025,linear_regression,453.3369217660662
+54,West Virginia,47,Tennessee,2024,2025,linear_regression,451.601884587436
+54,West Virginia,34,New Jersey,2024,2025,linear_regression,450.34706238314146
+54,West Virginia,37,North Carolina,2024,2025,linear_regression,447.09417691638015
+17,Illinois,24,Maryland,2024,2025,linear_regression,446.70078815766396
+24,Maryland,25,Massachusetts,2024,2025,linear_regression,446.5853472971888
+22,Louisiana,26,Michigan,2024,2025,linear_regression,446.509737744918
+39,Ohio,9,Connecticut,2024,2025,linear_regression,444.98308543706446
+21,Kentucky,28,Mississippi,2024,2025,linear_regression,444.8057863189538
+37,North Carolina,5,Arkansas,2024,2025,linear_regression,443.11993519920077
+6,California,19,Iowa,2024,2025,linear_regression,442.7347681664626
+40,Oklahoma,39,Ohio,2024,2025,linear_regression,440.758576371065
+22,Louisiana,18,Indiana,2024,2025,linear_regression,440.53559695087847
+12,Florida,24,Maryland,2024,2025,linear_regression,439.7449077315394
+4,Arizona,8,Colorado,2024,2025,linear_regression,438.2018565701504
+8,Colorado,55,Wisconsin,2024,2025,linear_regression,436.24932386571
+37,North Carolina,4,Arizona,2024,2025,linear_regression,432.449168903651
+17,Illinois,4,Arizona,2024,2025,linear_regression,430.88284896907663
+39,Ohio,53,Washington,2024,2025,linear_regression,430.8668371263923
+27,Minnesota,34,New Jersey,2024,2025,linear_regression,428.93718388408337
+6,California,31,Nebraska,2024,2025,linear_regression,425.8547282855564
+25,Massachusetts,13,Georgia,2024,2025,linear_regression,425.5152276881598
+19,Iowa,21,Kentucky,2024,2025,linear_regression,423.40731726026513
+1,Alabama,40,Oklahoma,2024,2025,linear_regression,422.715852877164
+5,Arkansas,55,Wisconsin,2024,2025,linear_regression,421.9448485737126
+55,Wisconsin,5,Arkansas,2024,2025,linear_regression,420.2885827413007
+8,Colorado,26,Michigan,2024,2025,linear_regression,418.83388884576607
+41,Oregon,17,Illinois,2024,2025,linear_regression,418.7879851659481
+11,Washington DC,42,Pennsylvania,2024,2025,linear_regression,415.67673535036374
+16,Idaho,32,Nevada,2024,2025,linear_regression,412.5027141696398
+47,Tennessee,54,West Virginia,2024,2025,linear_regression,411.8562049939387
+28,Mississippi,26,Michigan,2024,2025,linear_regression,411.0059677563541
+24,Maryland,26,Michigan,2024,2025,linear_regression,408.5476764230575
+21,Kentucky,24,Maryland,2024,2025,linear_regression,407.51369095446955
+22,Louisiana,42,Pennsylvania,2024,2025,linear_regression,402.95637937451966
+12,Florida,29,Missouri,2024,2025,linear_regression,402.14753815887053
+32,Nevada,41,Oregon,2024,2025,linear_regression,401.80873159390137
+20,Kansas,12,Florida,2024,2025,linear_regression,401.79815158812147
+38,North Dakota,26,Michigan,2024,2025,linear_regression,400.19287846210017
+26,Michigan,31,Nebraska,2024,2025,linear_regression,399.6904416059823
+36,New York,44,Rhode Island,2024,2025,linear_regression,398.3312413248263
+39,Ohio,31,Nebraska,2024,2025,linear_regression,397.46472364255334
+22,Louisiana,21,Kentucky,2024,2025,linear_regression,395.0697377868553
+10,Delaware,48,Texas,2024,2025,linear_regression,392.4235743908016
+31,Nebraska,39,Ohio,2024,2025,linear_regression,391.4995360176484
+31,Nebraska,26,Michigan,2024,2025,linear_regression,390.8748426841748
+46,South Dakota,6,California,2024,2025,linear_regression,389.95598330181053
+20,Kansas,47,Tennessee,2024,2025,linear_regression,388.97538162900514
+1,Alabama,51,Virginia,2024,2025,linear_regression,386.75559133258054
+6,California,22,Louisiana,2024,2025,linear_regression,386.00493920732555
+48,Texas,32,Nevada,2024,2025,linear_regression,385.82841700738294
+37,North Carolina,28,Mississippi,2024,2025,linear_regression,384.56278327587955
+21,Kentucky,5,Arkansas,2024,2025,linear_regression,384.12383740260765
+13,Georgia,27,Minnesota,2024,2025,linear_regression,382.70520817967076
+27,Minnesota,12,Florida,2024,2025,linear_regression,382.02090156846754
+5,Arkansas,37,North Carolina,2024,2025,linear_regression,381.78112191698074
+24,Maryland,9,Connecticut,2024,2025,linear_regression,380.88500248088195
+45,South Carolina,5,Arkansas,2024,2025,linear_regression,380.71033269306787
+28,Mississippi,18,Indiana,2024,2025,linear_regression,379.7922167172069
+5,Arkansas,45,South Carolina,2024,2025,linear_regression,376.68571938292786
+42,Pennsylvania,23,Maine,2024,2025,linear_regression,376.4017431002931
+32,Nevada,53,Washington,2024,2025,linear_regression,375.058036805771
+12,Florida,25,Massachusetts,2024,2025,linear_regression,373.28523589701143
+54,West Virginia,26,Michigan,2024,2025,linear_regression,373.07852665490856
+51,Virginia,27,Minnesota,2024,2025,linear_regression,372.85053958850244
+4,Arizona,12,Florida,2024,2025,linear_regression,369.9082026378973
+13,Georgia,40,Oklahoma,2024,2025,linear_regression,369.4825903140871
+19,Iowa,37,North Carolina,2024,2025,linear_regression,368.70745935018437
+34,New Jersey,20,Kansas,2024,2025,linear_regression,368.4582907789597
+32,Nevada,8,Colorado,2024,2025,linear_regression,368.18035429987236
+20,Kansas,46,South Dakota,2024,2025,linear_regression,367.27990109883143
+34,New Jersey,21,Kentucky,2024,2025,linear_regression,367.2543702091578
+53,Washington,42,Pennsylvania,2024,2025,linear_regression,365.71703107192263
+26,Michigan,20,Kansas,2024,2025,linear_regression,365.63287673431506
+40,Oklahoma,27,Minnesota,2024,2025,linear_regression,362.72288152190185
+36,New York,27,Minnesota,2024,2025,linear_regression,361.5042746208514
+40,Oklahoma,42,Pennsylvania,2024,2025,linear_regression,360.5629875673441
+27,Minnesota,36,New York,2024,2025,linear_regression,360.29877288507254
+39,Ohio,38,North Dakota,2024,2025,linear_regression,360.1708101763783
+53,Washington,18,Indiana,2024,2025,linear_regression,359.8633034698949
+19,Iowa,8,Colorado,2024,2025,linear_regression,359.0597641186344
+34,New Jersey,33,New Hampshire,2024,2025,linear_regression,358.59440308422245
+20,Kansas,22,Louisiana,2024,2025,linear_regression,358.3185591325139
+40,Oklahoma,18,Indiana,2024,2025,linear_regression,357.9841065341577
+5,Arkansas,36,New York,2024,2025,linear_regression,355.4891463006273
+9,Connecticut,6,California,2024,2025,linear_regression,355.4664827595503
+45,South Carolina,22,Louisiana,2024,2025,linear_regression,354.5296586385751
+41,Oregon,32,Nevada,2024,2025,linear_regression,354.27302941357794
+16,Idaho,8,Colorado,2024,2025,linear_regression,354.0868208463216
+47,Tennessee,40,Oklahoma,2024,2025,linear_regression,354.06187138810674
+50,Vermont,23,Maine,2024,2025,linear_regression,352.50039775799416
+4,Arizona,53,Washington,2024,2025,linear_regression,351.8175593065749
+41,Oregon,26,Michigan,2024,2025,linear_regression,351.722508887742
+28,Mississippi,21,Kentucky,2024,2025,linear_regression,351.6569001427748
+17,Illinois,46,South Dakota,2024,2025,linear_regression,350.0742579568207
+53,Washington,8,Colorado,2024,2025,linear_regression,347.4495777386657
+51,Virginia,29,Missouri,2024,2025,linear_regression,347.29492162275454
+8,Colorado,53,Washington,2024,2025,linear_regression,347.22871480185535
+42,Pennsylvania,40,Oklahoma,2024,2025,linear_regression,346.90144334114837
+39,Ohio,4,Arizona,2024,2025,linear_regression,346.7776933233842
+28,Mississippi,39,Ohio,2024,2025,linear_regression,346.10011280103237
+36,New York,32,Nevada,2024,2025,linear_regression,346.0478489916778
+8,Colorado,13,Georgia,2024,2025,linear_regression,345.9080205819843
+12,Florida,4,Arizona,2024,2025,linear_regression,345.6738931193336
+13,Georgia,25,Massachusetts,2024,2025,linear_regression,345.3026743969526
+34,New Jersey,50,Vermont,2024,2025,linear_regression,345.28733768276027
+6,California,45,South Carolina,2024,2025,linear_regression,341.4568150468703
+9,Connecticut,50,Vermont,2024,2025,linear_regression,341.3138077284612
+47,Tennessee,24,Maryland,2024,2025,linear_regression,341.1498860191436
+29,Missouri,1,Alabama,2024,2025,linear_regression,340.1581318897486
+42,Pennsylvania,20,Kansas,2024,2025,linear_regression,339.3099844888813
+27,Minnesota,20,Kansas,2024,2025,linear_regression,339.10386453867454
+26,Michigan,28,Mississippi,2024,2025,linear_regression,337.9268263774348
+40,Oklahoma,26,Michigan,2024,2025,linear_regression,337.90241134225374
+40,Oklahoma,22,Louisiana,2024,2025,linear_regression,334.2824117204286
+27,Minnesota,47,Tennessee,2024,2025,linear_regression,333.96852539748807
+19,Iowa,5,Arkansas,2024,2025,linear_regression,333.43811000519565
+9,Connecticut,12,Florida,2024,2025,linear_regression,332.1473970437447
+19,Iowa,47,Tennessee,2024,2025,linear_regression,331.63668133058343
+39,Ohio,22,Louisiana,2024,2025,linear_regression,331.45658828017287
+41,Oregon,8,Colorado,2024,2025,linear_regression,330.9924547964889
+27,Minnesota,41,Oregon,2024,2025,linear_regression,330.9697115771095
+18,Indiana,38,North Dakota,2024,2025,linear_regression,330.42550510482124
+37,North Carolina,8,Colorado,2024,2025,linear_regression,329.71334044431796
+42,Pennsylvania,5,Arkansas,2024,2025,linear_regression,329.25332539500795
+45,South Carolina,34,New Jersey,2024,2025,linear_regression,328.7114863118487
+19,Iowa,36,New York,2024,2025,linear_regression,328.5208791731525
+9,Connecticut,37,North Carolina,2024,2025,linear_regression,327.63837880402866
+56,Wyoming,29,Missouri,2024,2025,linear_regression,326.7537349382304
+27,Minnesota,13,Georgia,2024,2025,linear_regression,325.9778183165985
+12,Florida,40,Oklahoma,2024,2025,linear_regression,324.5286874750447
+50,Vermont,34,New Jersey,2024,2025,linear_regression,323.96542633209276
+36,New York,4,Arizona,2024,2025,linear_regression,323.79845317362816
+26,Michigan,8,Colorado,2024,2025,linear_regression,323.5712305364704
+40,Oklahoma,37,North Carolina,2024,2025,linear_regression,323.408486917748
+5,Arkansas,19,Iowa,2024,2025,linear_regression,323.1634542159892
+55,Wisconsin,46,South Dakota,2024,2025,linear_regression,322.8222575356046
+31,Nebraska,18,Indiana,2024,2025,linear_regression,322.0205410037472
+30,Montana,48,Texas,2024,2025,linear_regression,321.3617806122272
+26,Michigan,53,Washington,2024,2025,linear_regression,320.90773132114214
+13,Georgia,19,Iowa,2024,2025,linear_regression,319.9691164486819
+45,South Carolina,29,Missouri,2024,2025,linear_regression,319.9162162281211
+54,West Virginia,48,Texas,2024,2025,linear_regression,318.80560717107574
+40,Oklahoma,55,Wisconsin,2024,2025,linear_regression,318.74054889151756
+24,Maryland,13,Georgia,2024,2025,linear_regression,318.681129990572
+17,Illinois,41,Oregon,2024,2025,linear_regression,318.40416911634696
+26,Michigan,40,Oklahoma,2024,2025,linear_regression,317.8485276297319
+28,Mississippi,51,Virginia,2024,2025,linear_regression,317.8330564671653
+27,Minnesota,8,Colorado,2024,2025,linear_regression,316.4540070452335
+19,Iowa,51,Virginia,2024,2025,linear_regression,316.0983269594506
+19,Iowa,40,Oklahoma,2024,2025,linear_regression,315.68447989165793
+10,Delaware,51,Virginia,2024,2025,linear_regression,315.2952752216417
+31,Nebraska,38,North Dakota,2024,2025,linear_regression,314.29075792344327
+34,New Jersey,19,Iowa,2024,2025,linear_regression,314.03952215943576
+36,New York,41,Oregon,2024,2025,linear_regression,313.3155392911479
+10,Delaware,39,Ohio,2024,2025,linear_regression,313.2317786661893
+8,Colorado,38,North Dakota,2024,2025,linear_regression,313.0409642583689
+34,New Jersey,44,Rhode Island,2024,2025,linear_regression,312.7879937804753
+34,New Jersey,53,Washington,2024,2025,linear_regression,311.38550738728327
+21,Kentucky,27,Minnesota,2024,2025,linear_regression,310.32455905119895
+13,Georgia,53,Washington,2024,2025,linear_regression,309.76484983323695
+8,Colorado,41,Oregon,2024,2025,linear_regression,309.734497428662
+19,Iowa,53,Washington,2024,2025,linear_regression,307.65905259358067
+36,New York,29,Missouri,2024,2025,linear_regression,306.9983564082052
+50,Vermont,42,Pennsylvania,2024,2025,linear_regression,306.84554454244625
+49,Utah,17,Illinois,2024,2025,linear_regression,305.7972942259291
+34,New Jersey,45,South Carolina,2024,2025,linear_regression,305.75799230033147
+27,Minnesota,37,North Carolina,2024,2025,linear_regression,305.6857873623089
+45,South Carolina,27,Minnesota,2024,2025,linear_regression,305.56196077932674
+45,South Carolina,40,Oklahoma,2024,2025,linear_regression,304.83033306868066
+55,Wisconsin,16,Idaho,2024,2025,linear_regression,304.28852526806605
+22,Louisiana,27,Minnesota,2024,2025,linear_regression,303.56915726576534
+42,Pennsylvania,49,Utah,2024,2025,linear_regression,302.9675991744978
+5,Arkansas,8,Colorado,2024,2025,linear_regression,302.3870501464792
+13,Georgia,49,Utah,2024,2025,linear_regression,299.3546509523821
+53,Washington,47,Tennessee,2024,2025,linear_regression,299.17761785158774
+30,Montana,41,Oregon,2024,2025,linear_regression,299.16434991304374
+46,South Dakota,48,Texas,2024,2025,linear_regression,298.76192588760966
+16,Idaho,56,Wyoming,2024,2025,linear_regression,298.66590433264776
+46,South Dakota,55,Wisconsin,2024,2025,linear_regression,297.6542228376738
+38,North Dakota,40,Oklahoma,2024,2025,linear_regression,297.49420751819736
+5,Arkansas,4,Arizona,2024,2025,linear_regression,295.70280501830393
+48,Texas,16,Idaho,2024,2025,linear_regression,294.53813050158345
+34,New Jersey,38,North Dakota,2024,2025,linear_regression,294.1596923045252
+31,Nebraska,56,Wyoming,2024,2025,linear_regression,292.8412822640915
+40,Oklahoma,34,New Jersey,2024,2025,linear_regression,291.7996952620404
+24,Maryland,18,Indiana,2024,2025,linear_regression,291.2068581962397
+19,Iowa,34,New Jersey,2024,2025,linear_regression,290.96670948546677
+6,California,9,Connecticut,2024,2025,linear_regression,290.5586067216195
+26,Michigan,24,Maryland,2024,2025,linear_regression,290.52647947132516
+42,Pennsylvania,8,Colorado,2024,2025,linear_regression,289.71861476918133
+12,Florida,41,Oregon,2024,2025,linear_regression,289.67832323532315
+36,New York,1,Alabama,2024,2025,linear_regression,288.32275493399544
+24,Maryland,47,Tennessee,2024,2025,linear_regression,288.12177286445103
+18,Indiana,4,Arizona,2024,2025,linear_regression,287.9982925480752
+37,North Carolina,53,Washington,2024,2025,linear_regression,287.69274373915005
+5,Arkansas,31,Nebraska,2024,2025,linear_regression,286.898655525698
+18,Indiana,40,Oklahoma,2024,2025,linear_regression,286.46861244663637
+28,Mississippi,40,Oklahoma,2024,2025,linear_regression,286.3763299195328
+26,Michigan,10,Delaware,2024,2025,linear_regression,285.85439445838995
+55,Wisconsin,8,Colorado,2024,2025,linear_regression,285.4676343989993
+42,Pennsylvania,44,Rhode Island,2024,2025,linear_regression,285.2363098087505
+40,Oklahoma,36,New York,2024,2025,linear_regression,284.2044846346893
+40,Oklahoma,4,Arizona,2024,2025,linear_regression,283.61957237438105
+11,Washington DC,24,Maryland,2024,2025,linear_regression,282.39283286303623
+33,New Hampshire,9,Connecticut,2024,2025,linear_regression,282.0180489673161
+56,Wyoming,31,Nebraska,2024,2025,linear_regression,281.96179083767794
+38,North Dakota,31,Nebraska,2024,2025,linear_regression,280.796992223675
+39,Ohio,49,Utah,2024,2025,linear_regression,279.40182303856045
+41,Oregon,30,Montana,2024,2025,linear_regression,279.3607460365861
+18,Indiana,25,Massachusetts,2024,2025,linear_regression,279.2099763855934
+27,Minnesota,4,Arizona,2024,2025,linear_regression,278.12782373138447
+21,Kentucky,20,Kansas,2024,2025,linear_regression,277.22980020010783
+33,New Hampshire,34,New Jersey,2024,2025,linear_regression,276.88721692684817
+1,Alabama,34,New Jersey,2024,2025,linear_regression,276.59977650182947
+23,Maine,50,Vermont,2024,2025,linear_regression,274.4198409908218
+42,Pennsylvania,50,Vermont,2024,2025,linear_regression,274.18023004121426
+13,Georgia,20,Kansas,2024,2025,linear_regression,273.75091677014217
+45,South Carolina,54,West Virginia,2024,2025,linear_regression,273.34489352576975
+38,North Dakota,21,Kentucky,2024,2025,linear_regression,272.55880774891307
+27,Minnesota,1,Alabama,2024,2025,linear_regression,271.77933842635673
+25,Massachusetts,12,Florida,2024,2025,linear_regression,271.72636679966706
+42,Pennsylvania,53,Washington,2024,2025,linear_regression,271.2301232235159
+29,Missouri,4,Arizona,2024,2025,linear_regression,270.8103478405838
+16,Idaho,26,Michigan,2024,2025,linear_regression,268.90581392536984
+49,Utah,26,Michigan,2024,2025,linear_regression,267.83500283372086
+20,Kansas,34,New Jersey,2024,2025,linear_regression,267.3783386552392
+40,Oklahoma,12,Florida,2024,2025,linear_regression,267.02781047173977
+47,Tennessee,27,Minnesota,2024,2025,linear_regression,265.274572600538
+29,Missouri,9,Connecticut,2024,2025,linear_regression,264.06368190273383
+47,Tennessee,4,Arizona,2024,2025,linear_regression,263.57044305730517
+13,Georgia,8,Colorado,2024,2025,linear_regression,263.23799398447284
+33,New Hampshire,44,Rhode Island,2024,2025,linear_regression,263.2048430026761
+55,Wisconsin,49,Utah,2024,2025,linear_regression,262.978134238017
+16,Idaho,4,Arizona,2024,2025,linear_regression,262.57802406323935
+53,Washington,12,Florida,2024,2025,linear_regression,262.47724747334024
+55,Wisconsin,40,Oklahoma,2024,2025,linear_regression,262.0679841759135
+44,Rhode Island,34,New Jersey,2024,2025,linear_regression,260.7541552100628
+47,Tennessee,31,Nebraska,2024,2025,linear_regression,260.6490618021127
+36,New York,16,Idaho,2024,2025,linear_regression,260.5871356899926
+5,Arkansas,51,Virginia,2024,2025,linear_regression,260.0841327883943
+19,Iowa,12,Florida,2024,2025,linear_regression,259.9777248519586
+22,Louisiana,19,Iowa,2024,2025,linear_regression,259.9219187762008
+36,New York,19,Iowa,2024,2025,linear_regression,259.89390867876705
+37,North Carolina,10,Delaware,2024,2025,linear_regression,259.3933516392665
+53,Washington,32,Nevada,2024,2025,linear_regression,258.6364311433943
+53,Washington,39,Ohio,2024,2025,linear_regression,258.2720096225073
+27,Minnesota,49,Utah,2024,2025,linear_regression,258.13906091769195
+42,Pennsylvania,38,North Dakota,2024,2025,linear_regression,257.59792137796273
+8,Colorado,16,Idaho,2024,2025,linear_regression,257.5549237107176
+32,Nevada,26,Michigan,2024,2025,linear_regression,257.1944643898202
+27,Minnesota,51,Virginia,2024,2025,linear_regression,256.4665687031753
+8,Colorado,42,Pennsylvania,2024,2025,linear_regression,256.32516207683256
+55,Wisconsin,4,Arizona,2024,2025,linear_regression,256.1548559590776
+54,West Virginia,17,Illinois,2024,2025,linear_regression,255.9788692265994
+6,California,56,Wyoming,2024,2025,linear_regression,253.9231162982146
+34,New Jersey,8,Colorado,2024,2025,linear_regression,253.37290294092418
+24,Maryland,55,Wisconsin,2024,2025,linear_regression,253.09431256238355
+56,Wyoming,48,Texas,2024,2025,linear_regression,251.13868117744215
+28,Mississippi,42,Pennsylvania,2024,2025,linear_regression,250.5747420110563
+4,Arizona,41,Oregon,2024,2025,linear_regression,249.79082983598636
+37,North Carolina,19,Iowa,2024,2025,linear_regression,249.58238941942312
+12,Florida,19,Iowa,2024,2025,linear_regression,249.52811325300513
+29,Missouri,24,Maryland,2024,2025,linear_regression,249.3061850543781
+26,Michigan,49,Utah,2024,2025,linear_regression,248.08325422536967
+51,Virginia,31,Nebraska,2024,2025,linear_regression,247.6005801863754
+47,Tennessee,25,Massachusetts,2024,2025,linear_regression,246.80359462581328
+41,Oregon,42,Pennsylvania,2024,2025,linear_regression,245.7173133888237
+25,Massachusetts,51,Virginia,2024,2025,linear_regression,244.4829071409248
+4,Arizona,42,Pennsylvania,2024,2025,linear_regression,244.43298155107004
+41,Oregon,39,Ohio,2024,2025,linear_regression,243.73344388848773
+29,Missouri,38,North Dakota,2024,2025,linear_regression,242.57259357571712
+56,Wyoming,46,South Dakota,2024,2025,linear_regression,241.55580268707007
+56,Wyoming,42,Pennsylvania,2024,2025,linear_regression,241.18650591953434
+17,Illinois,49,Utah,2024,2025,linear_regression,241.05053161497648
+42,Pennsylvania,28,Mississippi,2024,2025,linear_regression,239.99423429112386
+28,Mississippi,55,Wisconsin,2024,2025,linear_regression,239.70578126022014
+18,Indiana,9,Connecticut,2024,2025,linear_regression,238.53813040445903
+38,North Dakota,20,Kansas,2024,2025,linear_regression,238.44002831207212
+20,Kansas,36,New York,2024,2025,linear_regression,238.376784526027
+4,Arizona,27,Minnesota,2024,2025,linear_regression,237.5733659626963
+1,Alabama,25,Massachusetts,2024,2025,linear_regression,235.38678156505756
+38,North Dakota,6,California,2024,2025,linear_regression,235.28109273631765
+1,Alabama,4,Arizona,2024,2025,linear_regression,234.55100335094647
+1,Alabama,20,Kansas,2024,2025,linear_regression,234.27236074939918
+18,Indiana,8,Colorado,2024,2025,linear_regression,234.17998786714367
+31,Nebraska,40,Oklahoma,2024,2025,linear_regression,234.15127734394827
+45,South Carolina,25,Massachusetts,2024,2025,linear_regression,233.94674957385683
+50,Vermont,9,Connecticut,2024,2025,linear_regression,233.739689930876
+26,Michigan,41,Oregon,2024,2025,linear_regression,232.985931987217
+53,Washington,36,New York,2024,2025,linear_regression,232.34187816548274
+5,Arkansas,49,Utah,2024,2025,linear_regression,232.0805707222582
+25,Massachusetts,37,North Carolina,2024,2025,linear_regression,231.18285178796685
+25,Massachusetts,24,Maryland,2024,2025,linear_regression,229.76562940844173
+41,Oregon,36,New York,2024,2025,linear_regression,229.3976974108392
+36,New York,53,Washington,2024,2025,linear_regression,228.6454716287122
+34,New Jersey,23,Maine,2024,2025,linear_regression,228.2417741182365
+16,Idaho,13,Georgia,2024,2025,linear_regression,226.73916359205128
+33,New Hampshire,42,Pennsylvania,2024,2025,linear_regression,226.46581764359235
+31,Nebraska,12,Florida,2024,2025,linear_regression,226.35440411112876
+9,Connecticut,17,Illinois,2024,2025,linear_regression,224.4091652719015
+46,South Dakota,8,Colorado,2024,2025,linear_regression,223.35569680261565
+31,Nebraska,42,Pennsylvania,2024,2025,linear_regression,221.96030264695153
+37,North Carolina,22,Louisiana,2024,2025,linear_regression,221.8326179634759
+45,South Carolina,41,Oregon,2024,2025,linear_regression,221.64954280099371
+27,Minnesota,21,Kentucky,2024,2025,linear_regression,220.88101490154645
+40,Oklahoma,1,Alabama,2024,2025,linear_regression,220.54409248431853
+16,Idaho,12,Florida,2024,2025,linear_regression,220.44984956172271
+21,Kentucky,22,Louisiana,2024,2025,linear_regression,220.1174420058919
+16,Idaho,36,New York,2024,2025,linear_regression,219.78697365620357
+8,Colorado,12,Florida,2024,2025,linear_regression,218.8586509007448
+27,Minnesota,25,Massachusetts,2024,2025,linear_regression,218.69002866735573
+20,Kansas,51,Virginia,2024,2025,linear_regression,218.68805206196805
+18,Indiana,53,Washington,2024,2025,linear_regression,218.6683172508075
+53,Washington,55,Wisconsin,2024,2025,linear_regression,217.39616184614493
+30,Montana,46,South Dakota,2024,2025,linear_regression,216.21371639981456
+55,Wisconsin,41,Oregon,2024,2025,linear_regression,216.01261172404566
+34,New Jersey,31,Nebraska,2024,2025,linear_regression,215.76319674806524
+4,Arizona,13,Georgia,2024,2025,linear_regression,215.73697334855652
+47,Tennessee,8,Colorado,2024,2025,linear_regression,214.67700100807332
+1,Alabama,27,Minnesota,2024,2025,linear_regression,213.3419398023252
+37,North Carolina,40,Oklahoma,2024,2025,linear_regression,213.15136995972557
+31,Nebraska,13,Georgia,2024,2025,linear_regression,213.11412371033148
+55,Wisconsin,24,Maryland,2024,2025,linear_regression,212.39776933354793
+49,Utah,42,Pennsylvania,2024,2025,linear_regression,212.13438827937517
+44,Rhode Island,42,Pennsylvania,2024,2025,linear_regression,211.74491009487804
+13,Georgia,38,North Dakota,2024,2025,linear_regression,211.70742655717916
+17,Illinois,9,Connecticut,2024,2025,linear_regression,210.96183710453323
+42,Pennsylvania,41,Oregon,2024,2025,linear_regression,210.9294569702717
+17,Illinois,54,West Virginia,2024,2025,linear_regression,210.03384599048027
+36,New York,28,Mississippi,2024,2025,linear_regression,209.81997688974704
+53,Washington,34,New Jersey,2024,2025,linear_regression,209.5701923262514
+37,North Carolina,9,Connecticut,2024,2025,linear_regression,208.68833880415278
+38,North Dakota,42,Pennsylvania,2024,2025,linear_regression,208.56938631230707
+56,Wyoming,16,Idaho,2024,2025,linear_regression,208.05073952266707
+4,Arizona,36,New York,2024,2025,linear_regression,207.43384719040947
+17,Illinois,32,Nevada,2024,2025,linear_regression,206.99975639488378
+49,Utah,39,Ohio,2024,2025,linear_regression,206.36391283452855
+26,Michigan,22,Louisiana,2024,2025,linear_regression,206.34186347785993
+20,Kansas,37,North Carolina,2024,2025,linear_regression,205.17912024501535
+1,Alabama,24,Maryland,2024,2025,linear_regression,204.5264790935338
+20,Kansas,21,Kentucky,2024,2025,linear_regression,203.98754290687032
+8,Colorado,51,Virginia,2024,2025,linear_regression,203.9524804960347
+8,Colorado,19,Iowa,2024,2025,linear_regression,203.47034986644755
+51,Virginia,5,Arkansas,2024,2025,linear_regression,203.36270016747667
+41,Oregon,29,Missouri,2024,2025,linear_regression,203.27234673733568
+12,Florida,27,Minnesota,2024,2025,linear_regression,202.63640591733417
+37,North Carolina,20,Kansas,2024,2025,linear_regression,202.45596193179765
+53,Washington,13,Georgia,2024,2025,linear_regression,202.34052674808356
+50,Vermont,48,Texas,2024,2025,linear_regression,201.66859777854097
+36,New York,8,Colorado,2024,2025,linear_regression,201.61472440958352
+20,Kansas,38,North Dakota,2024,2025,linear_regression,201.29519983381033
+25,Massachusetts,47,Tennessee,2024,2025,linear_regression,201.2306454302318
+19,Iowa,45,South Carolina,2024,2025,linear_regression,201.1016919356353
+45,South Carolina,53,Washington,2024,2025,linear_regression,200.3505940981351
+40,Oklahoma,53,Washington,2024,2025,linear_regression,199.09401956963137
+23,Maine,55,Wisconsin,2024,2025,linear_regression,199.0787857269428
+25,Massachusetts,19,Iowa,2024,2025,linear_regression,198.77052547698958
+38,North Dakota,13,Georgia,2024,2025,linear_regression,197.2665742381482
+36,New York,40,Oklahoma,2024,2025,linear_regression,197.1387719362096
+24,Maryland,1,Alabama,2024,2025,linear_regression,196.8834909334648
+5,Arkansas,53,Washington,2024,2025,linear_regression,194.07548904540528
+27,Minnesota,40,Oklahoma,2024,2025,linear_regression,194.0097296695392
+48,Texas,10,Delaware,2024,2025,linear_regression,193.8114501322648
+40,Oklahoma,35,New Mexico,2024,2025,linear_regression,193.50685837107343
+41,Oregon,19,Iowa,2024,2025,linear_regression,193.34512129745653
+4,Arizona,39,Ohio,2024,2025,linear_regression,192.70221050399775
+39,Ohio,23,Maine,2024,2025,linear_regression,192.16308969637865
+28,Mississippi,36,New York,2024,2025,linear_regression,191.83341867019845
+16,Idaho,42,Pennsylvania,2024,2025,linear_regression,191.23098786555855
+23,Maine,44,Rhode Island,2024,2025,linear_regression,190.95833413947815
+8,Colorado,27,Minnesota,2024,2025,linear_regression,190.94823465130895
+23,Maine,13,Georgia,2024,2025,linear_regression,190.84831803645676
+22,Louisiana,20,Kansas,2024,2025,linear_regression,190.65845025199428
+54,West Virginia,13,Georgia,2024,2025,linear_regression,190.64793928396463
+13,Georgia,4,Arizona,2024,2025,linear_regression,190.20504407213923
+42,Pennsylvania,4,Arizona,2024,2025,linear_regression,190.12382456861053
+55,Wisconsin,32,Nevada,2024,2025,linear_regression,190.06815158047266
+51,Virginia,4,Arizona,2024,2025,linear_regression,188.6767106827552
+20,Kansas,53,Washington,2024,2025,linear_regression,187.23886931810597
+36,New York,20,Kansas,2024,2025,linear_regression,187.04854410989165
+39,Ohio,41,Oregon,2024,2025,linear_regression,186.9645912254678
+12,Florida,5,Arkansas,2024,2025,linear_regression,186.2077253161297
+48,Texas,54,West Virginia,2024,2025,linear_regression,185.24831975427392
+53,Washington,19,Iowa,2024,2025,linear_regression,184.4204224594957
+19,Iowa,1,Alabama,2024,2025,linear_regression,183.63455196747256
+40,Oklahoma,41,Oregon,2024,2025,linear_regression,183.30796459247918
+34,New Jersey,54,West Virginia,2024,2025,linear_regression,182.16175043502213
+12,Florida,53,Washington,2024,2025,linear_regression,182.13674406985132
+46,South Dakota,17,Illinois,2024,2025,linear_regression,182.04777482591817
+22,Louisiana,55,Wisconsin,2024,2025,linear_regression,181.5285989316263
+39,Ohio,33,New Hampshire,2024,2025,linear_regression,181.13509594345032
+21,Kentucky,53,Washington,2024,2025,linear_regression,181.1039792677413
+12,Florida,9,Connecticut,2024,2025,linear_regression,180.90807185559683
+18,Indiana,49,Utah,2024,2025,linear_regression,180.60724181385456
+44,Rhode Island,33,New Hampshire,2024,2025,linear_regression,180.530923906755
+22,Louisiana,36,New York,2024,2025,linear_regression,180.32035864227814
+34,New Jersey,4,Arizona,2024,2025,linear_regression,180.08960911054572
+48,Texas,44,Rhode Island,2024,2025,linear_regression,179.66101889788808
+18,Indiana,41,Oregon,2024,2025,linear_regression,178.97624320887493
+24,Maryland,22,Louisiana,2024,2025,linear_regression,177.87485567777102
+51,Virginia,20,Kansas,2024,2025,linear_regression,177.6584725121558
+12,Florida,8,Colorado,2024,2025,linear_regression,177.44524004957384
+49,Utah,18,Indiana,2024,2025,linear_regression,177.34165909381545
+34,New Jersey,49,Utah,2024,2025,linear_regression,177.15579098987882
+4,Arizona,51,Virginia,2024,2025,linear_regression,177.1445919633217
+23,Maine,12,Florida,2024,2025,linear_regression,176.52889745960758
+39,Ohio,46,South Dakota,2024,2025,linear_regression,175.81131578985372
+8,Colorado,46,South Dakota,2024,2025,linear_regression,175.7094380025566
+47,Tennessee,32,Nevada,2024,2025,linear_regression,175.27088501215763
+31,Nebraska,37,North Carolina,2024,2025,linear_regression,175.1053230590313
+25,Massachusetts,26,Michigan,2024,2025,linear_regression,174.8736625058446
+5,Arkansas,27,Minnesota,2024,2025,linear_regression,174.82630101121256
+6,California,38,North Dakota,2024,2025,linear_regression,174.14383412569617
+23,Maine,24,Maryland,2024,2025,linear_regression,173.1158173591447
+20,Kansas,4,Arizona,2024,2025,linear_regression,172.18551334171184
+24,Maryland,45,South Carolina,2024,2025,linear_regression,172.1696888969935
+24,Maryland,21,Kentucky,2024,2025,linear_regression,171.99736233543769
+37,North Carolina,41,Oregon,2024,2025,linear_regression,171.68481550930306
+38,North Dakota,29,Missouri,2024,2025,linear_regression,171.6556626417888
+12,Florida,20,Kansas,2024,2025,linear_regression,171.51140675976495
+33,New Hampshire,6,California,2024,2025,linear_regression,171.31427257927447
+1,Alabama,41,Oregon,2024,2025,linear_regression,171.0838675292115
+20,Kansas,1,Alabama,2024,2025,linear_regression,170.6140307044622
+19,Iowa,4,Arizona,2024,2025,linear_regression,170.0155954439877
+19,Iowa,28,Mississippi,2024,2025,linear_regression,169.7094846863287
+26,Michigan,32,Nevada,2024,2025,linear_regression,168.28435298891037
+23,Maine,39,Ohio,2024,2025,linear_regression,167.69820805722145
+51,Virginia,33,New Hampshire,2024,2025,linear_regression,167.48038364478512
+53,Washington,20,Kansas,2024,2025,linear_regression,167.3911293297282
+45,South Carolina,19,Iowa,2024,2025,linear_regression,166.9466534942926
+41,Oregon,55,Wisconsin,2024,2025,linear_regression,166.43777999096824
+44,Rhode Island,39,Ohio,2024,2025,linear_regression,166.42697054425463
+42,Pennsylvania,32,Nevada,2024,2025,linear_regression,166.01382922408362
+21,Kentucky,31,Nebraska,2024,2025,linear_regression,164.93057484949563
+28,Mississippi,34,New Jersey,2024,2025,linear_regression,163.86644046827215
+24,Maryland,23,Maine,2024,2025,linear_regression,163.45131268251282
+32,Nevada,16,Idaho,2024,2025,linear_regression,163.44355313342862
+42,Pennsylvania,31,Nebraska,2024,2025,linear_regression,163.38524496389576
+51,Virginia,40,Oklahoma,2024,2025,linear_regression,162.53155710940905
+53,Washington,25,Massachusetts,2024,2025,linear_regression,162.52461747230547
+38,North Dakota,53,Washington,2024,2025,linear_regression,162.3379619798958
+9,Connecticut,13,Georgia,2024,2025,linear_regression,161.8541191805917
+32,Nevada,12,Florida,2024,2025,linear_regression,161.26291630234982
+56,Wyoming,39,Ohio,2024,2025,linear_regression,161.07931820462838
+38,North Dakota,16,Idaho,2024,2025,linear_regression,160.8375969796466
+30,Montana,8,Colorado,2024,2025,linear_regression,159.79033220497004
+29,Missouri,45,South Carolina,2024,2025,linear_regression,159.5050671446496
+47,Tennessee,53,Washington,2024,2025,linear_regression,159.21769297880758
+23,Maine,37,North Carolina,2024,2025,linear_regression,158.68088731466628
+49,Utah,13,Georgia,2024,2025,linear_regression,158.27730173315493
+53,Washington,51,Virginia,2024,2025,linear_regression,158.04686573437797
+5,Arkansas,34,New Jersey,2024,2025,linear_regression,157.4874650822182
+13,Georgia,9,Connecticut,2024,2025,linear_regression,157.3986235936503
+40,Oklahoma,45,South Carolina,2024,2025,linear_regression,157.3788448102442
+21,Kentucky,8,Colorado,2024,2025,linear_regression,157.06486429043076
+9,Connecticut,24,Maryland,2024,2025,linear_regression,157.02651160813917
+51,Virginia,32,Nevada,2024,2025,linear_regression,156.85378845576147
+40,Oklahoma,28,Mississippi,2024,2025,linear_regression,156.66042014774806
+22,Louisiana,51,Virginia,2024,2025,linear_regression,156.62512375981873
+51,Virginia,22,Louisiana,2024,2025,linear_regression,156.52084095886215
+47,Tennessee,41,Oregon,2024,2025,linear_regression,156.238802675248
+34,New Jersey,22,Louisiana,2024,2025,linear_regression,155.7005504906671
+28,Mississippi,25,Massachusetts,2024,2025,linear_regression,154.85056717561707
+49,Utah,27,Minnesota,2024,2025,linear_regression,154.68821744238753
+51,Virginia,23,Maine,2024,2025,linear_regression,154.39323319507236
+26,Michigan,38,North Dakota,2024,2025,linear_regression,153.40434374772659
+37,North Carolina,49,Utah,2024,2025,linear_regression,152.82703680166878
+47,Tennessee,49,Utah,2024,2025,linear_regression,152.23560205624815
+24,Maryland,29,Missouri,2024,2025,linear_regression,151.92105053757845
+35,New Mexico,29,Missouri,2024,2025,linear_regression,151.66549466893127
+26,Michigan,25,Massachusetts,2024,2025,linear_regression,151.38485396271145
+1,Alabama,8,Colorado,2024,2025,linear_regression,151.14347705338298
+21,Kentucky,25,Massachusetts,2024,2025,linear_regression,150.62878038473505
+41,Oregon,13,Georgia,2024,2025,linear_regression,150.55087187258943
+1,Alabama,53,Washington,2024,2025,linear_regression,150.1377501581682
+30,Montana,31,Nebraska,2024,2025,linear_regression,149.88037800471915
+20,Kansas,49,Utah,2024,2025,linear_regression,149.62448863225882
+53,Washington,37,North Carolina,2024,2025,linear_regression,148.13220708831915
+54,West Virginia,22,Louisiana,2024,2025,linear_regression,147.9371770257587
+28,Mississippi,32,Nevada,2024,2025,linear_regression,147.38974870740824
+42,Pennsylvania,11,Washington DC,2024,2025,linear_regression,146.45929063546794
+41,Oregon,37,North Carolina,2024,2025,linear_regression,146.41905373833697
+21,Kentucky,4,Arizona,2024,2025,linear_regression,144.9231358987444
+40,Oklahoma,51,Virginia,2024,2025,linear_regression,144.83087587494427
+27,Minnesota,24,Maryland,2024,2025,linear_regression,144.4305729452453
+22,Louisiana,8,Colorado,2024,2025,linear_regression,143.97786067356668
+30,Montana,32,Nevada,2024,2025,linear_regression,143.93012718259754
+13,Georgia,41,Oregon,2024,2025,linear_regression,143.85839738780885
+31,Nebraska,41,Oregon,2024,2025,linear_regression,143.672570426873
+41,Oregon,18,Indiana,2024,2025,linear_regression,143.65673180194008
+40,Oklahoma,24,Maryland,2024,2025,linear_regression,143.5693653156068
+55,Wisconsin,22,Louisiana,2024,2025,linear_regression,143.5579864261801
+49,Utah,55,Wisconsin,2024,2025,linear_regression,142.95144049218686
+31,Nebraska,36,New York,2024,2025,linear_regression,142.71435648896573
+40,Oklahoma,16,Idaho,2024,2025,linear_regression,142.5919706607685
+9,Connecticut,18,Indiana,2024,2025,linear_regression,142.51951136903426
+20,Kansas,28,Mississippi,2024,2025,linear_regression,142.20997283194734
+36,New York,22,Louisiana,2024,2025,linear_regression,142.07374058153533
+35,New Mexico,55,Wisconsin,2024,2025,linear_regression,141.7220576759603
+28,Mississippi,8,Colorado,2024,2025,linear_regression,141.71510979227477
+44,Rhode Island,50,Vermont,2024,2025,linear_regression,141.4046293939357
+23,Maine,17,Illinois,2024,2025,linear_regression,141.19905038593225
+56,Wyoming,38,North Dakota,2024,2025,linear_regression,141.0415182001041
+4,Arizona,34,New Jersey,2024,2025,linear_regression,140.69514721734714
+1,Alabama,19,Iowa,2024,2025,linear_regression,140.60832678713422
+23,Maine,6,California,2024,2025,linear_regression,138.88989241342964
+39,Ohio,10,Delaware,2024,2025,linear_regression,138.73291754813116
+21,Kentucky,40,Oklahoma,2024,2025,linear_regression,138.68408637775815
+35,New Mexico,49,Utah,2024,2025,linear_regression,138.61524286202692
+5,Arkansas,25,Massachusetts,2024,2025,linear_regression,138.33775260537652
+12,Florida,31,Nebraska,2024,2025,linear_regression,137.20238762349584
+55,Wisconsin,28,Mississippi,2024,2025,linear_regression,136.61781175115246
+51,Virginia,19,Iowa,2024,2025,linear_regression,136.52949429814322
+38,North Dakota,12,Florida,2024,2025,linear_regression,135.62067890628057
+9,Connecticut,51,Virginia,2024,2025,linear_regression,135.46895968051686
+19,Iowa,22,Louisiana,2024,2025,linear_regression,135.00763614128266
+27,Minnesota,45,South Carolina,2024,2025,linear_regression,134.54869474889125
+22,Louisiana,25,Massachusetts,2024,2025,linear_regression,133.83719611245598
+29,Missouri,35,New Mexico,2024,2025,linear_regression,133.75783357632966
+20,Kansas,24,Maryland,2024,2025,linear_regression,133.6985832497815
+16,Idaho,37,North Carolina,2024,2025,linear_regression,133.66385481616834
+24,Maryland,33,New Hampshire,2024,2025,linear_regression,133.6208693816708
+4,Arizona,55,Wisconsin,2024,2025,linear_regression,133.22039155868305
+21,Kentucky,9,Connecticut,2024,2025,linear_regression,133.14673913037495
+51,Virginia,53,Washington,2024,2025,linear_regression,132.98165136317382
+8,Colorado,34,New Jersey,2024,2025,linear_regression,132.87958054768987
+45,South Carolina,9,Connecticut,2024,2025,linear_regression,132.70590376278687
+56,Wyoming,17,Illinois,2024,2025,linear_regression,132.37977990101322
+39,Ohio,32,Nevada,2024,2025,linear_regression,132.04781944400503
+46,South Dakota,47,Tennessee,2024,2025,linear_regression,131.8693723663708
+16,Idaho,39,Ohio,2024,2025,linear_regression,131.43042000187523
+42,Pennsylvania,22,Louisiana,2024,2025,linear_regression,131.4068078371531
+50,Vermont,44,Rhode Island,2024,2025,linear_regression,130.98804955397
+45,South Carolina,4,Arizona,2024,2025,linear_regression,130.92973446879998
+4,Arizona,29,Missouri,2024,2025,linear_regression,130.8083614509428
+28,Mississippi,4,Arizona,2024,2025,linear_regression,130.77477987450908
+4,Arizona,25,Massachusetts,2024,2025,linear_regression,130.70165689317074
+28,Mississippi,27,Minnesota,2024,2025,linear_regression,130.57126237886752
+8,Colorado,36,New York,2024,2025,linear_regression,130.45903541789116
+25,Massachusetts,55,Wisconsin,2024,2025,linear_regression,130.3565946633882
+42,Pennsylvania,16,Idaho,2024,2025,linear_regression,129.06444671387425
+41,Oregon,12,Florida,2024,2025,linear_regression,129.0042340851548
+37,North Carolina,23,Maine,2024,2025,linear_regression,128.37393267581461
+20,Kansas,25,Massachusetts,2024,2025,linear_regression,128.0486052789864
+23,Maine,51,Virginia,2024,2025,linear_regression,128.03859443315497
+51,Virginia,28,Mississippi,2024,2025,linear_regression,128.0267423252694
+21,Kentucky,38,North Dakota,2024,2025,linear_regression,127.57720940597676
+19,Iowa,49,Utah,2024,2025,linear_regression,126.38423610612759
+34,New Jersey,1,Alabama,2024,2025,linear_regression,126.12324964076177
+51,Virginia,38,North Dakota,2024,2025,linear_regression,125.09463727966212
+29,Missouri,32,Nevada,2024,2025,linear_regression,124.6958849104058
+47,Tennessee,50,Vermont,2024,2025,linear_regression,124.63556017603054
+31,Nebraska,5,Arkansas,2024,2025,linear_regression,124.03305372147474
+55,Wisconsin,30,Montana,2024,2025,linear_regression,123.79992568162004
+16,Idaho,21,Kentucky,2024,2025,linear_regression,122.84638322984011
+10,Delaware,25,Massachusetts,2024,2025,linear_regression,122.69344248145103
+45,South Carolina,23,Maine,2024,2025,linear_regression,122.2888688303257
+1,Alabama,49,Utah,2024,2025,linear_regression,122.26035601607384
+28,Mississippi,20,Kansas,2024,2025,linear_regression,121.07304867923207
+28,Mississippi,41,Oregon,2024,2025,linear_regression,120.97699836740532
+44,Rhode Island,23,Maine,2024,2025,linear_regression,120.91275003660442
+33,New Hampshire,48,Texas,2024,2025,linear_regression,120.8140574068525
+40,Oklahoma,21,Kentucky,2024,2025,linear_regression,120.77289043725455
+24,Maryland,20,Kansas,2024,2025,linear_regression,120.69075673037523
+25,Massachusetts,21,Kentucky,2024,2025,linear_regression,120.65575663049228
+55,Wisconsin,9,Connecticut,2024,2025,linear_regression,120.61946947654977
+34,New Jersey,41,Oregon,2024,2025,linear_regression,120.32476955135218
+36,New York,5,Arkansas,2024,2025,linear_regression,120.08649029361095
+44,Rhode Island,48,Texas,2024,2025,linear_regression,119.85675961065925
+8,Colorado,21,Kentucky,2024,2025,linear_regression,119.76311756629923
+16,Idaho,47,Tennessee,2024,2025,linear_regression,119.49000017777513
+47,Tennessee,9,Connecticut,2024,2025,linear_regression,119.32175360983263
+49,Utah,29,Missouri,2024,2025,linear_regression,119.21548779046188
+24,Maryland,27,Minnesota,2024,2025,linear_regression,118.89395932217008
+49,Utah,31,Nebraska,2024,2025,linear_regression,118.67301608665156
+49,Utah,45,South Carolina,2024,2025,linear_regression,118.61755139114842
+45,South Carolina,10,Delaware,2024,2025,linear_regression,117.8103420574574
+13,Georgia,16,Idaho,2024,2025,linear_regression,117.50510427457007
+22,Louisiana,54,West Virginia,2024,2025,linear_regression,116.8721554486014
+53,Washington,21,Kentucky,2024,2025,linear_regression,116.66742344703977
+5,Arkansas,41,Oregon,2024,2025,linear_regression,116.48279055938187
+29,Missouri,46,South Dakota,2024,2025,linear_regression,116.37749828050727
+28,Mississippi,53,Washington,2024,2025,linear_regression,116.31917545616119
+23,Maine,48,Texas,2024,2025,linear_regression,116.26869753331272
+4,Arizona,30,Montana,2024,2025,linear_regression,115.88897683166184
+26,Michigan,35,New Mexico,2024,2025,linear_regression,115.7992842467371
+46,South Dakota,39,Ohio,2024,2025,linear_regression,115.22512479686395
+25,Massachusetts,27,Minnesota,2024,2025,linear_regression,115.14765147682388
+54,West Virginia,12,Florida,2024,2025,linear_regression,115.08203729344237
+46,South Dakota,26,Michigan,2024,2025,linear_regression,114.86626271979637
+18,Indiana,32,Nevada,2024,2025,linear_regression,114.73924870407637
+37,North Carolina,31,Nebraska,2024,2025,linear_regression,114.4823158394677
+31,Nebraska,49,Utah,2024,2025,linear_regression,114.44061964359912
+12,Florida,38,North Dakota,2024,2025,linear_regression,114.06273061105503
+31,Nebraska,47,Tennessee,2024,2025,linear_regression,113.59477501296072
+23,Maine,45,South Carolina,2024,2025,linear_regression,113.28014910631822
+26,Michigan,9,Connecticut,2024,2025,linear_regression,112.78504861908507
+27,Minnesota,32,Nevada,2024,2025,linear_regression,112.72889981456967
+21,Kentucky,49,Utah,2024,2025,linear_regression,112.45068282264913
+46,South Dakota,20,Kansas,2024,2025,linear_regression,112.190627797764
+51,Virginia,8,Colorado,2024,2025,linear_regression,111.9916078182834
+49,Utah,35,New Mexico,2024,2025,linear_regression,111.83592129361622
+45,South Carolina,49,Utah,2024,2025,linear_regression,111.77199727402686
+56,Wyoming,4,Arizona,2024,2025,linear_regression,111.67015040142931
+19,Iowa,41,Oregon,2024,2025,linear_regression,110.96744980272655
+28,Mississippi,49,Utah,2024,2025,linear_regression,110.45313264534178
+25,Massachusetts,10,Delaware,2024,2025,linear_regression,109.99053258064777
+51,Virginia,49,Utah,2024,2025,linear_regression,109.96013093243369
+35,New Mexico,17,Illinois,2024,2025,linear_regression,109.76075668531175
+31,Nebraska,53,Washington,2024,2025,linear_regression,108.69251039270353
+54,West Virginia,6,California,2024,2025,linear_regression,108.1402210557766
+38,North Dakota,36,New York,2024,2025,linear_regression,107.97131795693258
+49,Utah,47,Tennessee,2024,2025,linear_regression,107.71371627929659
+30,Montana,4,Arizona,2024,2025,linear_regression,106.98542733408809
+48,Texas,46,South Dakota,2024,2025,linear_regression,106.75520606865766
+31,Nebraska,4,Arizona,2024,2025,linear_regression,106.73579043782442
+4,Arizona,45,South Carolina,2024,2025,linear_regression,106.32313765800671
+27,Minnesota,10,Delaware,2024,2025,linear_regression,106.31960158181488
+26,Michigan,54,West Virginia,2024,2025,linear_regression,105.69089628168314
+9,Connecticut,55,Wisconsin,2024,2025,linear_regression,105.59809133391437
+22,Louisiana,4,Arizona,2024,2025,linear_regression,105.49955484713777
+46,South Dakota,42,Pennsylvania,2024,2025,linear_regression,105.2428628808056
+48,Texas,50,Vermont,2024,2025,linear_regression,104.99012688400842
+50,Vermont,12,Florida,2024,2025,linear_regression,104.59585176537135
+54,West Virginia,55,Wisconsin,2024,2025,linear_regression,104.34948594023439
+10,Delaware,13,Georgia,2024,2025,linear_regression,103.9799931009889
+45,South Carolina,38,North Dakota,2024,2025,linear_regression,103.90758518734228
+16,Idaho,27,Minnesota,2024,2025,linear_regression,103.8298064894854
+22,Louisiana,38,North Dakota,2024,2025,linear_regression,103.44386033907901
+17,Illinois,16,Idaho,2024,2025,linear_regression,103.35984378240016
+16,Idaho,29,Missouri,2024,2025,linear_regression,102.80408844682981
+10,Delaware,6,California,2024,2025,linear_regression,102.74287870028303
+12,Florida,32,Nevada,2024,2025,linear_regression,102.6750147390049
+38,North Dakota,8,Colorado,2024,2025,linear_regression,102.31954482170215
+29,Missouri,25,Massachusetts,2024,2025,linear_regression,102.30867994745861
+13,Georgia,54,West Virginia,2024,2025,linear_regression,100.60852149483475
+49,Utah,12,Florida,2024,2025,linear_regression,100.49902233934756
+47,Tennessee,38,North Dakota,2024,2025,linear_regression,100.15678625343091
+31,Nebraska,34,New Jersey,2024,2025,linear_regression,99.19625770431432
+25,Massachusetts,53,Washington,2024,2025,linear_regression,99.15101135160717
+34,New Jersey,32,Nevada,2024,2025,linear_regression,98.84901611051508
+22,Louisiana,53,Washington,2024,2025,linear_regression,98.70940585569541
+21,Kentucky,41,Oregon,2024,2025,linear_regression,98.6731218319336
+54,West Virginia,25,Massachusetts,2024,2025,linear_regression,98.33166016553436
+13,Georgia,46,South Dakota,2024,2025,linear_regression,98.14683739506253
+28,Mississippi,19,Iowa,2024,2025,linear_regression,97.86031354071926
+19,Iowa,25,Massachusetts,2024,2025,linear_regression,97.4930920407197
+6,California,23,Maine,2024,2025,linear_regression,96.8963021528955
+35,New Mexico,40,Oklahoma,2024,2025,linear_regression,96.57003362153411
+32,Nevada,39,Ohio,2024,2025,linear_regression,96.44914557931222
+27,Minnesota,28,Mississippi,2024,2025,linear_regression,96.28659310317991
+54,West Virginia,9,Connecticut,2024,2025,linear_regression,95.48717399415845
+37,North Carolina,38,North Dakota,2024,2025,linear_regression,95.39762732153129
+13,Georgia,31,Nebraska,2024,2025,linear_regression,95.02807620912213
+9,Connecticut,26,Michigan,2024,2025,linear_regression,94.96584836677586
+22,Louisiana,9,Connecticut,2024,2025,linear_regression,94.71506588028853
+32,Nevada,42,Pennsylvania,2024,2025,linear_regression,93.96664609738508
+8,Colorado,18,Indiana,2024,2025,linear_regression,93.84534161895826
+8,Colorado,37,North Carolina,2024,2025,linear_regression,93.80257961958506
+27,Minnesota,22,Louisiana,2024,2025,linear_regression,93.51431614018344
+40,Oklahoma,49,Utah,2024,2025,linear_regression,93.27364134951962
+18,Indiana,46,South Dakota,2024,2025,linear_regression,93.16464081460121
+13,Georgia,32,Nevada,2024,2025,linear_regression,93.13207430115997
+50,Vermont,24,Maryland,2024,2025,linear_regression,93.01835071373077
+37,North Carolina,32,Nevada,2024,2025,linear_regression,92.88116710398316
+54,West Virginia,45,South Carolina,2024,2025,linear_regression,92.64463749094425
+8,Colorado,32,Nevada,2024,2025,linear_regression,92.45203618912605
+29,Missouri,41,Oregon,2024,2025,linear_regression,92.41685088541206
+40,Oklahoma,38,North Dakota,2024,2025,linear_regression,92.12561040970591
+10,Delaware,37,North Carolina,2024,2025,linear_regression,91.73757731612817
+38,North Dakota,24,Maryland,2024,2025,linear_regression,91.59422285863826
+46,South Dakota,49,Utah,2024,2025,linear_regression,91.42561678942698
+22,Louisiana,41,Oregon,2024,2025,linear_regression,91.32389247778067
+51,Virginia,41,Oregon,2024,2025,linear_regression,91.18434702734501
+21,Kentucky,32,Nevada,2024,2025,linear_regression,91.11590877116795
+41,Oregon,51,Virginia,2024,2025,linear_regression,91.02250230028741
+36,New York,31,Nebraska,2024,2025,linear_regression,90.98313349477235
+9,Connecticut,35,New Mexico,2024,2025,linear_regression,90.8850888631707
+34,New Jersey,5,Arkansas,2024,2025,linear_regression,90.66519913545075
+41,Oregon,34,New Jersey,2024,2025,linear_regression,90.52214396932737
+56,Wyoming,18,Indiana,2024,2025,linear_regression,90.43459462367885
+56,Wyoming,53,Washington,2024,2025,linear_regression,90.1663845195169
+8,Colorado,5,Arkansas,2024,2025,linear_regression,90.0109893746098
+4,Arizona,19,Iowa,2024,2025,linear_regression,89.88474779507078
+53,Washington,29,Missouri,2024,2025,linear_regression,89.58092631454954
+17,Illinois,33,New Hampshire,2024,2025,linear_regression,89.329282396548
+26,Michigan,16,Idaho,2024,2025,linear_regression,88.98621716316981
+50,Vermont,17,Illinois,2024,2025,linear_regression,88.84916700585832
+22,Louisiana,24,Maryland,2024,2025,linear_regression,88.74510081721158
+38,North Dakota,51,Virginia,2024,2025,linear_regression,88.55134303330462
+17,Illinois,50,Vermont,2024,2025,linear_regression,88.51758942300793
+41,Oregon,9,Connecticut,2024,2025,linear_regression,88.34866810502396
+17,Illinois,30,Montana,2024,2025,linear_regression,88.25747733547134
+8,Colorado,45,South Carolina,2024,2025,linear_regression,88.25187563784688
+10,Delaware,17,Illinois,2024,2025,linear_regression,88.09561490638278
+42,Pennsylvania,35,New Mexico,2024,2025,linear_regression,88.01321033253984
+37,North Carolina,33,New Hampshire,2024,2025,linear_regression,87.80683904312062
+24,Maryland,53,Washington,2024,2025,linear_regression,87.33978492035826
+38,North Dakota,41,Oregon,2024,2025,linear_regression,87.1716270424442
+17,Illinois,35,New Mexico,2024,2025,linear_regression,86.85540847931868
+53,Washington,40,Oklahoma,2024,2025,linear_regression,86.53361879061717
+48,Texas,23,Maine,2024,2025,linear_regression,86.19964488407611
+27,Minnesota,5,Arkansas,2024,2025,linear_regression,85.56039202809126
+4,Arizona,37,North Carolina,2024,2025,linear_regression,85.0586847907865
+11,Washington DC,36,New York,2024,2025,linear_regression,85.00762432831776
+31,Nebraska,1,Alabama,2024,2025,linear_regression,84.8802292866988
+30,Montana,17,Illinois,2024,2025,linear_regression,84.85542533347372
+8,Colorado,24,Maryland,2024,2025,linear_regression,84.69030086248748
+8,Colorado,1,Alabama,2024,2025,linear_regression,84.6845325928764
+26,Michigan,46,South Dakota,2024,2025,linear_regression,84.55787515797823
+36,New York,38,North Dakota,2024,2025,linear_regression,84.30966954424872
+4,Arizona,18,Indiana,2024,2025,linear_regression,84.19876932029646
+35,New Mexico,9,Connecticut,2024,2025,linear_regression,83.98269701468833
+6,California,50,Vermont,2024,2025,linear_regression,83.26374626294415
+16,Idaho,34,New Jersey,2024,2025,linear_regression,82.97488894071364
+16,Idaho,45,South Carolina,2024,2025,linear_regression,82.49861868004575
+5,Arkansas,23,Maine,2024,2025,linear_regression,82.45729008205589
+46,South Dakota,29,Missouri,2024,2025,linear_regression,82.28631959126736
+39,Ohio,50,Vermont,2024,2025,linear_regression,81.86633765322561
+1,Alabama,54,West Virginia,2024,2025,linear_regression,81.6651834387804
+23,Maine,47,Tennessee,2024,2025,linear_regression,81.28565396019337
+54,West Virginia,10,Delaware,2024,2025,linear_regression,81.0273753952393
+13,Georgia,35,New Mexico,2024,2025,linear_regression,80.95243151841979
+40,Oklahoma,30,Montana,2024,2025,linear_regression,80.62670837765934
+50,Vermont,39,Ohio,2024,2025,linear_regression,80.29526507301156
+40,Oklahoma,32,Nevada,2024,2025,linear_regression,80.1860067400066
+27,Minnesota,30,Montana,2024,2025,linear_regression,79.61988781565323
+37,North Carolina,35,New Mexico,2024,2025,linear_regression,79.48066245310974
+4,Arizona,16,Idaho,2024,2025,linear_regression,79.43715475024321
+39,Ohio,16,Idaho,2024,2025,linear_regression,79.32933425514574
+49,Utah,36,New York,2024,2025,linear_regression,79.29494693259653
+27,Minnesota,16,Idaho,2024,2025,linear_regression,79.07839312757581
+18,Indiana,50,Vermont,2024,2025,linear_regression,78.90368351113288
+49,Utah,19,Iowa,2024,2025,linear_regression,78.8947942480399
+30,Montana,27,Minnesota,2024,2025,linear_regression,78.80700007060653
+23,Maine,41,Oregon,2024,2025,linear_regression,78.74400336377714
+45,South Carolina,8,Colorado,2024,2025,linear_regression,78.74196270078461
+32,Nevada,56,Wyoming,2024,2025,linear_regression,78.72240033965366
+32,Nevada,17,Illinois,2024,2025,linear_regression,78.63637061581723
+10,Delaware,9,Connecticut,2024,2025,linear_regression,78.60321681633037
+53,Washington,24,Maryland,2024,2025,linear_regression,77.98602829903936
+32,Nevada,30,Montana,2024,2025,linear_regression,77.93798391422516
+20,Kansas,41,Oregon,2024,2025,linear_regression,77.79050839163551
+31,Nebraska,21,Kentucky,2024,2025,linear_regression,76.99172524595949
+20,Kansas,32,Nevada,2024,2025,linear_regression,76.9184784653399
+6,California,10,Delaware,2024,2025,linear_regression,76.88496319944846
+53,Washington,56,Wyoming,2024,2025,linear_regression,76.84395848081351
+24,Maryland,8,Colorado,2024,2025,linear_regression,76.25732744317031
+38,North Dakota,37,North Carolina,2024,2025,linear_regression,76.10040829411585
+41,Oregon,25,Massachusetts,2024,2025,linear_regression,75.86613904198828
+33,New Hampshire,12,Florida,2024,2025,linear_regression,75.84550833505358
+50,Vermont,32,Nevada,2024,2025,linear_regression,75.74137554205811
+13,Georgia,33,New Hampshire,2024,2025,linear_regression,75.45603903090898
+9,Connecticut,45,South Carolina,2024,2025,linear_regression,75.2966934462085
+53,Washington,38,North Dakota,2024,2025,linear_regression,75.13628383407017
+35,New Mexico,26,Michigan,2024,2025,linear_regression,75.10979915154408
+9,Connecticut,1,Alabama,2024,2025,linear_regression,74.91771117198658
+24,Maryland,19,Iowa,2024,2025,linear_regression,74.89015573027788
+9,Connecticut,47,Tennessee,2024,2025,linear_regression,74.82994545597907
+5,Arkansas,30,Montana,2024,2025,linear_regression,74.76335548726931
+22,Louisiana,31,Nebraska,2024,2025,linear_regression,74.74358412656598
+25,Massachusetts,32,Nevada,2024,2025,linear_regression,74.543457443629
+4,Arizona,47,Tennessee,2024,2025,linear_regression,74.45825316205612
+34,New Jersey,40,Oklahoma,2024,2025,linear_regression,74.22110295445532
+31,Nebraska,22,Louisiana,2024,2025,linear_regression,74.2039014201171
+16,Idaho,1,Alabama,2024,2025,linear_regression,74.05866607257568
+54,West Virginia,27,Minnesota,2024,2025,linear_regression,74.00962436443282
+50,Vermont,18,Indiana,2024,2025,linear_regression,73.99422577102365
+16,Idaho,18,Indiana,2024,2025,linear_regression,73.96217472452048
+23,Maine,26,Michigan,2024,2025,linear_regression,73.53272210154586
+12,Florida,49,Utah,2024,2025,linear_regression,73.32563710670604
+24,Maryland,40,Oklahoma,2024,2025,linear_regression,73.03098195991849
+56,Wyoming,27,Minnesota,2024,2025,linear_regression,72.72428804633202
+16,Idaho,25,Massachusetts,2024,2025,linear_regression,72.68811725872138
+16,Idaho,38,North Dakota,2024,2025,linear_regression,72.67852800582868
+42,Pennsylvania,30,Montana,2024,2025,linear_regression,72.42405506790946
+50,Vermont,6,California,2024,2025,linear_regression,72.32794593969402
+31,Nebraska,51,Virginia,2024,2025,linear_regression,71.74684208313573
+12,Florida,2,Alaska,2024,2025,linear_regression,71.63610478581455
+53,Washington,1,Alabama,2024,2025,linear_regression,71.61378816207159
+49,Utah,5,Arkansas,2024,2025,linear_regression,71.57567716579602
+13,Georgia,10,Delaware,2024,2025,linear_regression,71.53931788563159
+50,Vermont,37,North Carolina,2024,2025,linear_regression,71.48840885841933
+2,Alaska,12,Florida,2024,2025,linear_regression,71.47025160602593
+12,Florida,16,Idaho,2024,2025,linear_regression,71.19643971316734
+24,Maryland,41,Oregon,2024,2025,linear_regression,71.14117465894154
+19,Iowa,50,Vermont,2024,2025,linear_regression,71.08566201291987
+44,Rhode Island,12,Florida,2024,2025,linear_regression,70.97168497677214
+35,New Mexico,42,Pennsylvania,2024,2025,linear_regression,70.92449627917523
+6,California,33,New Hampshire,2024,2025,linear_regression,70.69929667783148
+23,Maine,18,Indiana,2024,2025,linear_regression,70.1581624874093
+31,Nebraska,9,Connecticut,2024,2025,linear_regression,70.09248325236427
+33,New Hampshire,17,Illinois,2024,2025,linear_regression,69.96281306752942
+35,New Mexico,27,Minnesota,2024,2025,linear_regression,69.94398132829643
+6,California,44,Rhode Island,2024,2025,linear_regression,69.56378679092046
+45,South Carolina,32,Nevada,2024,2025,linear_regression,69.54018565139663
+17,Illinois,23,Maine,2024,2025,linear_regression,69.11381311867947
+18,Indiana,16,Idaho,2024,2025,linear_regression,69.03109031913027
+25,Massachusetts,45,South Carolina,2024,2025,linear_regression,68.99214239445801
+38,North Dakota,49,Utah,2024,2025,linear_regression,68.94827773207774
+4,Arizona,9,Connecticut,2024,2025,linear_regression,68.85185229922232
+56,Wyoming,32,Nevada,2024,2025,linear_regression,68.7782262192864
+12,Florida,35,New Mexico,2024,2025,linear_regression,68.6329589355611
+45,South Carolina,33,New Hampshire,2024,2025,linear_regression,68.47351449036783
+41,Oregon,24,Maryland,2024,2025,linear_regression,68.30750420822719
+48,Texas,33,New Hampshire,2024,2025,linear_regression,68.27466134976927
+32,Nevada,36,New York,2024,2025,linear_regression,68.19628315561991
+35,New Mexico,18,Indiana,2024,2025,linear_regression,67.8488053917407
+18,Indiana,33,New Hampshire,2024,2025,linear_regression,67.6414582335578
+25,Massachusetts,4,Arizona,2024,2025,linear_regression,67.52319682678797
+5,Arkansas,38,North Dakota,2024,2025,linear_regression,67.48842944548481
+46,South Dakota,16,Idaho,2024,2025,linear_regression,67.24333946961951
+49,Utah,38,North Dakota,2024,2025,linear_regression,67.18774872807056
+16,Idaho,35,New Mexico,2024,2025,linear_regression,67.11506532502065
+31,Nebraska,25,Massachusetts,2024,2025,linear_regression,66.70799743176772
+33,New Hampshire,24,Maryland,2024,2025,linear_regression,66.53659355799621
+50,Vermont,47,Tennessee,2024,2025,linear_regression,66.51076706138458
+40,Oklahoma,56,Wyoming,2024,2025,linear_regression,66.44047699583165
+49,Utah,51,Virginia,2024,2025,linear_regression,66.31129698535759
+10,Delaware,8,Colorado,2024,2025,linear_regression,66.21257126965355
+50,Vermont,13,Georgia,2024,2025,linear_regression,65.91231900971349
+54,West Virginia,11,Washington DC,2024,2025,linear_regression,65.80503263285584
+9,Connecticut,4,Arizona,2024,2025,linear_regression,65.63889589913914
+45,South Carolina,20,Kansas,2024,2025,linear_regression,65.42550527414525
+25,Massachusetts,1,Alabama,2024,2025,linear_regression,65.17856702988357
+50,Vermont,51,Virginia,2024,2025,linear_regression,64.99764224847219
+44,Rhode Island,6,California,2024,2025,linear_regression,64.93775307851931
+33,New Hampshire,39,Ohio,2024,2025,linear_regression,64.92942284926957
+8,Colorado,47,Tennessee,2024,2025,linear_regression,64.81818214739174
+38,North Dakota,5,Arkansas,2024,2025,linear_regression,64.78666242127406
+49,Utah,34,New Jersey,2024,2025,linear_regression,64.40991464185278
+35,New Mexico,39,Ohio,2024,2025,linear_regression,64.20881043525216
+37,North Carolina,44,Rhode Island,2024,2025,linear_regression,64.14016010753508
+37,North Carolina,16,Idaho,2024,2025,linear_regression,64.09121394197047
+28,Mississippi,31,Nebraska,2024,2025,linear_regression,64.0579366971108
+38,North Dakota,34,New Jersey,2024,2025,linear_regression,64.02215075719538
+27,Minnesota,9,Connecticut,2024,2025,linear_regression,63.730635163702104
+45,South Carolina,30,Montana,2024,2025,linear_regression,63.55697344774799
+45,South Carolina,2,Alaska,2024,2025,linear_regression,63.20262292804965
+56,Wyoming,26,Michigan,2024,2025,linear_regression,63.04382711972889
+32,Nevada,24,Maryland,2024,2025,linear_regression,63.03771133946367
+53,Washington,5,Arkansas,2024,2025,linear_regression,63.03031826705546
+34,New Jersey,30,Montana,2024,2025,linear_regression,62.95457564691982
+53,Washington,45,South Carolina,2024,2025,linear_regression,62.696936429624486
+34,New Jersey,11,Washington DC,2024,2025,linear_regression,62.53160727279412
+39,Ohio,35,New Mexico,2024,2025,linear_regression,62.523952840353815
+13,Georgia,2,Alaska,2024,2025,linear_regression,62.16425496321878
+2,Alaska,13,Georgia,2024,2025,linear_regression,62.11014517608382
+33,New Hampshire,4,Arizona,2024,2025,linear_regression,62.084137692743326
+36,New York,2,Alaska,2024,2025,linear_regression,62.019019456600134
+9,Connecticut,27,Minnesota,2024,2025,linear_regression,61.901885962348246
+46,South Dakota,53,Washington,2024,2025,linear_regression,61.7813501773193
+16,Idaho,40,Oklahoma,2024,2025,linear_regression,61.59864424405356
+56,Wyoming,55,Wisconsin,2024,2025,linear_regression,61.595660974537
+2,Alaska,37,North Carolina,2024,2025,linear_regression,61.56544764651875
+37,North Carolina,2,Alaska,2024,2025,linear_regression,61.521946708384604
+19,Iowa,16,Idaho,2024,2025,linear_regression,61.41667989526522
+24,Maryland,4,Arizona,2024,2025,linear_regression,61.32583304006204
+13,Georgia,23,Maine,2024,2025,linear_regression,60.99259347441371
+49,Utah,25,Massachusetts,2024,2025,linear_regression,60.96549101296216
+20,Kansas,45,South Carolina,2024,2025,linear_regression,60.81097950508958
+54,West Virginia,28,Mississippi,2024,2025,linear_regression,60.3768798423019
+12,Florida,33,New Hampshire,2024,2025,linear_regression,60.29030944823913
+35,New Mexico,16,Idaho,2024,2025,linear_regression,60.274531942032525
+35,New Mexico,31,Nebraska,2024,2025,linear_regression,60.25268802089413
+2,Alaska,1,Alabama,2024,2025,linear_regression,60.11176237864922
+33,New Hampshire,41,Oregon,2024,2025,linear_regression,60.10343798580831
+2,Alaska,44,Rhode Island,2024,2025,linear_regression,60.07792981730452
+51,Virginia,2,Alaska,2024,2025,linear_regression,60.0677366083502
+44,Rhode Island,2,Alaska,2024,2025,linear_regression,60.064595637426834
+2,Alaska,51,Virginia,2024,2025,linear_regression,60.056657003104675
+10,Delaware,2,Alaska,2024,2025,linear_regression,59.99171052677539
+2,Alaska,10,Delaware,2024,2025,linear_regression,59.98089891565222
+5,Arkansas,35,New Mexico,2024,2025,linear_regression,59.911512570518184
+9,Connecticut,53,Washington,2024,2025,linear_regression,59.8681381722932
+10,Delaware,26,Michigan,2024,2025,linear_regression,59.85418862284506
+1,Alabama,2,Alaska,2024,2025,linear_regression,59.78640871327352
+24,Maryland,2,Alaska,2024,2025,linear_regression,59.70374975979034
+34,New Jersey,2,Alaska,2024,2025,linear_regression,59.679542403088504
+41,Oregon,47,Tennessee,2024,2025,linear_regression,59.62066887181692
+2,Alaska,34,New Jersey,2024,2025,linear_regression,59.55359325223661
+23,Maine,32,Nevada,2024,2025,linear_regression,59.37109961595297
+9,Connecticut,2,Alaska,2024,2025,linear_regression,59.324579865495124
+2,Alaska,24,Maryland,2024,2025,linear_regression,59.320325152853854
+2,Alaska,9,Connecticut,2024,2025,linear_regression,59.22775232295011
+4,Arizona,24,Maryland,2024,2025,linear_regression,59.18088322316822
+2,Alaska,25,Massachusetts,2024,2025,linear_regression,58.99248278983799
+39,Ohio,44,Rhode Island,2024,2025,linear_regression,58.92326098988687
+25,Massachusetts,2,Alaska,2024,2025,linear_regression,58.916800787532964
+49,Utah,37,North Carolina,2024,2025,linear_regression,58.893470913429354
+39,Ohio,30,Montana,2024,2025,linear_regression,58.47188756823422
+6,California,46,South Dakota,2024,2025,linear_regression,58.3569690508354
+25,Massachusetts,28,Mississippi,2024,2025,linear_regression,58.14551338015498
+38,North Dakota,9,Connecticut,2024,2025,linear_regression,58.090893284105505
+2,Alaska,23,Maine,2024,2025,linear_regression,58.07844052192138
+5,Arkansas,24,Maryland,2024,2025,linear_regression,58.017758204902876
+2,Alaska,22,Louisiana,2024,2025,linear_regression,57.9786466212839
+22,Louisiana,2,Alaska,2024,2025,linear_regression,57.953358854682776
+6,California,54,West Virginia,2024,2025,linear_regression,57.936946946418885
+25,Massachusetts,8,Colorado,2024,2025,linear_regression,57.800552367753596
+2,Alaska,48,Texas,2024,2025,linear_regression,57.765251105775604
+23,Maine,2,Alaska,2024,2025,linear_regression,57.69899967788322
+28,Mississippi,2,Alaska,2024,2025,linear_regression,57.654015040459214
+46,South Dakota,13,Georgia,2024,2025,linear_regression,57.60859035050031
+33,New Hampshire,2,Alaska,2024,2025,linear_regression,57.6042704405742
+2,Alaska,33,New Hampshire,2024,2025,linear_regression,57.587757111516424
+47,Tennessee,16,Idaho,2024,2025,linear_regression,57.44646868579697
+32,Nevada,13,Georgia,2024,2025,linear_regression,57.151725781911495
+26,Michigan,30,Montana,2024,2025,linear_regression,57.13541579040373
+42,Pennsylvania,2,Alaska,2024,2025,linear_regression,56.972133210443914
+2,Alaska,42,Pennsylvania,2024,2025,linear_regression,56.90280087973815
+54,West Virginia,2,Alaska,2024,2025,linear_regression,56.72882857936138
+32,Nevada,47,Tennessee,2024,2025,linear_regression,56.66895579004685
+55,Wisconsin,54,West Virginia,2024,2025,linear_regression,56.484324795772025
+32,Nevada,51,Virginia,2024,2025,linear_regression,56.38048277269351
+50,Vermont,41,Oregon,2024,2025,linear_regression,56.262189201022636
+8,Colorado,25,Massachusetts,2024,2025,linear_regression,56.238604550337584
+16,Idaho,19,Iowa,2024,2025,linear_regression,55.93819476827461
+50,Vermont,2,Alaska,2024,2025,linear_regression,55.81251901497086
+2,Alaska,50,Vermont,2024,2025,linear_regression,55.811236877802585
+1,Alabama,38,North Dakota,2024,2025,linear_regression,55.74600316892696
+53,Washington,22,Louisiana,2024,2025,linear_regression,55.74238988757219
+47,Tennessee,2,Alaska,2024,2025,linear_regression,55.71481118982091
+2,Alaska,36,New York,2024,2025,linear_regression,55.61746761200784
+33,New Hampshire,19,Iowa,2024,2025,linear_regression,55.431975462200825
+21,Kentucky,35,New Mexico,2024,2025,linear_regression,55.388493641982876
+35,New Mexico,47,Tennessee,2024,2025,linear_regression,55.337740264695896
+48,Texas,2,Alaska,2024,2025,linear_regression,55.28360524697945
+21,Kentucky,2,Alaska,2024,2025,linear_regression,54.736458669685575
+2,Alaska,21,Kentucky,2024,2025,linear_regression,54.73039943381076
+12,Florida,23,Maine,2024,2025,linear_regression,54.59649087987958
+22,Louisiana,49,Utah,2024,2025,linear_regression,54.56268450789058
+56,Wyoming,21,Kentucky,2024,2025,linear_regression,54.474074730985805
+30,Montana,55,Wisconsin,2024,2025,linear_regression,54.45108866693124
+9,Connecticut,32,Nevada,2024,2025,linear_regression,54.45040595061499
+16,Idaho,51,Virginia,2024,2025,linear_regression,54.18877875530828
+29,Missouri,56,Wyoming,2024,2025,linear_regression,54.012750318947866
+19,Iowa,9,Connecticut,2024,2025,linear_regression,54.00233376306848
+33,New Hampshire,16,Idaho,2024,2025,linear_regression,53.95235888881989
+22,Louisiana,56,Wyoming,2024,2025,linear_regression,53.86451137469764
+33,New Hampshire,5,Arkansas,2024,2025,linear_regression,53.686504808812956
+24,Maryland,50,Vermont,2024,2025,linear_regression,52.982802179090314
+23,Maine,53,Washington,2024,2025,linear_regression,52.89025472624732
+9,Connecticut,49,Utah,2024,2025,linear_regression,52.82638934269487
+10,Delaware,47,Tennessee,2024,2025,linear_regression,52.82534332280737
+51,Virginia,44,Rhode Island,2024,2025,linear_regression,52.7785476996838
+23,Maine,21,Kentucky,2024,2025,linear_regression,52.77234375087822
+12,Florida,54,West Virginia,2024,2025,linear_regression,52.664863666049854
+2,Alaska,39,Ohio,2024,2025,linear_regression,52.643302636248364
+39,Ohio,2,Alaska,2024,2025,linear_regression,52.57550240592869
+24,Maryland,32,Nevada,2024,2025,linear_regression,52.42651079042783
+4,Arizona,1,Alabama,2024,2025,linear_regression,52.42068004507888
+55,Wisconsin,50,Vermont,2024,2025,linear_regression,52.21686342934339
+5,Arkansas,2,Alaska,2024,2025,linear_regression,52.06112708404382
+2,Alaska,5,Arkansas,2024,2025,linear_regression,51.968891836267574
+1,Alabama,32,Nevada,2024,2025,linear_regression,51.80658137470165
+19,Iowa,23,Maine,2024,2025,linear_regression,51.49548632992273
+1,Alabama,9,Connecticut,2024,2025,linear_regression,51.40668503537694
+41,Oregon,22,Louisiana,2024,2025,linear_regression,51.26621016461024
+4,Arizona,31,Nebraska,2024,2025,linear_regression,51.24768492744242
+37,North Carolina,30,Montana,2024,2025,linear_regression,50.669779166136664
+45,South Carolina,31,Nebraska,2024,2025,linear_regression,50.62031309080142
+18,Indiana,2,Alaska,2024,2025,linear_regression,50.371375153924276
+30,Montana,26,Michigan,2024,2025,linear_regression,50.332146216629
+2,Alaska,18,Indiana,2024,2025,linear_regression,50.32750908904727
+16,Idaho,24,Maryland,2024,2025,linear_regression,50.313815216045924
+41,Oregon,31,Nebraska,2024,2025,linear_regression,50.277160962257284
+35,New Mexico,21,Kentucky,2024,2025,linear_regression,50.19313571900261
+9,Connecticut,8,Colorado,2024,2025,linear_regression,50.06881891758394
+53,Washington,9,Connecticut,2024,2025,linear_regression,49.984904054134034
+19,Iowa,56,Wyoming,2024,2025,linear_regression,49.98223364889621
+13,Georgia,50,Vermont,2024,2025,linear_regression,49.626585038354776
+27,Minnesota,56,Wyoming,2024,2025,linear_regression,49.43286097430686
+37,North Carolina,11,Washington DC,2024,2025,linear_regression,49.342651656054855
+44,Rhode Island,4,Arizona,2024,2025,linear_regression,49.29581056121654
+41,Oregon,33,New Hampshire,2024,2025,linear_regression,48.94832682726194
+53,Washington,33,New Hampshire,2024,2025,linear_regression,48.87804179204066
+33,New Hampshire,32,Nevada,2024,2025,linear_regression,48.330958106663445
+54,West Virginia,53,Washington,2024,2025,linear_regression,48.12796528689353
+56,Wyoming,19,Iowa,2024,2025,linear_regression,48.11671764759542
+41,Oregon,1,Alabama,2024,2025,linear_regression,48.09890398524652
+29,Missouri,10,Delaware,2024,2025,linear_regression,47.974927469712696
+41,Oregon,45,South Carolina,2024,2025,linear_regression,47.77710020211407
+35,New Mexico,32,Nevada,2024,2025,linear_regression,47.75845608026026
+2,Alaska,26,Michigan,2024,2025,linear_regression,47.53872331367553
+10,Delaware,18,Indiana,2024,2025,linear_regression,47.53791656724201
+40,Oklahoma,2,Alaska,2024,2025,linear_regression,47.38188276452526
+2,Alaska,17,Illinois,2024,2025,linear_regression,47.36443598404736
+17,Illinois,2,Alaska,2024,2025,linear_regression,47.34354052336889
+2,Alaska,40,Oklahoma,2024,2025,linear_regression,47.3274549617643
+31,Nebraska,32,Nevada,2024,2025,linear_regression,47.30346443613365
+28,Mississippi,38,North Dakota,2024,2025,linear_regression,47.30075184832765
+29,Missouri,2,Alaska,2024,2025,linear_regression,47.29163971627729
+56,Wyoming,12,Florida,2024,2025,linear_regression,47.26722644730151
+25,Massachusetts,40,Oklahoma,2024,2025,linear_regression,47.234096043832
+2,Alaska,29,Missouri,2024,2025,linear_regression,47.19678648485883
+27,Minnesota,23,Maine,2024,2025,linear_regression,47.12936922485639
+55,Wisconsin,35,New Mexico,2024,2025,linear_regression,47.07914291144277
+38,North Dakota,25,Massachusetts,2024,2025,linear_regression,46.79956498098461
+41,Oregon,21,Kentucky,2024,2025,linear_regression,46.58838758461512
+38,North Dakota,45,South Carolina,2024,2025,linear_regression,46.28443718860483
+6,California,11,Washington DC,2024,2025,linear_regression,46.2634598487782
+9,Connecticut,41,Oregon,2024,2025,linear_regression,46.223899056979036
+18,Indiana,35,New Mexico,2024,2025,linear_regression,46.093826583522585
+42,Pennsylvania,56,Wyoming,2024,2025,linear_regression,46.036884747415314
+41,Oregon,50,Vermont,2024,2025,linear_regression,45.88096593725329
+21,Kentucky,46,South Dakota,2024,2025,linear_regression,45.728991517990835
+35,New Mexico,20,Kansas,2024,2025,linear_regression,45.65497924188719
+49,Utah,24,Maryland,2024,2025,linear_regression,45.30974717844663
+41,Oregon,20,Kansas,2024,2025,linear_regression,45.279996075085435
+49,Utah,46,South Dakota,2024,2025,linear_regression,45.119222854505125
+10,Delaware,55,Wisconsin,2024,2025,linear_regression,44.97168151852617
+55,Wisconsin,23,Maine,2024,2025,linear_regression,44.82016385253975
+44,Rhode Island,41,Oregon,2024,2025,linear_regression,44.69778401219121
+29,Missouri,30,Montana,2024,2025,linear_regression,44.6750367711806
+53,Washington,23,Maine,2024,2025,linear_regression,44.6420918299481
+47,Tennessee,35,New Mexico,2024,2025,linear_regression,44.52706587883114
+26,Michigan,2,Alaska,2024,2025,linear_regression,44.42620800713969
+30,Montana,12,Florida,2024,2025,linear_regression,44.4200240238975
+11,Washington DC,6,California,2024,2025,linear_regression,44.371984393497314
+25,Massachusetts,41,Oregon,2024,2025,linear_regression,44.35461846874037
+33,New Hampshire,53,Washington,2024,2025,linear_regression,44.271306375237074
+38,North Dakota,1,Alabama,2024,2025,linear_regression,44.17780824683578
+30,Montana,39,Ohio,2024,2025,linear_regression,44.163315043898194
+33,New Hampshire,13,Georgia,2024,2025,linear_regression,43.90113059218842
+20,Kansas,56,Wyoming,2024,2025,linear_regression,43.68465686421686
+46,South Dakota,37,North Carolina,2024,2025,linear_regression,43.494485036971014
+32,Nevada,25,Massachusetts,2024,2025,linear_regression,43.21818332694018
+32,Nevada,37,North Carolina,2024,2025,linear_regression,43.12060628971193
+53,Washington,31,Nebraska,2024,2025,linear_regression,43.07660732161406
+24,Maryland,49,Utah,2024,2025,linear_regression,43.075467665205636
+18,Indiana,30,Montana,2024,2025,linear_regression,42.94793391677548
+56,Wyoming,13,Georgia,2024,2025,linear_regression,42.86150222236782
+19,Iowa,32,Nevada,2024,2025,linear_regression,42.600423223333664
+9,Connecticut,22,Louisiana,2024,2025,linear_regression,42.52314546419163
+51,Virginia,16,Idaho,2024,2025,linear_regression,42.46683692116902
+46,South Dakota,36,New York,2024,2025,linear_regression,42.365073744429
+53,Washington,35,New Mexico,2024,2025,linear_regression,42.18251984068428
+20,Kansas,9,Connecticut,2024,2025,linear_regression,42.15728672470969
+30,Montana,51,Virginia,2024,2025,linear_regression,42.15224715316498
+20,Kansas,2,Alaska,2024,2025,linear_regression,41.94881728970191
+41,Oregon,23,Maine,2024,2025,linear_regression,41.91038742264854
+41,Oregon,46,South Dakota,2024,2025,linear_regression,41.74563467485001
+40,Oklahoma,25,Massachusetts,2024,2025,linear_regression,41.6588392627294
+49,Utah,28,Mississippi,2024,2025,linear_regression,41.64637244728044
+34,New Jersey,56,Wyoming,2024,2025,linear_regression,41.60155076594701
+2,Alaska,55,Wisconsin,2024,2025,linear_regression,41.54948765412409
+55,Wisconsin,2,Alaska,2024,2025,linear_regression,41.547100751476066
+24,Maryland,28,Mississippi,2024,2025,linear_regression,41.43625981263693
+5,Arkansas,33,New Hampshire,2024,2025,linear_regression,41.3215362203899
+30,Montana,18,Indiana,2024,2025,linear_regression,41.31881011179988
+19,Iowa,2,Alaska,2024,2025,linear_regression,41.256965961618064
+2,Alaska,19,Iowa,2024,2025,linear_regression,41.25668130326552
+8,Colorado,22,Louisiana,2024,2025,linear_regression,41.238104595658896
+33,New Hampshire,26,Michigan,2024,2025,linear_regression,41.10819647249372
+10,Delaware,53,Washington,2024,2025,linear_regression,41.02623036701411
+28,Mississippi,35,New Mexico,2024,2025,linear_regression,40.95645625404043
+2,Alaska,35,New Mexico,2024,2025,linear_regression,40.851025765057344
+27,Minnesota,44,Rhode Island,2024,2025,linear_regression,40.82280014780706
+35,New Mexico,2,Alaska,2024,2025,linear_regression,40.81146402644357
+5,Arkansas,9,Connecticut,2024,2025,linear_regression,40.710715578337926
+50,Vermont,20,Kansas,2024,2025,linear_regression,40.6452859482785
+31,Nebraska,16,Idaho,2024,2025,linear_regression,40.62716292836362
+19,Iowa,30,Montana,2024,2025,linear_regression,40.54005496976973
+1,Alabama,16,Idaho,2024,2025,linear_regression,40.47910935542038
+56,Wyoming,35,New Mexico,2024,2025,linear_regression,40.411004241049056
+32,Nevada,19,Iowa,2024,2025,linear_regression,40.28195840102049
+47,Tennessee,10,Delaware,2024,2025,linear_regression,40.2538706308337
+47,Tennessee,30,Montana,2024,2025,linear_regression,40.15673937176433
+45,South Carolina,16,Idaho,2024,2025,linear_regression,39.850475439808804
+47,Tennessee,44,Rhode Island,2024,2025,linear_regression,39.83316897902897
+16,Idaho,9,Connecticut,2024,2025,linear_regression,39.81266628909049
+46,South Dakota,18,Indiana,2024,2025,linear_regression,39.554052111615334
+31,Nebraska,45,South Carolina,2024,2025,linear_regression,39.547953531714256
+36,New York,30,Montana,2024,2025,linear_regression,39.48111918933229
+38,North Dakota,22,Louisiana,2024,2025,linear_regression,39.46722343192036
+21,Kentucky,50,Vermont,2024,2025,linear_regression,39.43232837572211
+4,Arizona,20,Kansas,2024,2025,linear_regression,39.428634672202605
+56,Wyoming,1,Alabama,2024,2025,linear_regression,39.41547832387974
+32,Nevada,29,Missouri,2024,2025,linear_regression,39.25393463333816
+22,Louisiana,35,New Mexico,2024,2025,linear_regression,39.250336108051215
+35,New Mexico,1,Alabama,2024,2025,linear_regression,39.210261214102715
+25,Massachusetts,35,New Mexico,2024,2025,linear_regression,39.191708794305555
+46,South Dakota,51,Virginia,2024,2025,linear_regression,38.99506936901061
+44,Rhode Island,49,Utah,2024,2025,linear_regression,38.958244237481196
+10,Delaware,41,Oregon,2024,2025,linear_regression,38.84763903914451
+44,Rhode Island,1,Alabama,2024,2025,linear_regression,38.53827741011264
+2,Alaska,31,Nebraska,2024,2025,linear_regression,38.43054989045483
+34,New Jersey,35,New Mexico,2024,2025,linear_regression,38.424903502138875
+31,Nebraska,2,Alaska,2024,2025,linear_regression,38.38694899637163
+38,North Dakota,28,Mississippi,2024,2025,linear_regression,38.37028937236073
+44,Rhode Island,53,Washington,2024,2025,linear_regression,38.36031561746188
+41,Oregon,11,Washington DC,2024,2025,linear_regression,38.32869864982506
+50,Vermont,53,Washington,2024,2025,linear_regression,38.2030372574919
+1,Alabama,35,New Mexico,2024,2025,linear_regression,38.157350761121734
+53,Washington,44,Rhode Island,2024,2025,linear_regression,37.82396451523995
+56,Wyoming,36,New York,2024,2025,linear_regression,37.659100236953506
+25,Massachusetts,29,Missouri,2024,2025,linear_regression,37.56827814023919
+4,Arizona,2,Alaska,2024,2025,linear_regression,37.52881306964238
+41,Oregon,40,Oklahoma,2024,2025,linear_regression,37.527670554011536
+55,Wisconsin,10,Delaware,2024,2025,linear_regression,37.52721254029453
+45,South Carolina,35,New Mexico,2024,2025,linear_regression,37.51811102751054
+26,Michigan,33,New Hampshire,2024,2025,linear_regression,37.455336906313576
+2,Alaska,4,Arizona,2024,2025,linear_regression,37.445279225514824
+51,Virginia,30,Montana,2024,2025,linear_regression,37.29319699790783
+8,Colorado,23,Maine,2024,2025,linear_regression,37.281795675994104
+20,Kansas,35,New Mexico,2024,2025,linear_regression,37.253489305859844
+53,Washington,2,Alaska,2024,2025,linear_regression,37.181268444368555
+29,Missouri,16,Idaho,2024,2025,linear_regression,37.14222668660116
+56,Wyoming,33,New Hampshire,2024,2025,linear_regression,37.05867615449574
+20,Kansas,30,Montana,2024,2025,linear_regression,37.03650997878266
+19,Iowa,35,New Mexico,2024,2025,linear_regression,36.96825427464037
+41,Oregon,28,Mississippi,2024,2025,linear_regression,36.902496139668926
+33,New Hampshire,18,Indiana,2024,2025,linear_regression,36.894863624650384
+18,Indiana,23,Maine,2024,2025,linear_regression,36.80857889944549
+32,Nevada,34,New Jersey,2024,2025,linear_regression,36.71045474329405
+50,Vermont,26,Michigan,2024,2025,linear_regression,36.70200137173204
+56,Wyoming,45,South Carolina,2024,2025,linear_regression,36.697687247938276
+25,Massachusetts,38,North Dakota,2024,2025,linear_regression,36.489952790557
+55,Wisconsin,33,New Hampshire,2024,2025,linear_regression,36.28247616620391
+29,Missouri,54,West Virginia,2024,2025,linear_regression,36.202630185828596
+32,Nevada,55,Wisconsin,2024,2025,linear_regression,36.17534882650587
+30,Montana,35,New Mexico,2024,2025,linear_regression,36.17332630743495
+23,Maine,16,Idaho,2024,2025,linear_regression,36.16155676496726
+2,Alaska,27,Minnesota,2024,2025,linear_regression,36.0997833821085
+37,North Carolina,46,South Dakota,2024,2025,linear_regression,36.049795152195
+53,Washington,50,Vermont,2024,2025,linear_regression,36.028675303311275
+41,Oregon,44,Rhode Island,2024,2025,linear_regression,36.01936559064707
+32,Nevada,45,South Carolina,2024,2025,linear_regression,36.01465117618328
+18,Indiana,56,Wyoming,2024,2025,linear_regression,35.98043708727373
+2,Alaska,53,Washington,2024,2025,linear_regression,35.95046162542525
+27,Minnesota,2,Alaska,2024,2025,linear_regression,35.902852119600524
+49,Utah,40,Oklahoma,2024,2025,linear_regression,35.899006258368445
+4,Arizona,40,Oklahoma,2024,2025,linear_regression,35.811021668702296
+53,Washington,46,South Dakota,2024,2025,linear_regression,35.749393166986835
+24,Maryland,44,Rhode Island,2024,2025,linear_regression,35.72174987925075
+12,Florida,44,Rhode Island,2024,2025,linear_regression,35.66882086969872
+12,Florida,56,Wyoming,2024,2025,linear_regression,35.63506052841967
+31,Nebraska,30,Montana,2024,2025,linear_regression,35.600091252866136
+23,Maine,4,Arizona,2024,2025,linear_regression,35.59296477160332
+49,Utah,21,Kentucky,2024,2025,linear_regression,35.55284162269959
+20,Kansas,16,Idaho,2024,2025,linear_regression,35.48877166465694
+2,Alaska,8,Colorado,2024,2025,linear_regression,35.34261776117202
+4,Arizona,21,Kentucky,2024,2025,linear_regression,35.2645764370987
+41,Oregon,10,Delaware,2024,2025,linear_regression,35.26235406755596
+53,Washington,10,Delaware,2024,2025,linear_regression,35.246717684504276
+56,Wyoming,22,Louisiana,2024,2025,linear_regression,35.20543084798217
+8,Colorado,2,Alaska,2024,2025,linear_regression,35.135842980340115
+53,Washington,54,West Virginia,2024,2025,linear_regression,34.98683639570946
+33,New Hampshire,1,Alabama,2024,2025,linear_regression,34.83045165247244
+32,Nevada,22,Louisiana,2024,2025,linear_regression,34.80993293205762
+32,Nevada,23,Maine,2024,2025,linear_regression,34.68882026421962
+31,Nebraska,28,Mississippi,2024,2025,linear_regression,34.52028585381122
+33,New Hampshire,49,Utah,2024,2025,linear_regression,34.49435950351616
+54,West Virginia,29,Missouri,2024,2025,linear_regression,34.4754864640829
+48,Texas,11,Washington DC,2024,2025,linear_regression,34.289276591083826
+53,Washington,28,Mississippi,2024,2025,linear_regression,34.276900240643776
+32,Nevada,33,New Hampshire,2024,2025,linear_regression,34.19511497855097
+17,Illinois,10,Delaware,2024,2025,linear_regression,34.17423279301278
+47,Tennessee,46,South Dakota,2024,2025,linear_regression,34.04048303558484
+34,New Jersey,16,Idaho,2024,2025,linear_regression,33.979344031755886
+46,South Dakota,12,Florida,2024,2025,linear_regression,33.87362310771442
+32,Nevada,27,Minnesota,2024,2025,linear_regression,33.7504441044768
+2,Alaska,46,South Dakota,2024,2025,linear_regression,33.6768031491965
+24,Maryland,31,Nebraska,2024,2025,linear_regression,33.64888394275181
+32,Nevada,9,Connecticut,2024,2025,linear_regression,33.56504944998429
+1,Alabama,10,Delaware,2024,2025,linear_regression,33.48336548551204
+32,Nevada,44,Rhode Island,2024,2025,linear_regression,33.481208821683296
+20,Kansas,10,Delaware,2024,2025,linear_regression,33.43056964310108
+44,Rhode Island,32,Nevada,2024,2025,linear_regression,33.28939414947211
+46,South Dakota,2,Alaska,2024,2025,linear_regression,33.278226872369366
+30,Montana,23,Maine,2024,2025,linear_regression,33.266362722275936
+54,West Virginia,41,Oregon,2024,2025,linear_regression,33.135272341987076
+4,Arizona,28,Mississippi,2024,2025,linear_regression,33.08410882320745
+11,Washington DC,53,Washington,2024,2025,linear_regression,33.000683686296135
+4,Arizona,10,Delaware,2024,2025,linear_regression,32.98882048095084
+46,South Dakota,34,New Jersey,2024,2025,linear_regression,32.81002815263499
+31,Nebraska,44,Rhode Island,2024,2025,linear_regression,32.77250935524337
+4,Arizona,23,Maine,2024,2025,linear_regression,32.76948019345033
+49,Utah,1,Alabama,2024,2025,linear_regression,32.66865017949499
+33,New Hampshire,51,Virginia,2024,2025,linear_regression,32.63296665908288
+51,Virginia,46,South Dakota,2024,2025,linear_regression,32.251525952684744
+16,Idaho,22,Louisiana,2024,2025,linear_regression,32.094649643176204
+8,Colorado,28,Mississippi,2024,2025,linear_regression,32.08189171973102
+54,West Virginia,40,Oklahoma,2024,2025,linear_regression,32.070569649236276
+25,Massachusetts,49,Utah,2024,2025,linear_regression,31.882590033536616
+24,Maryland,30,Montana,2024,2025,linear_regression,31.76141213394304
+35,New Mexico,53,Washington,2024,2025,linear_regression,31.715064169728308
+40,Oklahoma,23,Maine,2024,2025,linear_regression,31.58781849714584
+33,New Hampshire,8,Colorado,2024,2025,linear_regression,31.584833190251167
+53,Washington,11,Washington DC,2024,2025,linear_regression,31.54803789854779
+50,Vermont,4,Arizona,2024,2025,linear_regression,31.527877670791653
+40,Oklahoma,9,Connecticut,2024,2025,linear_regression,31.52210609814854
+10,Delaware,49,Utah,2024,2025,linear_regression,31.49223439031436
+11,Washington DC,41,Oregon,2024,2025,linear_regression,31.469177254073195
+22,Louisiana,32,Nevada,2024,2025,linear_regression,31.438737082137983
+44,Rhode Island,8,Colorado,2024,2025,linear_regression,31.415974060847013
+16,Idaho,31,Nebraska,2024,2025,linear_regression,31.297790332046333
+47,Tennessee,23,Maine,2024,2025,linear_regression,31.185040964551362
+22,Louisiana,23,Maine,2024,2025,linear_regression,31.16754683855288
+33,New Hampshire,40,Oklahoma,2024,2025,linear_regression,31.09221530251635
+49,Utah,33,New Hampshire,2024,2025,linear_regression,30.71321567936998
+41,Oregon,35,New Mexico,2024,2025,linear_regression,30.63694177602045
+30,Montana,34,New Jersey,2024,2025,linear_regression,30.59459103727854
+41,Oregon,54,West Virginia,2024,2025,linear_regression,30.565834471148726
+28,Mississippi,24,Maryland,2024,2025,linear_regression,30.477085727889737
+18,Indiana,10,Delaware,2024,2025,linear_regression,30.457891863191378
+49,Utah,23,Maine,2024,2025,linear_regression,30.446475225287962
+36,New York,35,New Mexico,2024,2025,linear_regression,30.396192907045105
+4,Arizona,33,New Hampshire,2024,2025,linear_regression,30.315340561630308
+37,North Carolina,50,Vermont,2024,2025,linear_regression,30.27876936446657
+32,Nevada,50,Vermont,2024,2025,linear_regression,30.25848658288315
+29,Missouri,33,New Hampshire,2024,2025,linear_regression,30.086297938296994
+30,Montana,2,Alaska,2024,2025,linear_regression,30.067541406257057
+10,Delaware,45,South Carolina,2024,2025,linear_regression,29.957831555865518
+25,Massachusetts,30,Montana,2024,2025,linear_regression,29.932955817293916
+25,Massachusetts,20,Kansas,2024,2025,linear_regression,29.76362739899608
+51,Virginia,35,New Mexico,2024,2025,linear_regression,29.393021165395226
+50,Vermont,1,Alabama,2024,2025,linear_regression,29.351634480232306
+51,Virginia,50,Vermont,2024,2025,linear_regression,29.337279732647026
+56,Wyoming,9,Connecticut,2024,2025,linear_regression,29.314873141858726
+10,Delaware,32,Nevada,2024,2025,linear_regression,29.30828352385467
+6,California,2,Alaska,2024,2025,linear_regression,29.240472596852165
+35,New Mexico,12,Florida,2024,2025,linear_regression,29.10913120837887
+54,West Virginia,1,Alabama,2024,2025,linear_regression,29.06630399494668
+9,Connecticut,16,Idaho,2024,2025,linear_regression,28.943572846747372
+2,Alaska,49,Utah,2024,2025,linear_regression,28.8972409210565
+35,New Mexico,13,Georgia,2024,2025,linear_regression,28.895674594915008
+25,Massachusetts,16,Idaho,2024,2025,linear_regression,28.88519806787115
+16,Idaho,5,Arkansas,2024,2025,linear_regression,28.816398935262868
+49,Utah,2,Alaska,2024,2025,linear_regression,28.780345991377672
+4,Arizona,50,Vermont,2024,2025,linear_regression,28.721204935533493
+56,Wyoming,2,Alaska,2024,2025,linear_regression,28.69484632134685
+28,Mississippi,46,South Dakota,2024,2025,linear_regression,28.69184927193568
+16,Idaho,23,Maine,2024,2025,linear_regression,28.690403535839053
+23,Maine,49,Utah,2024,2025,linear_regression,28.574216371084468
+2,Alaska,38,North Dakota,2024,2025,linear_regression,28.512630028880622
+41,Oregon,38,North Dakota,2024,2025,linear_regression,28.46082877641146
+32,Nevada,10,Delaware,2024,2025,linear_regression,28.35841647244746
+38,North Dakota,2,Alaska,2024,2025,linear_regression,28.325652931801137
+9,Connecticut,21,Kentucky,2024,2025,linear_regression,28.24346253424264
+21,Kentucky,23,Maine,2024,2025,linear_regression,28.178182765104438
+13,Georgia,56,Wyoming,2024,2025,linear_regression,28.127531329467637
+2,Alaska,6,California,2024,2025,linear_regression,27.98837592297769
+24,Maryland,16,Idaho,2024,2025,linear_regression,27.946410910935178
+17,Illinois,56,Wyoming,2024,2025,linear_regression,27.943826352216846
+21,Kentucky,16,Idaho,2024,2025,linear_regression,27.936351019296595
+30,Montana,37,North Carolina,2024,2025,linear_regression,27.690254319915276
+16,Idaho,44,Rhode Island,2024,2025,linear_regression,27.575937344168864
+12,Florida,46,South Dakota,2024,2025,linear_regression,27.566698038349386
+56,Wyoming,23,Maine,2024,2025,linear_regression,27.523459617464994
+2,Alaska,32,Nevada,2024,2025,linear_regression,27.3947714863071
+32,Nevada,2,Alaska,2024,2025,linear_regression,27.371987224870388
+25,Massachusetts,22,Louisiana,2024,2025,linear_regression,27.29673324294727
+44,Rhode Island,17,Illinois,2024,2025,linear_regression,27.290740662977157
+1,Alabama,33,New Hampshire,2024,2025,linear_regression,27.253750037487748
+44,Rhode Island,35,New Mexico,2024,2025,linear_regression,27.243053774669114
+44,Rhode Island,16,Idaho,2024,2025,linear_regression,27.233700557516727
+32,Nevada,11,Washington DC,2024,2025,linear_regression,27.225011135652437
+1,Alabama,30,Montana,2024,2025,linear_regression,27.223610795007858
+22,Louisiana,30,Montana,2024,2025,linear_regression,27.218371621612107
+50,Vermont,5,Arkansas,2024,2025,linear_regression,27.188757932416877
+5,Arkansas,32,Nevada,2024,2025,linear_regression,27.188720860077538
+50,Vermont,16,Idaho,2024,2025,linear_regression,27.172084042308903
+22,Louisiana,16,Idaho,2024,2025,linear_regression,27.043418824311836
+16,Idaho,33,New Hampshire,2024,2025,linear_regression,27.039527521872394
+49,Utah,9,Connecticut,2024,2025,linear_regression,26.964105834031507
+4,Arizona,44,Rhode Island,2024,2025,linear_regression,26.930442168173357
+30,Montana,29,Missouri,2024,2025,linear_regression,26.895096455686726
+41,Oregon,5,Arkansas,2024,2025,linear_regression,26.865188730311168
+23,Maine,54,West Virginia,2024,2025,linear_regression,26.853178519812296
+4,Arizona,11,Washington DC,2024,2025,linear_regression,26.810877169853683
+32,Nevada,18,Indiana,2024,2025,linear_regression,26.71598390549576
+47,Tennessee,33,New Hampshire,2024,2025,linear_regression,26.646944488250348
+46,South Dakota,25,Massachusetts,2024,2025,linear_regression,26.62322891186502
+23,Maine,27,Minnesota,2024,2025,linear_regression,26.551266559598474
+56,Wyoming,37,North Carolina,2024,2025,linear_regression,26.52328307017173
+11,Washington DC,32,Nevada,2024,2025,linear_regression,26.481747619917833
+20,Kansas,33,New Hampshire,2024,2025,linear_regression,26.330571980349646
+10,Delaware,27,Minnesota,2024,2025,linear_regression,26.302442500999646
+54,West Virginia,38,North Dakota,2024,2025,linear_regression,26.282705610752842
+56,Wyoming,34,New Jersey,2024,2025,linear_regression,26.181999398446905
+35,New Mexico,36,New York,2024,2025,linear_regression,26.16096916058303
+28,Mississippi,10,Delaware,2024,2025,linear_regression,26.0122891955369
+49,Utah,44,Rhode Island,2024,2025,linear_regression,25.955985266860466
+16,Idaho,50,Vermont,2024,2025,linear_regression,25.863982007934766
+10,Delaware,4,Arizona,2024,2025,linear_regression,25.79446214530593
+21,Kentucky,33,New Hampshire,2024,2025,linear_regression,25.53610074603258
+16,Idaho,10,Delaware,2024,2025,linear_regression,25.393947696964155
+49,Utah,10,Delaware,2024,2025,linear_regression,25.278178769023846
+49,Utah,22,Louisiana,2024,2025,linear_regression,25.27438318722315
+50,Vermont,49,Utah,2024,2025,linear_regression,25.187176509005575
+24,Maryland,5,Arkansas,2024,2025,linear_regression,25.15152753370657
+23,Maine,35,New Mexico,2024,2025,linear_regression,25.12180599010359
+38,North Dakota,4,Arizona,2024,2025,linear_regression,25.06522710801537
+32,Nevada,1,Alabama,2024,2025,linear_regression,25.010125988743816
+30,Montana,25,Massachusetts,2024,2025,linear_regression,24.842624818732965
+23,Maine,30,Montana,2024,2025,linear_regression,24.82957454702199
+5,Arkansas,46,South Dakota,2024,2025,linear_regression,24.781817164401957
+22,Louisiana,33,New Hampshire,2024,2025,linear_regression,24.755324500484875
+4,Arizona,5,Arkansas,2024,2025,linear_regression,24.751307532868005
+5,Arkansas,16,Idaho,2024,2025,linear_regression,24.573118641151638
+30,Montana,9,Connecticut,2024,2025,linear_regression,24.532927312842247
+30,Montana,42,Pennsylvania,2024,2025,linear_regression,24.52351809114768
+35,New Mexico,23,Maine,2024,2025,linear_regression,24.441955251809937
+20,Kansas,50,Vermont,2024,2025,linear_regression,24.363416831762585
+50,Vermont,55,Wisconsin,2024,2025,linear_regression,24.34053508311016
+54,West Virginia,23,Maine,2024,2025,linear_regression,24.33721697633105
+33,New Hampshire,35,New Mexico,2024,2025,linear_regression,24.322904367867736
+8,Colorado,9,Connecticut,2024,2025,linear_regression,24.248312636055118
+23,Maine,20,Kansas,2024,2025,linear_regression,24.246776100792694
+23,Maine,8,Colorado,2024,2025,linear_regression,24.189589405346943
+31,Nebraska,35,New Mexico,2024,2025,linear_regression,24.157448428808067
+54,West Virginia,20,Kansas,2024,2025,linear_regression,24.136671151199153
+56,Wyoming,20,Kansas,2024,2025,linear_regression,23.988804688988033
+30,Montana,36,New York,2024,2025,linear_regression,23.95113037408396
+54,West Virginia,4,Arizona,2024,2025,linear_regression,23.93088649081821
+32,Nevada,38,North Dakota,2024,2025,linear_regression,23.916123605512126
+30,Montana,45,South Carolina,2024,2025,linear_regression,23.892485624262022
+35,New Mexico,34,New Jersey,2024,2025,linear_regression,23.844558119851207
+44,Rhode Island,51,Virginia,2024,2025,linear_regression,23.7182489281482
+49,Utah,50,Vermont,2024,2025,linear_regression,23.69057966571758
+30,Montana,24,Maryland,2024,2025,linear_regression,23.684738387942076
+24,Maryland,38,North Dakota,2024,2025,linear_regression,23.580805499588052
+29,Missouri,23,Maine,2024,2025,linear_regression,23.538848357880973
+32,Nevada,54,West Virginia,2024,2025,linear_regression,23.50062176280514
+31,Nebraska,50,Vermont,2024,2025,linear_regression,23.46694187426035
+21,Kentucky,56,Wyoming,2024,2025,linear_regression,23.406882932165217
+30,Montana,5,Arkansas,2024,2025,linear_regression,23.328701596759835
+10,Delaware,16,Idaho,2024,2025,linear_regression,23.12842712033124
+29,Missouri,50,Vermont,2024,2025,linear_regression,23.107272072275265
+37,North Carolina,56,Wyoming,2024,2025,linear_regression,23.104960614388602
+35,New Mexico,24,Maryland,2024,2025,linear_regression,23.102658015182286
+9,Connecticut,46,South Dakota,2024,2025,linear_regression,23.097894807178385
+46,South Dakota,4,Arizona,2024,2025,linear_regression,23.097461931844464
+9,Connecticut,30,Montana,2024,2025,linear_regression,23.02988617910608
+46,South Dakota,21,Kentucky,2024,2025,linear_regression,23.02551162145305
+16,Idaho,54,West Virginia,2024,2025,linear_regression,22.98473519302901
+8,Colorado,33,New Hampshire,2024,2025,linear_regression,22.840704148410317
+44,Rhode Island,13,Georgia,2024,2025,linear_regression,22.836434806462492
+28,Mississippi,16,Idaho,2024,2025,linear_regression,22.819733291840933
+54,West Virginia,32,Nevada,2024,2025,linear_regression,22.640294145323487
+30,Montana,1,Alabama,2024,2025,linear_regression,22.58890708824974
+33,New Hampshire,29,Missouri,2024,2025,linear_regression,22.461518285381644
+17,Illinois,44,Rhode Island,2024,2025,linear_regression,22.456208661547706
+28,Mississippi,9,Connecticut,2024,2025,linear_regression,22.455421442535695
+35,New Mexico,25,Massachusetts,2024,2025,linear_regression,22.40930725822915
+42,Pennsylvania,46,South Dakota,2024,2025,linear_regression,22.327347737825647
+35,New Mexico,10,Delaware,2024,2025,linear_regression,22.326604195669553
+11,Washington DC,4,Arizona,2024,2025,linear_regression,22.13930170667276
+25,Massachusetts,54,West Virginia,2024,2025,linear_regression,22.08966028913649
+33,New Hampshire,30,Montana,2024,2025,linear_regression,22.051132182883983
+49,Utah,20,Kansas,2024,2025,linear_regression,22.029796608979026
+56,Wyoming,25,Massachusetts,2024,2025,linear_regression,22.023108692713237
+35,New Mexico,33,New Hampshire,2024,2025,linear_regression,21.848626026775058
+30,Montana,47,Tennessee,2024,2025,linear_regression,21.782061636646716
+16,Idaho,2,Alaska,2024,2025,linear_regression,21.738396493237502
+30,Montana,40,Oklahoma,2024,2025,linear_regression,21.669853502990208
+44,Rhode Island,24,Maryland,2024,2025,linear_regression,21.596919374407577
+9,Connecticut,20,Kansas,2024,2025,linear_regression,21.589406239966905
+16,Idaho,11,Washington DC,2024,2025,linear_regression,21.496706534682005
+46,South Dakota,9,Connecticut,2024,2025,linear_regression,21.450116864608034
+9,Connecticut,29,Missouri,2024,2025,linear_regression,21.327544517163005
+11,Washington DC,16,Idaho,2024,2025,linear_regression,21.32411630468272
+30,Montana,33,New Hampshire,2024,2025,linear_regression,21.316250872111908
+35,New Mexico,50,Vermont,2024,2025,linear_regression,21.272684885195197
+10,Delaware,29,Missouri,2024,2025,linear_regression,21.243154638849006
+9,Connecticut,40,Oklahoma,2024,2025,linear_regression,21.236641893817904
+10,Delaware,1,Alabama,2024,2025,linear_regression,21.190906516327487
+47,Tennessee,56,Wyoming,2024,2025,linear_regression,21.185151665845098
+30,Montana,44,Rhode Island,2024,2025,linear_regression,21.183607586987584
+13,Georgia,44,Rhode Island,2024,2025,linear_regression,21.155054337958937
+33,New Hampshire,55,Wisconsin,2024,2025,linear_regression,21.113916293702488
+44,Rhode Island,30,Montana,2024,2025,linear_regression,21.10384266023201
+20,Kansas,23,Maine,2024,2025,linear_regression,20.983114170588934
+2,Alaska,16,Idaho,2024,2025,linear_regression,20.805103461587116
+30,Montana,10,Delaware,2024,2025,linear_regression,20.696406377099905
+46,South Dakota,28,Mississippi,2024,2025,linear_regression,20.630706834395724
+26,Michigan,56,Wyoming,2024,2025,linear_regression,20.483382036619986
+50,Vermont,8,Colorado,2024,2025,linear_regression,20.46208102952623
+44,Rhode Island,45,South Carolina,2024,2025,linear_regression,20.379714794560428
+32,Nevada,40,Oklahoma,2024,2025,linear_regression,20.295319371766865
+46,South Dakota,45,South Carolina,2024,2025,linear_regression,20.25701708001992
+1,Alabama,23,Maine,2024,2025,linear_regression,20.241649590379154
+35,New Mexico,44,Rhode Island,2024,2025,linear_regression,20.204166164000412
+26,Michigan,23,Maine,2024,2025,linear_regression,20.162540938131485
+2,Alaska,30,Montana,2024,2025,linear_regression,20.10833544529182
+44,Rhode Island,26,Michigan,2024,2025,linear_regression,20.08435198544528
+5,Arkansas,56,Wyoming,2024,2025,linear_regression,20.003889818336233
+23,Maine,1,Alabama,2024,2025,linear_regression,19.963742770438117
+50,Vermont,35,New Mexico,2024,2025,linear_regression,19.907612244930895
+23,Maine,56,Wyoming,2024,2025,linear_regression,19.76483100663898
+30,Montana,13,Georgia,2024,2025,linear_regression,19.73488208964912
+9,Connecticut,38,North Dakota,2024,2025,linear_regression,19.64938472615396
+49,Utah,11,Washington DC,2024,2025,linear_regression,19.585622702113824
+30,Montana,19,Iowa,2024,2025,linear_regression,19.585328842276112
+32,Nevada,21,Kentucky,2024,2025,linear_regression,19.47228126355153
+21,Kentucky,30,Montana,2024,2025,linear_regression,19.441016668158824
+32,Nevada,28,Mississippi,2024,2025,linear_regression,19.433939807511074
+36,New York,46,South Dakota,2024,2025,linear_regression,19.32775658443571
+32,Nevada,31,Nebraska,2024,2025,linear_regression,19.317644967217802
+9,Connecticut,31,Nebraska,2024,2025,linear_regression,19.275553778426804
+10,Delaware,11,Washington DC,2024,2025,linear_regression,19.260909353921576
+54,West Virginia,5,Arkansas,2024,2025,linear_regression,19.2050388368323
+35,New Mexico,51,Virginia,2024,2025,linear_regression,19.05404961051382
+11,Washington DC,49,Utah,2024,2025,linear_regression,19.020156812287766
+44,Rhode Island,29,Missouri,2024,2025,linear_regression,19.00069956993717
+9,Connecticut,10,Delaware,2024,2025,linear_regression,18.988393061163656
+56,Wyoming,54,West Virginia,2024,2025,linear_regression,18.973888130990176
+34,New Jersey,46,South Dakota,2024,2025,linear_regression,18.957339787751145
+56,Wyoming,44,Rhode Island,2024,2025,linear_regression,18.897062288690606
+10,Delaware,30,Montana,2024,2025,linear_regression,18.79939804365327
+56,Wyoming,28,Mississippi,2024,2025,linear_regression,18.78965188285312
+8,Colorado,50,Vermont,2024,2025,linear_regression,18.716639346515713
+9,Connecticut,19,Iowa,2024,2025,linear_regression,18.71442432059338
+46,South Dakota,40,Oklahoma,2024,2025,linear_regression,18.679599970223585
+30,Montana,50,Vermont,2024,2025,linear_regression,18.65062544250531
+23,Maine,10,Delaware,2024,2025,linear_regression,18.64595885937188
+50,Vermont,30,Montana,2024,2025,linear_regression,18.48782506998404
+9,Connecticut,56,Wyoming,2024,2025,linear_regression,18.433138178717883
+8,Colorado,44,Rhode Island,2024,2025,linear_regression,18.204031314393447
+44,Rhode Island,56,Wyoming,2024,2025,linear_regression,17.981802230592606
+39,Ohio,56,Wyoming,2024,2025,linear_regression,17.926083428080446
+33,New Hampshire,37,North Carolina,2024,2025,linear_regression,17.89765144978297
+4,Arizona,54,West Virginia,2024,2025,linear_regression,17.725551230523102
+46,South Dakota,5,Arkansas,2024,2025,linear_regression,17.65033973917177
+25,Massachusetts,56,Wyoming,2024,2025,linear_regression,17.580725950561757
+31,Nebraska,23,Maine,2024,2025,linear_regression,17.49797533458237
+36,New York,56,Wyoming,2024,2025,linear_regression,17.44053165946324
+54,West Virginia,16,Idaho,2024,2025,linear_regression,17.387013013737175
+27,Minnesota,54,West Virginia,2024,2025,linear_regression,17.001563841043023
+10,Delaware,23,Maine,2024,2025,linear_regression,16.90166203054686
+10,Delaware,38,North Dakota,2024,2025,linear_regression,16.859014266123353
+33,New Hampshire,56,Wyoming,2024,2025,linear_regression,16.857109574207996
+16,Idaho,28,Mississippi,2024,2025,linear_regression,16.74235921127277
+20,Kansas,44,Rhode Island,2024,2025,linear_regression,16.681191855401153
+11,Washington DC,30,Montana,2024,2025,linear_regression,16.62921285959601
+32,Nevada,20,Kansas,2024,2025,linear_regression,16.625499385662152
+21,Kentucky,10,Delaware,2024,2025,linear_regression,16.584300441141544
+9,Connecticut,5,Arkansas,2024,2025,linear_regression,16.557263766501876
+44,Rhode Island,20,Kansas,2024,2025,linear_regression,16.536772217945632
+30,Montana,11,Washington DC,2024,2025,linear_regression,16.497106762959504
+23,Maine,38,North Dakota,2024,2025,linear_regression,16.388680908844698
+54,West Virginia,50,Vermont,2024,2025,linear_regression,16.361837687803146
+35,New Mexico,19,Iowa,2024,2025,linear_regression,16.322379893251565
+56,Wyoming,24,Maryland,2024,2025,linear_regression,16.27411657009654
+10,Delaware,35,New Mexico,2024,2025,linear_regression,16.20542525450547
+19,Iowa,44,Rhode Island,2024,2025,linear_regression,16.164478200982195
+56,Wyoming,51,Virginia,2024,2025,linear_regression,16.164105645390634
+21,Kentucky,44,Rhode Island,2024,2025,linear_regression,16.113645009358628
+33,New Hampshire,47,Tennessee,2024,2025,linear_regression,16.091051498532742
+44,Rhode Island,22,Louisiana,2024,2025,linear_regression,16.063201170322294
+22,Louisiana,10,Delaware,2024,2025,linear_regression,16.052475332535757
+56,Wyoming,50,Vermont,2024,2025,linear_regression,16.042089439095186
+50,Vermont,29,Missouri,2024,2025,linear_regression,16.019401438350258
+27,Minnesota,50,Vermont,2024,2025,linear_regression,15.8943768975425
+24,Maryland,35,New Mexico,2024,2025,linear_regression,15.75556788123427
+50,Vermont,56,Wyoming,2024,2025,linear_regression,15.647443131920475
+23,Maine,28,Mississippi,2024,2025,linear_regression,15.585366055055971
+4,Arizona,22,Louisiana,2024,2025,linear_regression,15.43880187317653
+41,Oregon,56,Wyoming,2024,2025,linear_regression,15.271614253914862
+33,New Hampshire,27,Minnesota,2024,2025,linear_regression,15.213439641780624
+54,West Virginia,49,Utah,2024,2025,linear_regression,15.105407228930865
+30,Montana,54,West Virginia,2024,2025,linear_regression,15.09816391993823
+51,Virginia,56,Wyoming,2024,2025,linear_regression,15.078989491154239
+44,Rhode Island,27,Minnesota,2024,2025,linear_regression,15.078121840781172
+10,Delaware,31,Nebraska,2024,2025,linear_regression,15.064731887238175
+10,Delaware,56,Wyoming,2024,2025,linear_regression,14.990558007274252
+2,Alaska,41,Oregon,2024,2025,linear_regression,14.667368789067531
+41,Oregon,2,Alaska,2024,2025,linear_regression,14.58102815063674
+38,North Dakota,35,New Mexico,2024,2025,linear_regression,14.577175104645448
+44,Rhode Island,37,North Carolina,2024,2025,linear_regression,14.566841631633217
+28,Mississippi,33,New Hampshire,2024,2025,linear_regression,14.50846900529276
+49,Utah,54,West Virginia,2024,2025,linear_regression,14.383254461466663
+8,Colorado,11,Washington DC,2024,2025,linear_regression,14.228180036310391
+46,South Dakota,33,New Hampshire,2024,2025,linear_regression,14.202731252098062
+56,Wyoming,10,Delaware,2024,2025,linear_regression,14.023612903062421
+35,New Mexico,45,South Carolina,2024,2025,linear_regression,14.022157859876955
+10,Delaware,22,Louisiana,2024,2025,linear_regression,14.020886839541241
+23,Maine,22,Louisiana,2024,2025,linear_regression,13.9388522231055
+30,Montana,22,Louisiana,2024,2025,linear_regression,13.90270156811573
+12,Florida,10,Delaware,2024,2025,linear_regression,13.868937180480842
+23,Maine,46,South Dakota,2024,2025,linear_regression,13.865082114715506
+23,Maine,40,Oklahoma,2024,2025,linear_regression,13.77696208983999
+38,North Dakota,10,Delaware,2024,2025,linear_regression,13.633760962169092
+40,Oklahoma,46,South Dakota,2024,2025,linear_regression,13.589069162875397
+35,New Mexico,28,Mississippi,2024,2025,linear_regression,13.539057222742429
+35,New Mexico,11,Washington DC,2024,2025,linear_regression,13.454955245609135
+28,Mississippi,56,Wyoming,2024,2025,linear_regression,13.349920391638967
+11,Washington DC,35,New Mexico,2024,2025,linear_regression,13.29335694204407
+33,New Hampshire,31,Nebraska,2024,2025,linear_regression,13.177105783312491
+30,Montana,20,Kansas,2024,2025,linear_regression,13.099651512511372
+38,North Dakota,23,Maine,2024,2025,linear_regression,13.072967381219883
+38,North Dakota,50,Vermont,2024,2025,linear_regression,13.017094381325258
+38,North Dakota,33,New Hampshire,2024,2025,linear_regression,12.826897519264918
+22,Louisiana,44,Rhode Island,2024,2025,linear_regression,12.819913589797771
+19,Iowa,54,West Virginia,2024,2025,linear_regression,12.819130412105864
+24,Maryland,56,Wyoming,2024,2025,linear_regression,12.812317552566867
+25,Massachusetts,5,Arkansas,2024,2025,linear_regression,12.77283853958555
+32,Nevada,35,New Mexico,2024,2025,linear_regression,12.746707221183534
+38,North Dakota,44,Rhode Island,2024,2025,linear_regression,12.60912373915452
+1,Alabama,56,Wyoming,2024,2025,linear_regression,12.594127117305682
+32,Nevada,5,Arkansas,2024,2025,linear_regression,12.5940627824639
+40,Oklahoma,33,New Hampshire,2024,2025,linear_regression,12.59218358404754
+45,South Carolina,46,South Dakota,2024,2025,linear_regression,12.582120858774587
+44,Rhode Island,55,Wisconsin,2024,2025,linear_regression,12.480259827026764
+50,Vermont,19,Iowa,2024,2025,linear_regression,12.432579290771073
+8,Colorado,10,Delaware,2024,2025,linear_regression,12.411222769349315
+56,Wyoming,11,Washington DC,2024,2025,linear_regression,12.317304201618576
+11,Washington DC,56,Wyoming,2024,2025,linear_regression,12.312684178592505
+56,Wyoming,47,Tennessee,2024,2025,linear_regression,12.177013145513463
+11,Washington DC,8,Colorado,2024,2025,linear_regression,12.118490711383437
+46,South Dakota,23,Maine,2024,2025,linear_regression,12.03427015859333
+28,Mississippi,30,Montana,2024,2025,linear_regression,12.025702152201838
+54,West Virginia,30,Montana,2024,2025,linear_regression,12.006150744920987
+23,Maine,19,Iowa,2024,2025,linear_regression,11.908602177968405
+50,Vermont,45,South Carolina,2024,2025,linear_regression,11.895672410916077
+12,Florida,30,Montana,2024,2025,linear_regression,11.81685229561608
+45,South Carolina,56,Wyoming,2024,2025,linear_regression,11.740083674190771
+17,Illinois,11,Washington DC,2024,2025,linear_regression,11.73287333967339
+33,New Hampshire,20,Kansas,2024,2025,linear_regression,11.603041408927865
+23,Maine,31,Nebraska,2024,2025,linear_regression,11.552579284490243
+44,Rhode Island,47,Tennessee,2024,2025,linear_regression,11.546515877579274
+40,Oklahoma,50,Vermont,2024,2025,linear_regression,11.520992600941568
+23,Maine,29,Missouri,2024,2025,linear_regression,11.512493845741247
+25,Massachusetts,31,Nebraska,2024,2025,linear_regression,11.463511020516933
+45,South Carolina,50,Vermont,2024,2025,linear_regression,11.437174251696177
+28,Mississippi,23,Maine,2024,2025,linear_regression,11.358474619201935
+25,Massachusetts,46,South Dakota,2024,2025,linear_regression,11.336902207812905
+45,South Carolina,44,Rhode Island,2024,2025,linear_regression,11.26425908884238
+38,North Dakota,54,West Virginia,2024,2025,linear_regression,11.258717939404335
+12,Florida,50,Vermont,2024,2025,linear_regression,11.015022133688738
+33,New Hampshire,28,Mississippi,2024,2025,linear_regression,10.994812946343352
+44,Rhode Island,38,North Dakota,2024,2025,linear_regression,10.976169996947064
+44,Rhode Island,5,Arkansas,2024,2025,linear_regression,10.973650026462337
+35,New Mexico,37,North Carolina,2024,2025,linear_regression,10.826691482149101
+54,West Virginia,31,Nebraska,2024,2025,linear_regression,10.821268118225639
+30,Montana,28,Mississippi,2024,2025,linear_regression,10.794785130539076
+30,Montana,21,Kentucky,2024,2025,linear_regression,10.768696972816066
+50,Vermont,40,Oklahoma,2024,2025,linear_regression,10.490658375765399
+22,Louisiana,50,Vermont,2024,2025,linear_regression,10.41405128141593
+8,Colorado,54,West Virginia,2024,2025,linear_regression,10.226090811147166
+26,Michigan,44,Rhode Island,2024,2025,linear_regression,10.154738395494377
+40,Oklahoma,10,Delaware,2024,2025,linear_regression,10.13360832996328
+4,Arizona,38,North Dakota,2024,2025,linear_regression,10.132959590168511
+55,Wisconsin,56,Wyoming,2024,2025,linear_regression,10.106900604696435
+54,West Virginia,8,Colorado,2024,2025,linear_regression,9.957457329255355
+54,West Virginia,56,Wyoming,2024,2025,linear_regression,9.912671279788917
+31,Nebraska,24,Maryland,2024,2025,linear_regression,9.861598169298695
+44,Rhode Island,18,Indiana,2024,2025,linear_regression,9.630280453919966
+44,Rhode Island,40,Oklahoma,2024,2025,linear_regression,9.52812461571149
+19,Iowa,33,New Hampshire,2024,2025,linear_regression,9.373871299348671
+33,New Hampshire,45,South Carolina,2024,2025,linear_regression,9.339851899820104
+55,Wisconsin,11,Washington DC,2024,2025,linear_regression,9.210895634510862
+46,South Dakota,24,Maryland,2024,2025,linear_regression,9.203107709363003
+9,Connecticut,28,Mississippi,2024,2025,linear_regression,8.946636566322866
+23,Maine,5,Arkansas,2024,2025,linear_regression,8.914510991128289
+33,New Hampshire,22,Louisiana,2024,2025,linear_regression,8.890598730208431
+40,Oklahoma,54,West Virginia,2024,2025,linear_regression,8.738557282637416
+35,New Mexico,54,West Virginia,2024,2025,linear_regression,8.703112542991
+54,West Virginia,35,New Mexico,2024,2025,linear_regression,8.698325428664646
+46,South Dakota,44,Rhode Island,2024,2025,linear_regression,8.657817167825748
+44,Rhode Island,31,Nebraska,2024,2025,linear_regression,8.62294234618529
+50,Vermont,38,North Dakota,2024,2025,linear_regression,8.428231548345849
+45,South Carolina,11,Washington DC,2024,2025,linear_regression,8.396234836199035
+22,Louisiana,46,South Dakota,2024,2025,linear_regression,8.276350466110763
+11,Washington DC,37,North Carolina,2024,2025,linear_regression,8.25925287321131
+33,New Hampshire,38,North Dakota,2024,2025,linear_regression,8.233107279915515
+56,Wyoming,5,Arkansas,2024,2025,linear_regression,8.203189761935562
+40,Oklahoma,44,Rhode Island,2024,2025,linear_regression,8.163779298552583
+1,Alabama,44,Rhode Island,2024,2025,linear_regression,8.145729931558037
+19,Iowa,10,Delaware,2024,2025,linear_regression,8.13984743395897
+46,South Dakota,22,Louisiana,2024,2025,linear_regression,8.13089226369118
+50,Vermont,27,Minnesota,2024,2025,linear_regression,8.016847021359219
+55,Wisconsin,44,Rhode Island,2024,2025,linear_regression,7.997939821719122
+1,Alabama,46,South Dakota,2024,2025,linear_regression,7.914024505419995
+44,Rhode Island,46,South Dakota,2024,2025,linear_regression,7.885244986696648
+50,Vermont,31,Nebraska,2024,2025,linear_regression,7.709799035269569
+46,South Dakota,32,Nevada,2024,2025,linear_regression,7.671246936035729
+46,South Dakota,10,Delaware,2024,2025,linear_regression,7.6025377347701735
+11,Washington DC,48,Texas,2024,2025,linear_regression,7.559111371101068
+31,Nebraska,10,Delaware,2024,2025,linear_regression,7.557629061729656
+33,New Hampshire,21,Kentucky,2024,2025,linear_regression,7.5509214355981555
+27,Minnesota,33,New Hampshire,2024,2025,linear_regression,7.546557181593613
+50,Vermont,22,Louisiana,2024,2025,linear_regression,7.447046161969915
+31,Nebraska,33,New Hampshire,2024,2025,linear_regression,7.344953464767087
+46,South Dakota,50,Vermont,2024,2025,linear_regression,7.331125675499649
+44,Rhode Island,19,Iowa,2024,2025,linear_regression,7.285795836866193
+33,New Hampshire,46,South Dakota,2024,2025,linear_regression,6.931690124281289
+5,Arkansas,54,West Virginia,2024,2025,linear_regression,6.851571392321915
+38,North Dakota,11,Washington DC,2024,2025,linear_regression,6.566387909860197
+5,Arkansas,44,Rhode Island,2024,2025,linear_regression,6.527441411530475
+18,Indiana,44,Rhode Island,2024,2025,linear_regression,6.424617074635975
+35,New Mexico,41,Oregon,2024,2025,linear_regression,6.187509340940828
+20,Kansas,54,West Virginia,2024,2025,linear_regression,6.167663354008745
+50,Vermont,28,Mississippi,2024,2025,linear_regression,6.114660373749928
+50,Vermont,46,South Dakota,2024,2025,linear_regression,6.028498875301857
+28,Mississippi,50,Vermont,2024,2025,linear_regression,6.003509687302724
+46,South Dakota,41,Oregon,2024,2025,linear_regression,5.716947096690319
+11,Washington DC,38,North Dakota,2024,2025,linear_regression,5.342478290346627
+16,Idaho,20,Kansas,2024,2025,linear_regression,5.056323929271834
+28,Mississippi,54,West Virginia,2024,2025,linear_regression,4.917088594767556
+10,Delaware,20,Kansas,2024,2025,linear_regression,4.811636030205861
+56,Wyoming,40,Oklahoma,2024,2025,linear_regression,4.665182449078344
+28,Mississippi,44,Rhode Island,2024,2025,linear_regression,4.664947846163024
+24,Maryland,46,South Dakota,2024,2025,linear_regression,4.663476409843241
+38,North Dakota,32,Nevada,2024,2025,linear_regression,4.5999181798500075
+46,South Dakota,1,Alabama,2024,2025,linear_regression,4.553409696046181
+10,Delaware,40,Oklahoma,2024,2025,linear_regression,4.38180321097375
+26,Michigan,50,Vermont,2024,2025,linear_regression,4.340600156561386
+10,Delaware,28,Mississippi,2024,2025,linear_regression,4.100924196336017
+4,Arizona,46,South Dakota,2024,2025,linear_regression,3.8452463906754346
+10,Delaware,5,Arkansas,2024,2025,linear_regression,3.509264320157854
+29,Missouri,44,Rhode Island,2024,2025,linear_regression,3.4502639091059777
+35,New Mexico,30,Montana,2024,2025,linear_regression,3.3918624241785906
+22,Louisiana,11,Washington DC,2024,2025,linear_regression,3.102222155977749
+1,Alabama,50,Vermont,2024,2025,linear_regression,2.993629364973309
+5,Arkansas,50,Vermont,2024,2025,linear_regression,2.942953681633732
+35,New Mexico,5,Arkansas,2024,2025,linear_regression,2.9171608259392627
+31,Nebraska,54,West Virginia,2024,2025,linear_regression,2.8322947835024195
+10,Delaware,46,South Dakota,2024,2025,linear_regression,2.7213861626331237
+11,Washington DC,46,South Dakota,2024,2025,linear_regression,2.4516521374595293
+46,South Dakota,11,Washington DC,2024,2025,linear_regression,2.3919917131591006
+44,Rhode Island,28,Mississippi,2024,2025,linear_regression,2.31248069460376
+38,North Dakota,56,Wyoming,2024,2025,linear_regression,2.2746962805911934
+10,Delaware,21,Kentucky,2024,2025,linear_regression,1.7813647981043133
+11,Washington DC,13,Georgia,2024,2025,linear_regression,1.750409358374803
+20,Kansas,11,Washington DC,2024,2025,linear_regression,1.747762963828297
+46,South Dakota,54,West Virginia,2024,2025,linear_regression,1.3252364801109593
+13,Georgia,11,Washington DC,2024,2025,linear_regression,1.11122859932631
+11,Washington DC,20,Kansas,2024,2025,linear_regression,0.8642438554959391
+31,Nebraska,11,Washington DC,2024,2025,linear_regression,0.6468740353833375
+10,Delaware,19,Iowa,2024,2025,linear_regression,0.6240094155335392
+11,Washington DC,31,Nebraska,2024,2025,linear_regression,0.4192636440694706
+11,Washington DC,40,Oklahoma,2024,2025,linear_regression,0.3789654786705938
+40,Oklahoma,11,Washington DC,2024,2025,linear_regression,0.17521531703773974
+50,Vermont,21,Kentucky,2024,2025,linear_regression,0.0
+11,Washington DC,29,Missouri,2024,2025,linear_regression,0.0
+11,Washington DC,25,Massachusetts,2024,2025,linear_regression,0.0
+11,Washington DC,33,New Hampshire,2024,2025,linear_regression,0.0
+11,Washington DC,50,Vermont,2024,2025,linear_regression,0.0
+29,Missouri,11,Washington DC,2024,2025,linear_regression,0.0
+23,Maine,11,Washington DC,2024,2025,linear_regression,0.0
+50,Vermont,54,West Virginia,2024,2025,linear_regression,0.0
+11,Washington DC,45,South Carolina,2024,2025,linear_regression,0.0
+11,Washington DC,44,Rhode Island,2024,2025,linear_regression,0.0
+11,Washington DC,39,Ohio,2024,2025,linear_regression,0.0
+35,New Mexico,38,North Dakota,2024,2025,linear_regression,0.0
+35,New Mexico,46,South Dakota,2024,2025,linear_regression,0.0
+4,Arizona,56,Wyoming,2024,2025,linear_regression,0.0
+5,Arkansas,11,Washington DC,2024,2025,linear_regression,0.0
+36,New York,11,Washington DC,2024,2025,linear_regression,0.0
+50,Vermont,11,Washington DC,2024,2025,linear_regression,0.0
+50,Vermont,10,Delaware,2024,2025,linear_regression,0.0
+38,North Dakota,47,Tennessee,2024,2025,linear_regression,0.0
+10,Delaware,50,Vermont,2024,2025,linear_regression,0.0
+18,Indiana,11,Washington DC,2024,2025,linear_regression,0.0
+35,New Mexico,56,Wyoming,2024,2025,linear_regression,0.0
+16,Idaho,46,South Dakota,2024,2025,linear_regression,0.0
+10,Delaware,44,Rhode Island,2024,2025,linear_regression,0.0
+10,Delaware,54,West Virginia,2024,2025,linear_regression,0.0
+44,Rhode Island,54,West Virginia,2024,2025,linear_regression,0.0
+11,Washington DC,12,Florida,2024,2025,linear_regression,0.0
+11,Washington DC,17,Illinois,2024,2025,linear_regression,0.0
+11,Washington DC,18,Indiana,2024,2025,linear_regression,0.0
+11,Washington DC,1,Alabama,2024,2025,linear_regression,0.0
+11,Washington DC,5,Arkansas,2024,2025,linear_regression,0.0
+11,Washington DC,9,Connecticut,2024,2025,linear_regression,0.0
+11,Washington DC,10,Delaware,2024,2025,linear_regression,0.0
+5,Arkansas,10,Delaware,2024,2025,linear_regression,0.0
+11,Washington DC,27,Minnesota,2024,2025,linear_regression,0.0
+11,Washington DC,26,Michigan,2024,2025,linear_regression,0.0
+11,Washington DC,28,Mississippi,2024,2025,linear_regression,0.0
+11,Washington DC,34,New Jersey,2024,2025,linear_regression,0.0
+11,Washington DC,47,Tennessee,2024,2025,linear_regression,0.0
+33,New Hampshire,54,West Virginia,2024,2025,linear_regression,0.0
+54,West Virginia,33,New Hampshire,2024,2025,linear_regression,0.0
+54,West Virginia,19,Iowa,2024,2025,linear_regression,0.0
+33,New Hampshire,10,Delaware,2024,2025,linear_regression,0.0
+33,New Hampshire,11,Washington DC,2024,2025,linear_regression,0.0
+27,Minnesota,11,Washington DC,2024,2025,linear_regression,0.0
+9,Connecticut,54,West Virginia,2024,2025,linear_regression,0.0
+13,Georgia,30,Montana,2024,2025,linear_regression,0.0
+39,Ohio,11,Washington DC,2024,2025,linear_regression,0.0
+19,Iowa,24,Maryland,2024,2025,linear_regression,0.0
+19,Iowa,11,Washington DC,2024,2025,linear_regression,0.0
+47,Tennessee,11,Washington DC,2024,2025,linear_regression,0.0
+9,Connecticut,11,Washington DC,2024,2025,linear_regression,0.0
+46,South Dakota,35,New Mexico,2024,2025,linear_regression,0.0
+25,Massachusetts,11,Washington DC,2024,2025,linear_regression,0.0
+26,Michigan,11,Washington DC,2024,2025,linear_regression,0.0
+32,Nevada,46,South Dakota,2024,2025,linear_regression,0.0
+28,Mississippi,11,Washington DC,2024,2025,linear_regression,0.0
+54,West Virginia,44,Rhode Island,2024,2025,linear_regression,0.0
+54,West Virginia,46,South Dakota,2024,2025,linear_regression,0.0
+44,Rhode Island,21,Kentucky,2024,2025,linear_regression,0.0
+11,Washington DC,19,Iowa,2024,2025,linear_regression,0.0
+11,Washington DC,21,Kentucky,2024,2025,linear_regression,0.0
+11,Washington DC,55,Wisconsin,2024,2025,linear_regression,0.0
+21,Kentucky,11,Washington DC,2024,2025,linear_regression,0.0
+12,Florida,11,Washington DC,2024,2025,linear_regression,0.0
+11,Washington DC,54,West Virginia,2024,2025,linear_regression,0.0
+10,Delaware,33,New Hampshire,2024,2025,linear_regression,0.0
+44,Rhode Island,10,Delaware,2024,2025,linear_regression,0.0
+11,Washington DC,23,Maine,2024,2025,linear_regression,0.0
+44,Rhode Island,11,Washington DC,2024,2025,linear_regression,0.0
+11,Washington DC,22,Louisiana,2024,2025,linear_regression,0.0
+1,Alabama,11,Washington DC,2024,2025,linear_regression,0.0
